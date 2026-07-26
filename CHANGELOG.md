@@ -1,5 +1,13 @@
 # Coaching Operating System Changelog
 
+## 2026-07-26 - Coaching integration migration
+
+- Migrated the `coach-triathlon` skill from the retired Library state-file model to the canonical GitHub manifest workflow.
+- Migrated morning and weekly scheduled coaching tasks to the version 1.2 read order and source-of-truth precedence.
+- Added higher-risk session gates for current subjective readiness, pain, illness, and available time.
+- Required scheduled outputs to audit manifest version, active-state freshness, latest COROS activity, and rolling-queue confirmation.
+- Kept weekly queue proposals provisional until explicit athlete confirmation.
+
 ## 2026-07-26 - v1.2 finalized operating structure
 
 - Moved canonical coaching knowledge into `knowledge/`.
