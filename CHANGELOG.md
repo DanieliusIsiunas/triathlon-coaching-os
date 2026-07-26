@@ -1,5 +1,14 @@
 # Coaching Operating System Changelog
 
+## 2026-07-26 - v1.2 finalized operating structure
+
+- Moved canonical coaching knowledge into `knowledge/`.
+- Kept `README.md`, `PROJECT-INSTRUCTIONS.md`, and `CHANGELOG.md` at the repository root.
+- Added `templates/race-review.md` and `templates/weekly-review.md`.
+- Defined `reviews/races/` as the location for completed race reviews.
+- Updated all operating references to use canonical repository paths.
+- Activated Coaching Operating System version 1.2 as the ready-to-use structure.
+
 ## 2026-07-26 - v1.0
 
 - Promoted the modular Coaching Operating System from prototype v0.2 to canonical v1.0.
