@@ -1,6 +1,6 @@
 # Learning Log
 
-Last updated: 2026-07-26
+Last updated: 2026-07-27
 
 This file stores meaningful coaching hypotheses, interventions, and validated personal response patterns. It is not a daily diary.
 
@@ -33,3 +33,13 @@ This file stores meaningful coaching hypotheses, interventions, and validated pe
 - Validation point: Review after 3-5 coaching decisions.
 - Outcome: Pending.
 - Confidence: high.
+
+## 2026-07-27 - Pre-swim carbohydrate gel trial
+
+- Observation: One -3H gel providing 30 g carbohydrate was used shortly before a 2.00 km pool swim completed in 47:08. Danielius reported no gastrointestinal discomfort, disliked the taste, and felt more energetic than during usual swims.
+- Hypothesis: The gel is acutely tolerable before swimming and may be usable before a triathlon start, but its effect on perceived energy is not yet isolated from readiness, prior food, and expectation.
+- Decision: Keep the gel as a provisional pre-start option and repeat the same protocol in at least one comparable swim or race-simulation session before race day.
+- Expected result: No gastrointestinal symptoms during swimming and a repeatable subjective energy benefit.
+- Validation point: Repeat tolerance, palatability, and perceived-energy response under comparable timing and intensity.
+- Outcome: First gastrointestinal-tolerance test passed; palatability was poor; subjective energy response was positive.
+- Confidence: medium for acute tolerance; low for a performance or energy benefit.
