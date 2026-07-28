@@ -11,9 +11,10 @@ Last updated: 2026-07-28
 
 ## Current health constraints
 
-- Latest confirmed lower-calf report on 2026-07-28: both calves are barely perceptible, approximately 0.5/10 overall.
-- Five single-leg heel raises on each side produced no pain or tension.
-- This is a clear improvement from the approximately 2/10 bilateral response reported after the 2026-07-23 run, but the remaining same-morning run-safety gates have not all been confirmed.
+- Latest post-ride report on 2026-07-28: both calves were absent during and after a 65-minute bike ride completed at RPE 4/10.
+- Earlier the same day, five single-leg heel raises on each side produced no pain or tension, with at most a barely perceptible 0.5/10 sensation.
+- This is a clear improvement from the approximately 2/10 bilateral response reported after the 2026-07-23 run. Non-impact bike tolerance is confirmed, but the remaining same-morning run-safety gates have not all been confirmed.
+- A mild lower-back pulling sensation occurred during the ride. This matches a long-standing cycling-associated pattern, has been tolerable since bike fit, and was absent after the ride; it creates no current training restriction.
 - Before the next run, confirm walking and stair comfort, absence of morning stiffness, energy, general soreness, illness status, and enough time for an unhurried warm-up.
 - Sharp, focal, worsening or increasingly asymmetric symptoms, swelling, altered gait, or pain during ordinary walking reject return to running and support professional assessment.
 
