@@ -1,6 +1,6 @@
 # Active State
 
-Last updated: 2026-07-26
+Last updated: 2026-07-28
 
 ## Current status
 
@@ -11,10 +11,10 @@ Last updated: 2026-07-26
 
 ## Current health constraints
 
-- Latest confirmed lower-calf report: mild bilateral lower-calf tension, approximately 2/10, mainly noticeable during a single-leg heel raise, with the right side slightly stronger.
-- It was absent during cycling.
-- Current resolution status has not been confirmed after 2026-07-25.
-- Before the next run or calf-loading progression, confirm walking and stair comfort, morning symptoms, and bilateral plus single-leg heel-raise response.
+- Latest confirmed lower-calf report on 2026-07-28: both calves are barely perceptible, approximately 0.5/10 overall.
+- Five single-leg heel raises on each side produced no pain or tension.
+- This is a clear improvement from the approximately 2/10 bilateral response reported after the 2026-07-23 run, but the remaining same-morning run-safety gates have not all been confirmed.
+- Before the next run, confirm walking and stair comfort, absence of morning stiffness, energy, general soreness, illness status, and enough time for an unhurried warm-up.
 - Sharp, focal, worsening or increasingly asymmetric symptoms, swelling, altered gait, or pain during ordinary walking reject return to running and support professional assessment.
 
 ## Current session queue
