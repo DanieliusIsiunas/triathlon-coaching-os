@@ -1,6 +1,6 @@
 # Athlete Profile
 
-Last updated: 2026-07-26
+Last updated: 2026-07-28
 
 ## Identity and physiology
 
@@ -26,6 +26,7 @@ Last updated: 2026-07-26
 - History of Achilles morning discomfort.
 - History of calf contusion and episodic calf tightness.
 - Mild lumbar degenerative findings and episodic bilateral lower-back pain.
+- Cycling has provoked mild lower-back discomfort for years. A bike fit reduced it to a tolerable, transient sensation that resolves after riding.
 - Historical injuries do not automatically create current restrictions. Current symptoms must be checked before high-impact changes.
 
 ## Equipment and data sources
