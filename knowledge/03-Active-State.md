@@ -1,6 +1,6 @@
 # Active State
 
-Last updated: 2026-07-28
+Last updated: 2026-07-29
 
 ## Current status
 
@@ -11,11 +11,12 @@ Last updated: 2026-07-28
 
 ## Current health constraints
 
-- Latest post-ride report on 2026-07-28: both calves were absent during and after a 65-minute bike ride completed at RPE 4/10.
-- Earlier the same day, five single-leg heel raises on each side produced no pain or tension, with at most a barely perceptible 0.5/10 sensation.
-- This is a clear improvement from the approximately 2/10 bilateral response reported after the 2026-07-23 run. Non-impact bike tolerance is confirmed, but the remaining same-morning run-safety gates have not all been confirmed.
-- A mild lower-back pulling sensation occurred during the ride. This matches a long-standing cycling-associated pattern, has been tolerable since bike fit, and was absent after the ride; it creates no current training restriction.
-- Before the next run, confirm walking and stair comfort, absence of morning stiffness, energy, general soreness, illness status, and enough time for an unhurried warm-up.
+- The conditional return-to-run test was completed on 2026-07-29: 31:12, 5.31 km, average pace 5:52/km, average heart rate 153 bpm.
+- Post-run report: general wellbeing was very good, with an isolated 1.5/10 pulling sensation in the lower right calf across the inner and outer aspects. Danielius described the area as approximately where the soleus would be; this is a location description, not a diagnosis.
+- The activity was somewhat larger and less controlled than the prescribed 20-25 minute very easy test: the fastest kilometre was 5:24/km, and COROS classified the session as threshold-focused. A mild post-run response therefore does not yet establish failed impact tolerance, but full tolerance is not confirmed until the next-morning response is known.
+- No further running, jumping, or demanding calf strength work on 2026-07-29. Normal walking and gentle ankle movement are acceptable if symptoms do not increase.
+- The next run remains conditional. Reassess first-step stiffness, walking and stairs, and five single-leg heel raises on 2026-07-30. Progress only if sensation is back to 0-1/10 and no gate fails.
+- A mild lower-back pulling sensation during cycling matches a long-standing pattern, is tolerable since bike fit, and resolves after riding; it creates no current training restriction.
 - Sharp, focal, worsening or increasingly asymmetric symptoms, swelling, altered gait, or pain during ordinary walking reject return to running and support professional assessment.
 
 ## Current session queue
@@ -27,11 +28,11 @@ Last updated: 2026-07-28
    - Target: 65-75 minutes with 3 × 10 minutes at RPE 6/10 and 4 minutes easy between repetitions.
    - Stretch: 85-90 minutes, preserving the same quality work and adding only easy riding.
 
-2. **Conditional return-to-run test**
-   - Start with 5 minutes walking, then 15-25 minutes of very easy running on a flat surface.
-   - Do not increase pace.
-   - Extend to 30-35 minutes only if calf sensation remains 0-1/10 during the session and is not worse the next morning.
-   - This session remains conditional until all run-safety gates below are confirmed on the day.
+2. **Conditional easy-run progression**
+   - The first return-to-run test was completed on 2026-07-29 with mild 1.5/10 lower-right-calf tension afterward.
+   - Do not repeat running until the next-morning response is known and at least one non-impact day has passed.
+   - If all gates pass and calf sensation is 0-1/10, use 5 minutes walking plus 20-30 minutes of genuinely easy running on a flat surface, without pace increases.
+   - If stiffness appears, sensation remains above 1/10, or symptoms worsen, keep running conditional and select swimming or easy cycling instead.
 
 3. **Longer aerobic bike**
    - Minimum: 60 minutes.
