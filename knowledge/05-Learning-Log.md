@@ -1,6 +1,6 @@
 # Learning Log
 
-Last updated: 2026-07-27
+Last updated: 2026-07-30
 
 This file stores meaningful coaching hypotheses, interventions, and validated personal response patterns. It is not a daily diary.
 
@@ -43,3 +43,12 @@ This file stores meaningful coaching hypotheses, interventions, and validated pe
 - Validation point: Repeat tolerance, palatability, and perceived-energy response under comparable timing and intensity.
 - Outcome: First gastrointestinal-tolerance test passed; palatability was poor; subjective energy response was positive.
 - Confidence: medium for acute tolerance; low for a performance or energy benefit.
+
+## 2026-07-30 - Swim-efficiency improvement
+
+- Observation: Danielius reports a clear improvement in swimming over roughly nine months. Current comparable pool sessions support the perception: longer swims are being completed at a faster pace and lower heart rate than earlier in the season, while perceived effort remains moderate.
+- Hypothesis: Repeated swimming has improved technique and aerobic efficiency enough that the swim is now a maintenance-and-transfer priority rather than the main limiter for the Druskininkai goal.
+- Decision: Preserve regular technique and aerobic swims while prioritizing bike speed, bike-to-run durability, and open-water transfer.
+- Validation point: Repeatable 1.5-2.3 km pool efficiency plus open-water pace, sighting, and comfort in the wetsuit.
+- Outcome: Pool-efficiency improvement supported; open-water transfer remains to be validated.
+- Confidence: medium-high for pool improvement; medium for race transfer.
