@@ -1,6 +1,6 @@
 # Active State
 
-Last updated: 2026-07-29
+Last updated: 2026-07-30
 
 ## Current status
 
@@ -13,9 +13,9 @@ Last updated: 2026-07-29
 
 - The conditional return-to-run test was completed on 2026-07-29: 31:12, 5.31 km, average pace 5:52/km, average heart rate 153 bpm.
 - Symptom report: session Rate of Perceived Exertion (RPE) was 4/10 and general wellbeing was very good. During the run, the lower-right-calf pulling sensation was barely perceptible and difficult to distinguish from normal muscular work; it did not alter the running experience or gait. After the run, Danielius rated the isolated sensation at approximately 1.5/10 across the inner and outer aspects of the lower calf, approximately where the soleus would be; this is a location description, not a diagnosis.
-- The activity was somewhat larger and less controlled than the prescribed 20-25 minute very easy test: the fastest kilometre was 5:24/km, and COROS classified the session as threshold-focused. The mild, non-progressive sensation does not by itself indicate failed impact tolerance, but full tolerance is not confirmed until the next-morning response is known.
-- No further running, jumping, or demanding calf strength work on 2026-07-29. Normal walking and gentle ankle movement are acceptable if symptoms do not increase.
-- The next run remains conditional. Reassess first-step stiffness, walking and stairs, and five single-leg heel raises on 2026-07-30. Progress only if sensation is back to 0-1/10 and no gate fails.
+- The activity was somewhat larger and less controlled than the prescribed 20-25 minute very easy test: the fastest kilometre was 5:24/km, and COROS classified the session as threshold-focused.
+- Next-morning response on 2026-07-30: no stiffness; general light lower-calf tension was approximately 1/10; single-leg heel raises were normal and produced only non-sharp muscular tension. The return-to-run test is considered tolerated.
+- Use 2026-07-30 as a non-impact day. The next easy-run progression may occur from 2026-07-31 only if all morning safety gates pass; this does not yet permit fast or long running.
 - A mild lower-back pulling sensation during cycling matches a long-standing pattern, is tolerable since bike fit, and resolves after riding; it creates no current training restriction.
 - Sharp, focal, worsening or increasingly asymmetric symptoms, swelling, altered gait, or pain during ordinary walking reject return to running and support professional assessment.
 
@@ -29,9 +29,9 @@ Last updated: 2026-07-29
    - Stretch: 85-90 minutes, preserving the same quality work and adding only easy riding.
 
 2. **Conditional easy-run progression**
-   - The first return-to-run test was completed on 2026-07-29 with mild 1.5/10 lower-right-calf tension afterward.
-   - Do not repeat running until the next-morning response is known and at least one non-impact day has passed.
-   - If all gates pass and calf sensation is 0-1/10, use 5 minutes walking plus 20-30 minutes of genuinely easy running on a flat surface, without pace increases.
+   - The first return-to-run test was tolerated: mild 1.5/10 lower-right-calf tension afterward reduced to approximately 1/10 the next morning without stiffness or a failed heel-raise test.
+   - Keep 2026-07-30 as the required non-impact day.
+   - From 2026-07-31, if all gates pass and calf sensation is 0-1/10, use 5 minutes walking plus 20-30 minutes of genuinely easy running on a flat surface, without pace increases.
    - If stiffness appears, sensation remains above 1/10, or symptoms worsen, keep running conditional and select swimming or easy cycling instead.
 
 3. **Longer aerobic bike**
