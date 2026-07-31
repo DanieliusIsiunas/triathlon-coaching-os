@@ -1,6 +1,6 @@
 # Learning Log
 
-Last updated: 2026-07-30
+Last updated: 2026-07-31
 
 This file stores meaningful coaching hypotheses, interventions, and validated personal response patterns. It is not a daily diary.
 
@@ -52,3 +52,13 @@ This file stores meaningful coaching hypotheses, interventions, and validated pe
 - Validation point: Repeatable 1.5-2.3 km pool efficiency plus open-water pace, sighting, and comfort in the wetsuit.
 - Outcome: Pool-efficiency improvement supported; open-water transfer remains to be validated.
 - Confidence: medium-high for pool improvement; medium for race transfer.
+
+## 2026-07-31 - Long-ride fueling trial
+
+- Observation: During a two-hour base-focused gravel ride rated 6/10, Danielius consumed nearly one 53 ml Decathlon +3H caffeinated gel in small portions beginning after approximately 10 km, with water after each portion, plus approximately 0.5 L water containing an unmeasured amount of salt. The gel was palatable, and no gastrointestinal problem was reported. Immediate calf pain was 0/10.
+- Hypothesis: Dividing the gel into frequent small portions is behaviorally and gastrointestinally tolerable, but approximately 23 g carbohydrate total and 0.5 L fluid are below the intended long-session fueling and hydration range.
+- Decision: Preserve the small, frequent intake pattern. On the next comparable ride, target 30-45 g carbohydrate and approximately 500-750 ml fluid per hour, using no more than one caffeinated gel and supplying the remaining carbohydrate through non-caffeinated gels or drink.
+- Expected result: Stable late-session energy and no gastrointestinal discomfort without relying on an untested race-day increase.
+- Validation point: Record total carbohydrate, fluid, palatability, gastrointestinal response, and perceived energy during the final 30 minutes.
+- Outcome: Palatability and acute tolerance passed; carbohydrate and fluid dose were insufficient as a race-fueling rehearsal.
+- Confidence: high for intake-dose assessment; medium for the initial fluid target because individual sweat loss has not been measured.
