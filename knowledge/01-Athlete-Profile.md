@@ -1,6 +1,6 @@
 # Athlete Profile
 
-Last updated: 2026-07-28
+Last updated: 2026-07-31
 
 ## Identity and physiology
 
@@ -33,6 +33,7 @@ Last updated: 2026-07-28
 
 - COROS is the primary objective training-data source.
 - Watch: COROS Pace 4.
+- COROS Pace 4 is unreliable for Danielius's open-water swim recording; use manual distance and duration reports for those sessions and do not infer that an unrecorded swim was skipped.
 - Heart-rate monitor: Polar H10.
 - Bike: Canyon Grizl gravel bike.
 - Pool membership: weekdays.
