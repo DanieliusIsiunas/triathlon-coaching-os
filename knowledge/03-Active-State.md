@@ -1,6 +1,6 @@
 # Active State
 
-Last updated: 2026-07-30
+Last updated: 2026-07-31
 
 ## Current status
 
@@ -8,6 +8,7 @@ Last updated: 2026-07-30
 - No live COROS telemetry is stored here.
 - The rolling session queue below was confirmed by Danielius on 2026-07-26.
 - Sessions are not tied to fixed weekdays. Select the highest-priority feasible session using current readiness, recent activity, family availability, and weather.
+- The longer aerobic bike key session was completed on 2026-07-31; do not repeat it as a make-up session.
 
 ## Current health constraints
 
@@ -15,7 +16,7 @@ Last updated: 2026-07-30
 - Symptom report: session Rate of Perceived Exertion (RPE) was 4/10 and general wellbeing was very good. During the run, the lower-right-calf pulling sensation was barely perceptible and difficult to distinguish from normal muscular work; it did not alter the running experience or gait. After the run, Danielius rated the isolated sensation at approximately 1.5/10 across the inner and outer aspects of the lower calf, approximately where the soleus would be; this is a location description, not a diagnosis.
 - The activity was somewhat larger and less controlled than the prescribed 20-25 minute very easy test: the fastest kilometre was 5:24/km, and COROS classified the session as threshold-focused.
 - Next-morning response on 2026-07-30: no stiffness; general light lower-calf tension was approximately 1/10; single-leg heel raises were normal and produced only non-sharp muscular tension. The return-to-run test is considered tolerated.
-- Use 2026-07-30 as a non-impact day. The next easy-run progression may occur from 2026-07-31 only if all morning safety gates pass; this does not yet permit fast or long running.
+- The required non-impact day was completed on 2026-07-30. After the longer aerobic bike on 2026-07-31, the next run remains conditional on the following morning response and all safety gates; this does not yet permit fast or long running.
 - A mild lower-back pulling sensation during cycling matches a long-standing pattern, is tolerable since bike fit, and resolves after riding; it creates no current training restriction.
 - Sharp, focal, worsening or increasingly asymmetric symptoms, swelling, altered gait, or pain during ordinary walking reject return to running and support professional assessment.
 
@@ -34,11 +35,10 @@ Last updated: 2026-07-30
    - From 2026-07-31, if all gates pass and calf sensation is 0-1/10, use 5 minutes walking plus 20-30 minutes of genuinely easy running on a flat surface, without pace increases.
    - If stiffness appears, sensation remains above 1/10, or symptoms worsen, keep running conditional and select swimming or easy cycling instead.
 
-3. **Longer aerobic bike**
-   - Minimum: 60 minutes.
-   - Target: 90 minutes.
-   - Stretch: 105-120 minutes while practicing 30-45 g carbohydrate per hour.
-   - An 8-12 minute easy transition run is allowed only after the return-to-run test has been tolerated without a same-day or next-morning symptom increase and all run-safety gates are met again.
+3. **Longer aerobic bike - completed 2026-07-31**
+   - Completed as a two-hour base-focused gravel ride, within the stretch-duration target.
+   - Do not repeat it during the current queue or add a compensatory session.
+   - Reassess next-morning recovery and calf response before the next lower-body session.
 
 ### Supporting
 
