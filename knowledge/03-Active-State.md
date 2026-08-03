@@ -1,6 +1,6 @@
 # Active State
 
-Last updated: 2026-08-01
+Last updated: 2026-08-03
 
 ## Current status
 
@@ -18,7 +18,8 @@ Last updated: 2026-08-01
 - Next-morning response on 2026-07-30: no stiffness; general light lower-calf tension was approximately 1/10; single-leg heel raises were normal and produced only non-sharp muscular tension. The return-to-run test is considered tolerated.
 - The required non-impact day was completed on 2026-07-30. The longer aerobic bike and short open-water swim on 2026-07-31 produced no immediate calf pain (0/10).
 - A second easy-run progression was completed on 2026-08-01: 40:22, 6.01 km, average pace 6:43/km, average heart rate 147 bpm, and RPE 3/10. Danielius felt approximately 1.5/10 in the right lower calf during the first kilometre; it then settled and he continued running comfortably. After the run, the sensation was approximately 1/10 only during a heel raise. No gait change or worsening during the session was reported.
-- This response supports improving impact tolerance, but the next-morning reaction must still be checked before progressing. Fast or long running is not yet permitted.
+- Follow-up on 2026-08-03: after a 1.70 km pool swim rated RPE 6/10, the right calf felt normal and a heel raise produced 0/10 sensation. The 2026-08-01 easy-run progression is therefore considered tolerated.
+- The calf currently creates no restriction for easy running when the existing safety gates pass. Continue gradual progression by increasing only one running variable at a time; do not combine a meaningful speed increase with a meaningful duration increase in the next run.
 - A mild lower-back pulling sensation during cycling matches a long-standing pattern, is tolerable since bike fit, and resolves after riding; it creates no current training restriction.
 - Sharp, focal, worsening or increasingly asymmetric symptoms, swelling, altered gait, or pain during ordinary walking reject return to running and support professional assessment.
 
@@ -31,11 +32,11 @@ Last updated: 2026-08-01
    - Target: 65-75 minutes with 3 × 10 minutes at RPE 6/10 and 4 minutes easy between repetitions.
    - Stretch: 85-90 minutes, preserving the same quality work and adding only easy riding.
 
-2. **Conditional easy-run progression**
-   - The first return-to-run test and the second easy-run progression on 2026-08-01 were tolerated during the sessions, with the right lower-calf sensation settling rather than worsening.
-   - Do not add another run until the next-morning response to the 2026-08-01 run is checked.
-   - If there is no stiffness, walking and stairs are normal, and heel raises produce no more than 0-1/10 sensation, easy-run progression may continue. Fast or long running remains restricted.
-   - If stiffness appears, sensation remains above 1/10, or symptoms worsen, keep running conditional and select swimming or easy cycling instead.
+2. **Easy-run progression**
+   - The first return-to-run test and the second easy-run progression on 2026-08-01 were tolerated, with the right lower-calf sensation settling rather than worsening.
+   - Follow-up on 2026-08-03 confirmed 0/10 sensation during a heel raise after swimming, so easy running may continue when the safety gates pass.
+   - Increase only one variable at a time in the next run: duration or speed, not both.
+   - If stiffness appears, sensation rises above 1/10, or symptoms worsen, return running to conditional status and select swimming or easy cycling instead.
 
 3. **Longer aerobic bike - completed 2026-07-31**
    - Completed as a two-hour base-focused gravel ride, within the stretch-duration target.
