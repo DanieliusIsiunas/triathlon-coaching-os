@@ -1,6 +1,6 @@
 # Athlete Profile
 
-Last updated: 2026-07-31
+Last updated: 2026-08-06
 
 ## Identity and physiology
 
@@ -35,7 +35,11 @@ Last updated: 2026-07-31
 - Watch: COROS Pace 4.
 - COROS Pace 4 is unreliable for Danielius's open-water swim recording; use manual distance and duration reports for those sessions and do not infer that an unrecorded swim was skipped.
 - Heart-rate monitor: Polar H10.
-- Bike: Canyon Grizl gravel bike.
+- Bike: Canyon Grizl CF SL 7, size 2XL.
+  - Frame geometry: 644 mm stack, 436 mm reach, 73.5° seat-tube angle.
+  - Cockpit: 100 mm stem, 460 mm handlebar, 27.5 mm headset spacers.
+  - Cranks and gearing: 175 mm Shimano RX600 cranks, 46/30 chainrings, Shimano GRX RX810 2x11 shifting, 11-34 cassette.
+  - Wheels: DT Swiss C 1850 Spline db.
 - Pool membership: weekdays.
 
 ## Coaching preferences
