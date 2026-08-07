@@ -1,6 +1,6 @@
 # Active State
 
-Last updated: 2026-08-03
+Last updated: 2026-08-07
 
 ## Current status
 
@@ -9,6 +9,7 @@ Last updated: 2026-08-03
 - The rolling session queue below was confirmed by Danielius on 2026-07-26.
 - Sessions are not tied to fixed weekdays. Select the highest-priority feasible session using current readiness, recent activity, family availability, and weather.
 - The longer aerobic bike key session was completed on 2026-07-31; do not repeat it as a make-up session.
+- The controlled bike-tempo key session was completed on 2026-08-07 within a longer gravel ride; do not repeat it as a make-up session.
 
 ## Current health constraints
 
@@ -27,10 +28,10 @@ Last updated: 2026-08-03
 
 ### Key
 
-1. **Controlled bike tempo**
-   - Minimum: 45 minutes with 2 × 8 minutes at Rate of Perceived Exertion (RPE) 6/10.
-   - Target: 65-75 minutes with 3 × 10 minutes at RPE 6/10 and 4 minutes easy between repetitions.
-   - Stretch: 85-90 minutes, preserving the same quality work and adding only easy riding.
+1. **Controlled bike tempo - completed 2026-08-07**
+   - Completed within a longer gravel ride. The faster gravel work around 30-40 km felt like RPE 8/10, followed by an approximately five-minute stop and a strong, sustainable final 10 km.
+   - Danielius reported that the body felt entirely normal during and after the ride and that he could have continued.
+   - The combination of quality work and overall session load is sufficient for this queue; do not repeat the tempo session as a make-up session.
 
 2. **Easy-run progression**
    - The first return-to-run test and the second easy-run progression on 2026-08-01 were tolerated, with the right lower-calf sensation settling rather than worsening.
