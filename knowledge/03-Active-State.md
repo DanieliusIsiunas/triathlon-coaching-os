@@ -1,6 +1,6 @@
 # Active State
 
-Last updated: 2026-08-07
+Last updated: 2026-08-08
 
 ## Current status
 
@@ -10,6 +10,7 @@ Last updated: 2026-08-07
 - Sessions are not tied to fixed weekdays. Select the highest-priority feasible session using current readiness, recent activity, family availability, and weather.
 - The longer aerobic bike key session was completed on 2026-07-31; do not repeat it as a make-up session.
 - The controlled bike-tempo key session was completed on 2026-08-07 within a longer gravel ride; do not repeat it as a make-up session.
+- A second consecutive endurance ride on 2026-08-08 was well tolerated subjectively, but it materially increased the two-day cycling load. Keep 2026-08-09 non-impact and recovery-focused; reassess before returning to the easy-run progression.
 
 ## Current health constraints
 
