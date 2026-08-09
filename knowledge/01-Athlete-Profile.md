@@ -1,6 +1,6 @@
 # Athlete Profile
 
-Last updated: 2026-08-06
+Last updated: 2026-08-09
 
 ## Identity and physiology
 
@@ -40,6 +40,7 @@ Last updated: 2026-08-06
   - Cockpit: 100 mm stem, 460 mm handlebar, 27.5 mm headset spacers.
   - Cranks and gearing: 175 mm Shimano RX600 cranks, 46/30 chainrings, Shimano GRX RX810 2x11 shifting, 11-34 cassette.
   - Wheels: DT Swiss C 1850 Spline db.
+- Fueling flask: HydraPak SoftFlask 150 ml.
 - Pool membership: weekdays.
 
 ## Coaching preferences
