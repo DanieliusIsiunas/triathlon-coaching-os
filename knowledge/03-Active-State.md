@@ -1,12 +1,12 @@
 # Active State
 
-Last updated: 2026-08-08
+Last updated: 2026-08-09
 
 ## Current status
 
 - Coaching Operating System version 1.2 is active.
 - No live COROS telemetry is stored here.
-- The rolling session queue below was confirmed by Danielius on 2026-07-26.
+- The rolling session queue below was confirmed by Danielius on 2026-08-09.
 - Sessions are not tied to fixed weekdays. Select the highest-priority feasible session using current readiness, recent activity, family availability, and weather.
 - The longer aerobic bike key session was completed on 2026-07-31; do not repeat it as a make-up session.
 - The controlled bike-tempo key session was completed on 2026-08-07 within a longer gravel ride; do not repeat it as a make-up session.
@@ -29,42 +29,47 @@ Last updated: 2026-08-08
 
 ### Key
 
-1. **Controlled bike tempo - completed 2026-08-07**
-   - Completed within a longer gravel ride. The faster gravel work around 30-40 km felt like RPE 8/10, followed by an approximately five-minute stop and a strong, sustainable final 10 km.
-   - Danielius reported that the body felt entirely normal during and after the ride and that he could have continued.
-   - The combination of quality work and overall session load is sufficient for this queue; do not repeat the tempo session as a make-up session.
+1. **Easy-run progression**
+   - Minimum: 25-30 minutes.
+   - Target: 35-40 minutes.
+   - Stretch: 45 minutes.
+   - Run on a flat route at RPE 2-3/10 without surges. Increase duration only; do not also increase speed.
+   - This session remains conditional on the run safety gates below. If calf sensation rises above 1/10, worsens, or changes gait, stop the progression and select swimming or easy cycling instead.
 
-2. **Easy-run progression**
-   - The first return-to-run test and the second easy-run progression on 2026-08-01 were tolerated, with the right lower-calf sensation settling rather than worsening.
-   - Follow-up on 2026-08-03 confirmed 0/10 sensation during a heel raise after swimming, so easy running may continue when the safety gates pass.
-   - Increase only one variable at a time in the next run: duration or speed, not both.
-   - If stiffness appears, sensation rises above 1/10, or symptoms worsen, return running to conditional status and select swimming or easy cycling instead.
+2. **Race-specific bike plus short transition run**
+   - This session is allowed only after the separate easy-run progression is tolerated and the next-morning calf response is good.
+   - Minimum: 50 minutes cycling with 2 × 8 minutes at RPE 6/10, then 5 minutes of easy running.
+   - Target: 70-80 minutes cycling with 3 × 10 minutes at RPE 6/10, then 8-10 minutes of running at RPE 2-3/10.
+   - Stretch: 90 minutes cycling without adding more tempo work, then up to 12 minutes of easy running.
+   - Keep the following day non-impact and recovery-focused.
 
-3. **Longer aerobic bike - completed 2026-07-31**
-   - Completed as a two-hour base-focused gravel ride, within the stretch-duration target.
-   - Do not repeat it during the current queue or add a compensatory session.
-   - Reassess next-morning recovery and calf response before the next lower-body session.
+3. **Aerobic bike with fueling rehearsal**
+   - Minimum: 75 minutes.
+   - Target: 90-120 minutes.
+   - Stretch: 135 minutes.
+   - Ride at RPE 3-4/10.
+   - Target 30-45 g carbohydrate and approximately 500-750 ml fluid per hour.
+   - Record total carbohydrate, fluid, gastrointestinal response, and perceived energy during the final 30 minutes.
 
 ### Supporting
 
-- Two weekday swims:
-  - One technique swim of approximately 1.5-1.8 km.
-  - One aerobic swim of approximately 1.8-2.2 km.
-- Two short 12-15 minute calf and general strength sessions.
-- Use seated and bilateral heel raises only while calf sensation stays at or below 2/10 and is not worse the next morning.
+- Technique swim: approximately 1.5-1.8 km.
+- Aerobic swim: approximately 1.9-2.3 km.
+- Two short 12-15 minute strength sessions, including controlled bilateral and seated calf raises while symptoms stay within the existing safety limits.
 
 ### Optional
 
 - A third easy swim.
-- 30-50 minutes of very easy cycling.
+- 30-40 minutes of very easy cycling.
 - Mobility or yoga.
 
 ## Queue adaptation rules
 
 - If time collapses, remove the third swim and optional easy cycling first.
-- Shorten key bike sessions while preserving their intended quality segment.
-- Do not add an extra run.
-- Do not stack missed sessions or perform demanding lower-body sessions on consecutive days without a deliberate readiness check.
+- For the transition session, shorten the cycling portion but preserve a 5-8 minute transition run when the run safety gates pass.
+- Do not add an extra run or stack missed sessions.
+- After a demanding lower-body session, use swimming or recovery on the following day.
+- Avoid demanding lower-body sessions on consecutive days without a deliberate readiness check.
 
 ## Run and brick safety gates
 
