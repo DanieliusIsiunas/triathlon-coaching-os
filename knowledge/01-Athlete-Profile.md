@@ -1,6 +1,6 @@
 # Athlete Profile
 
-Last updated: 2026-08-09
+Last updated: 2026-08-10
 
 ## Identity and physiology
 
@@ -49,3 +49,4 @@ Last updated: 2026-08-09
 - Prefer causal explanations and first-principles reasoning.
 - Prefer concise recommendations with clear decision logic.
 - Race preparation should improve fitness, pacing, transitions, and fueling without requiring a perfectly controlled schedule.
+- Current pool habit is to swim the full session continuously without planned rests. The purpose is race-specific mental durability and confidence that forward movement can be sustained when stopping is not possible.
