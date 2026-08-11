@@ -1,6 +1,6 @@
 # Active State
 
-Last updated: 2026-08-09
+Last updated: 2026-08-11
 
 ## Current status
 
@@ -10,7 +10,7 @@ Last updated: 2026-08-09
 - Sessions are not tied to fixed weekdays. Select the highest-priority feasible session using current readiness, recent activity, family availability, and weather.
 - The longer aerobic bike key session was completed on 2026-07-31; do not repeat it as a make-up session.
 - The controlled bike-tempo key session was completed on 2026-08-07 within a longer gravel ride; do not repeat it as a make-up session.
-- A second consecutive endurance ride on 2026-08-08 was well tolerated subjectively, but it materially increased the two-day cycling load. Keep 2026-08-09 non-impact and recovery-focused; reassess before returning to the easy-run progression.
+- The easy-run progression was completed on 2026-08-11. Immediate leg and calf response was good; final tolerance remains pending next-morning stiffness and heel-raise response. Keep the next day non-impact and recovery-focused before considering the race-specific bike plus transition run.
 
 ## Current health constraints
 
@@ -21,6 +21,9 @@ Last updated: 2026-08-09
 - The required non-impact day was completed on 2026-07-30. The longer aerobic bike and short open-water swim on 2026-07-31 produced no immediate calf pain (0/10).
 - A second easy-run progression was completed on 2026-08-01: 40:22, 6.01 km, average pace 6:43/km, average heart rate 147 bpm, and RPE 3/10. Danielius felt approximately 1.5/10 in the right lower calf during the first kilometre; it then settled and he continued running comfortably. After the run, the sensation was approximately 1/10 only during a heel raise. No gait change or worsening during the session was reported.
 - Follow-up on 2026-08-03: after a 1.70 km pool swim rated RPE 6/10, the right calf felt normal and a heel raise produced 0/10 sensation. The 2026-08-01 easy-run progression is therefore considered tolerated.
+- A third easy-run progression was completed on 2026-08-11: 43:35, 7.02 km, average pace 6:13/km, average heart rate 148 bpm, training load 119, and RPE 4/10. Danielius reported that his legs felt good and no pain immediately after the run.
+- The run became progressively faster: the first five kilometres moved from 6:20 to 6:13/km with heart rate rising from 135 to 153 bpm; kilometre six was 5:59/km at 156 bpm and kilometre seven was 6:06/km at 158 bpm. COROS classified the activity as threshold-focused, so duration and intensity both increased despite the low subjective effort.
+- Treat the immediate response as positive but do not progress running again until the next-morning stiffness, walking, and single-leg heel-raise response confirm tolerance.
 - The calf currently creates no restriction for easy running when the existing safety gates pass. Continue gradual progression by increasing only one running variable at a time; do not combine a meaningful speed increase with a meaningful duration increase in the next run.
 - A mild lower-back pulling sensation during cycling matches a long-standing pattern, is tolerable since bike fit, and resolves after riding; it creates no current training restriction.
 - Sharp, focal, worsening or increasingly asymmetric symptoms, swelling, altered gait, or pain during ordinary walking reject return to running and support professional assessment.
@@ -29,12 +32,10 @@ Last updated: 2026-08-09
 
 ### Key
 
-1. **Easy-run progression**
-   - Minimum: 25-30 minutes.
-   - Target: 35-40 minutes.
-   - Stretch: 45 minutes.
-   - Run on a flat route at RPE 2-3/10 without surges. Increase duration only; do not also increase speed.
-   - This session remains conditional on the run safety gates below. If calf sensation rises above 1/10, worsens, or changes gait, stop the progression and select swimming or easy cycling instead.
+1. **Easy-run progression - completed 2026-08-11**
+   - Completed 43:35 and 7.02 km at RPE 4/10, within the stretch-duration range.
+   - Immediate leg and calf response was good, but final tolerance remains pending the next-morning safety gates.
+   - Do not repeat or add another run as a make-up session.
 
 2. **Race-specific bike plus short transition run**
    - This session is allowed only after the separate easy-run progression is tolerated and the next-morning calf response is good.
