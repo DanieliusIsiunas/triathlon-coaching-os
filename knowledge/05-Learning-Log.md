@@ -1,6 +1,6 @@
 # Learning Log
 
-Last updated: 2026-07-31
+Last updated: 2026-08-12
 
 This file stores meaningful coaching hypotheses, interventions, and validated personal response patterns. It is not a daily diary.
 
@@ -62,3 +62,14 @@ This file stores meaningful coaching hypotheses, interventions, and validated pe
 - Validation point: Record total carbohydrate, fluid, palatability, gastrointestinal response, and perceived energy during the final 30 minutes.
 - Outcome: Palatability and acute tolerance passed; carbohydrate and fluid dose were insufficient as a race-fueling rehearsal.
 - Confidence: high for intake-dose assessment; medium for the initial fluid target because individual sweat loss has not been measured.
+
+
+## 2026-08-12 - First sustained aerobar tolerance test
+
+- Observation: Danielius completed a 54:47, 25.27 km gravel-bike ride at RPE 6/10 while testing clip-on aerobars for much of the route. Maximum bodily discomfort across the neck, back, shoulders, arms, saddle area, and calves was approximately 2/10. The aerobar position felt like the most comfortable riding position; returning to the standard hand positions felt comparatively awkward.
+- Hypothesis: The current aerobar setup is sufficiently comfortable for sustained use and may improve race-bike efficiency, but handling confidence and rapid access to the brakes are currently the limiting factors rather than musculoskeletal tolerance.
+- Decision: Continue progressive aerobar practice on straight, low-traffic, predictable roads. Keep hands on the standard controls near traffic, junctions, descents, poor surfaces, strong crosswinds, and any situation that may require immediate braking.
+- Expected result: Danielius can hold a stable line, scan ahead, and transition smoothly between aerobars and controls without tension or loss of confidence.
+- Validation point: Complete two or three additional low-traffic sessions with repeated controlled entries and exits, no near-misses, no increase in discomfort beyond 2/10, and good next-day neck, back, saddle, and calf response.
+- Outcome: Initial comfort and position-tolerance test passed; traffic-handling confidence remains provisional but improved compared with the first attempt. Wind prevented a reliable estimate of the speed benefit.
+- Confidence: high for short-session comfort; medium for longer-duration tolerance; low for quantified aerodynamic benefit.
