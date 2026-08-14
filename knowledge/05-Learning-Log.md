@@ -1,6 +1,6 @@
 # Learning Log
 
-Last updated: 2026-08-12
+Last updated: 2026-08-14
 
 This file stores meaningful coaching hypotheses, interventions, and validated personal response patterns. It is not a daily diary.
 
@@ -71,5 +71,6 @@ This file stores meaningful coaching hypotheses, interventions, and validated pe
 - Decision: Continue progressive aerobar practice on straight, low-traffic, predictable roads. Keep hands on the standard controls near traffic, junctions, descents, poor surfaces, strong crosswinds, and any situation that may require immediate braking.
 - Expected result: Danielius can hold a stable line, scan ahead, and transition smoothly between aerobars and controls without tension or loss of confidence.
 - Validation point: Complete two or three additional low-traffic sessions with repeated controlled entries and exits, no near-misses, no increase in discomfort beyond 2/10, and good next-day neck, back, saddle, and calf response.
-- Outcome: Initial comfort and position-tolerance test passed; traffic-handling confidence remains provisional but improved compared with the first attempt. Wind prevented a reliable estimate of the speed benefit.
-- Confidence: high for short-session comfort; medium for longer-duration tolerance; low for quantified aerodynamic benefit.
+- Follow-up observation: On 2026-08-14, during a 90.96 km gravel-bike adventure, Danielius again used the aerobars for selected harder sections of the return leg. Maximum general body discomfort was approximately 1.5/10 and he felt excellent overall. The clearest sustained section was 5 km at 31.3 km/h with average heart rate 145 bpm on nearly level terrain; a surrounding 6 km section averaged 30.4 km/h at 143 bpm.
+- Outcome: Short- and long-duration musculoskeletal tolerance are now supported. The fast late-ride section is consistent with a useful aerodynamic position, but the magnitude of the speed benefit remains unquantified because power, wind, drafting, surface, and exact aerobar usage were not controlled. Traffic-handling confidence was not evaluated in this follow-up.
+- Confidence: high for long-duration comfort; medium that the position is practically useful; low for a quantified aerodynamic gain.
