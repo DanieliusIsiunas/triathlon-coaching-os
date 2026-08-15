@@ -1,6 +1,6 @@
 # Active State
 
-Last updated: 2026-08-11
+Last updated: 2026-08-15
 
 ## Current status
 
@@ -10,7 +10,7 @@ Last updated: 2026-08-11
 - Sessions are not tied to fixed weekdays. Select the highest-priority feasible session using current readiness, recent activity, family availability, and weather.
 - The longer aerobic bike key session was completed on 2026-07-31; do not repeat it as a make-up session.
 - The controlled bike-tempo key session was completed on 2026-08-07 within a longer gravel ride; do not repeat it as a make-up session.
-- The easy-run progression was completed on 2026-08-11. Immediate leg and calf response was good; final tolerance remains pending next-morning stiffness and heel-raise response. Keep the next day non-impact and recovery-focused before considering the race-specific bike plus transition run.
+- The 2026-08-11 easy-run progression was subsequently tolerated. On 2026-08-15, one day after a 90.96 km gravel-bike adventure, Danielius completed another 31:50 run covering 5.17 km and reported feeling good with calf pain 0/10. Because this created consecutive lower-body load and the run contained faster kilometres, keep 2026-08-16 recovery-focused and non-impact before considering the next key session.
 
 ## Current health constraints
 
@@ -23,7 +23,7 @@ Last updated: 2026-08-11
 - Follow-up on 2026-08-03: after a 1.70 km pool swim rated RPE 6/10, the right calf felt normal and a heel raise produced 0/10 sensation. The 2026-08-01 easy-run progression is therefore considered tolerated.
 - A third easy-run progression was completed on 2026-08-11: 43:35, 7.02 km, average pace 6:13/km, average heart rate 148 bpm, training load 119, and RPE 4/10. Danielius reported that his legs felt good and no pain immediately after the run.
 - The run became progressively faster: the first five kilometres moved from 6:20 to 6:13/km with heart rate rising from 135 to 153 bpm; kilometre six was 5:59/km at 156 bpm and kilometre seven was 6:06/km at 158 bpm. COROS classified the activity as threshold-focused, so duration and intensity both increased despite the low subjective effort.
-- Treat the immediate response as positive but do not progress running again until the next-morning stiffness, walking, and single-leg heel-raise response confirm tolerance.
+- The 2026-08-11 run was followed by no reported calf problem. The 2026-08-15 run also produced an immediate calf response of 0/10, strengthening evidence that easy running is currently tolerated. Continue to use next-morning response before further progression.
 - The calf currently creates no restriction for easy running when the existing safety gates pass. Continue gradual progression by increasing only one running variable at a time; do not combine a meaningful speed increase with a meaningful duration increase in the next run.
 - A mild lower-back pulling sensation during cycling matches a long-standing pattern, is tolerable since bike fit, and resolves after riding; it creates no current training restriction.
 - Sharp, focal, worsening or increasingly asymmetric symptoms, swelling, altered gait, or pain during ordinary walking reject return to running and support professional assessment.
@@ -34,23 +34,20 @@ Last updated: 2026-08-11
 
 1. **Easy-run progression - completed 2026-08-11**
    - Completed 43:35 and 7.02 km at RPE 4/10, within the stretch-duration range.
-   - Immediate leg and calf response was good, but final tolerance remains pending the next-morning safety gates.
+   - Later symptom-free training and the 2026-08-15 run with immediate calf response 0/10 support that this progression was tolerated.
    - Do not repeat or add another run as a make-up session.
 
 2. **Race-specific bike plus short transition run**
-   - This session is allowed only after the separate easy-run progression is tolerated and the next-morning calf response is good.
+   - Keep this pending until recovery from the 2026-08-14 long ride and 2026-08-15 run is confirmed. It remains allowed only when the morning calf and general-readiness gates pass.
    - Minimum: 50 minutes cycling with 2 × 8 minutes at RPE 6/10, then 5 minutes of easy running.
    - Target: 70-80 minutes cycling with 3 × 10 minutes at RPE 6/10, then 8-10 minutes of running at RPE 2-3/10.
    - Stretch: 90 minutes cycling without adding more tempo work, then up to 12 minutes of easy running.
    - Keep the following day non-impact and recovery-focused.
 
-3. **Aerobic bike with fueling rehearsal**
-   - Minimum: 75 minutes.
-   - Target: 90-120 minutes.
-   - Stretch: 135 minutes.
-   - Ride at RPE 3-4/10.
-   - Target 30-45 g carbohydrate and approximately 500-750 ml fluid per hour.
-   - Record total carbohydrate, fluid, gastrointestinal response, and perceived energy during the final 30 minutes.
+3. **Aerobic bike with fueling rehearsal - volume completed 2026-08-14**
+   - Completed 90.96 km and 5:28:09 of riding, well beyond the stretch-duration target.
+   - Approximately five chocolate bars plus a meal were consumed and overall wellbeing was excellent; total fluid, session RPE, gastrointestinal response, and final-hour energy remain to be captured before the fueling rehearsal is fully evaluated.
+   - Do not repeat this session as a make-up ride.
 
 ### Supporting
 
