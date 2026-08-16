@@ -1,12 +1,12 @@
 # Active State
 
-Last updated: 2026-08-15
+Last updated: 2026-08-16
 
 ## Current status
 
 - Coaching Operating System version 1.2 is active.
 - No live COROS telemetry is stored here.
-- The rolling session queue below was confirmed by Danielius on 2026-08-09.
+- The rolling session queue below was confirmed by Danielius on 2026-08-16.
 - Sessions are not tied to fixed weekdays. Select the highest-priority feasible session using current readiness, recent activity, family availability, and weather.
 - The longer aerobic bike key session was completed on 2026-07-31; do not repeat it as a make-up session.
 - The controlled bike-tempo key session was completed on 2026-08-07 within a longer gravel ride; do not repeat it as a make-up session.
@@ -32,42 +32,48 @@ Last updated: 2026-08-15
 
 ### Key
 
-1. **Easy-run progression - completed 2026-08-11**
-   - Completed 43:35 and 7.02 km at RPE 4/10, within the stretch-duration range.
-   - Later symptom-free training and the 2026-08-15 run with immediate calf response 0/10 support that this progression was tolerated.
-   - Do not repeat or add another run as a make-up session.
-
-2. **Race-specific bike plus short transition run**
-   - Keep this pending until recovery from the 2026-08-14 long ride and 2026-08-15 run is confirmed. It remains allowed only when the morning calf and general-readiness gates pass.
+1. **Race-specific bike plus short transition run**
+   - Complete only when the morning readiness and calf safety gates pass.
    - Minimum: 50 minutes cycling with 2 × 8 minutes at RPE 6/10, then 5 minutes of easy running.
    - Target: 70-80 minutes cycling with 3 × 10 minutes at RPE 6/10, then 8-10 minutes of running at RPE 2-3/10.
    - Stretch: 90 minutes cycling without adding more tempo work, then up to 12 minutes of easy running.
    - Keep the following day non-impact and recovery-focused.
 
-3. **Aerobic bike with fueling rehearsal - volume completed 2026-08-14**
-   - Completed 90.96 km and 5:28:09 of riding, well beyond the stretch-duration target.
-   - Approximately five chocolate bars plus a meal were consumed and overall wellbeing was excellent; total fluid, session RPE, gastrointestinal response, and final-hour energy remain to be captured before the fueling rehearsal is fully evaluated.
-   - Do not repeat this session as a make-up ride.
+2. **Controlled easy run**
+   - Complete only when the morning readiness and calf safety gates pass.
+   - Minimum: 30 minutes.
+   - Target: 40 minutes.
+   - Stretch: 45 minutes.
+   - Keep the session at RPE 2-3/10 with no finishing acceleration.
+   - Do not increase both speed and duration in this run.
+
+3. **Race-swim transfer**
+   - Minimum: 1.5 km of steady pool swimming.
+   - Target: 1.5-1.8 km in open water with the wetsuit, including deliberate sighting practice.
+   - Stretch: 2.0 km without adding intensity.
+   - Open water is allowed only with accompaniment, good visibility, and no thunder or lightning risk.
 
 ### Supporting
 
 - Technique swim: approximately 1.5-1.8 km.
-- Aerobic swim: approximately 1.9-2.3 km.
-- Two short 12-15 minute strength sessions, including controlled bilateral and seated calf raises while symptoms stay within the existing safety limits.
+- Easy aerobic bike: 60-90 minutes at RPE 3/10.
+- One or two 12-15 minute strength sessions, not immediately before or after the brick session.
 
 ### Optional
 
 - A third easy swim.
-- 30-40 minutes of very easy cycling.
+- 20-30 minutes of very easy cycling.
 - Mobility or yoga.
 
 ## Queue adaptation rules
 
-- If time collapses, remove the third swim and optional easy cycling first.
-- For the transition session, shorten the cycling portion but preserve a 5-8 minute transition run when the run safety gates pass.
-- Do not add an extra run or stack missed sessions.
+- If time collapses, remove optional sessions first.
+- For the brick session, shorten the cycling portion but preserve a 5-8 minute transition run when the run safety gates pass.
+- Do not repeat or compensate for the 2026-08-14 long ride during this queue.
+- Do not stack missed sessions.
 - After a demanding lower-body session, use swimming or recovery on the following day.
 - Avoid demanding lower-body sessions on consecutive days without a deliberate readiness check.
+- The run, brick, and harder bike sessions remain conditional on sleep quality at least 3/5, energy at least 3/5, soreness no more than 2/5, pain 0-1/10, normal walking and stairs, single-leg heel raises no more than 0-1/10, no illness symptoms, and enough time for the warm-up.
 
 ## Run and brick safety gates
 
