@@ -1,12 +1,13 @@
 # Active State
 
-Last updated: 2026-08-16
+Last updated: 2026-08-19
 
 ## Current status
 
 - Coaching Operating System version 1.2 is active.
 - No live COROS telemetry is stored here.
 - The rolling session queue below was confirmed by Danielius on 2026-08-16.
+- On 2026-08-19 Danielius reported several days of low energy, mild general depletion, and reduced ability to generate usual swim effort. Favorable COROS readiness does not override this subjective fatigue. Use 2026-08-19 as a full recovery day and hold the key brick or other hard sessions until energy clearly rebounds. This is not yet evidence of fitness regression.
 - Sessions are not tied to fixed weekdays. Select the highest-priority feasible session using current readiness, recent activity, family availability, and weather.
 - The longer aerobic bike key session was completed on 2026-07-31; do not repeat it as a make-up session.
 - The controlled bike-tempo key session was completed on 2026-08-07 within a longer gravel ride; do not repeat it as a make-up session.
