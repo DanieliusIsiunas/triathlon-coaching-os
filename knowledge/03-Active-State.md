@@ -1,16 +1,17 @@
 # Active State
 
-Last updated: 2026-08-19
+Last updated: 2026-08-20
 
 ## Current status
 
 - Coaching Operating System version 1.2 is active.
 - No live COROS telemetry is stored here.
 - The rolling session queue below was confirmed by Danielius on 2026-08-16.
-- On 2026-08-19 Danielius reported several days of low energy, mild general depletion, and reduced ability to generate usual swim effort. Favorable COROS readiness does not override this subjective fatigue. Use 2026-08-19 as a full recovery day and hold the key brick or other hard sessions until energy clearly rebounds. This is not yet evidence of fitness regression.
+- On 2026-08-19 Danielius reported several days of low energy and reduced ability to generate usual swim effort, then completed a full recovery day. On 2026-08-20 he felt substantially better and completed the race-specific bike plus transition-run key session with no calf or general body problem during or immediately after. The short recovery intervention is considered successful, but next-morning response still determines whether the fatigue restriction is fully resolved.
 - Sessions are not tied to fixed weekdays. Select the highest-priority feasible session using current readiness, recent activity, family availability, and weather.
 - The longer aerobic bike key session was completed on 2026-07-31; do not repeat it as a make-up session.
 - The controlled bike-tempo key session was completed on 2026-08-07 within a longer gravel ride; do not repeat it as a make-up session.
+- The race-specific bike plus transition-run key session was completed on 2026-08-20. The transition run was longer and harder than prescribed, so do not repeat the brick as a make-up session and keep the following day non-impact and recovery-focused.
 - The 2026-08-11 easy-run progression was subsequently tolerated. On 2026-08-15, one day after a 90.96 km gravel-bike adventure, Danielius completed another 31:50 run covering 5.17 km at RPE 3-4/10, with heat accounting for most of the perceived effort. He reported feeling good, no general bodily problem, and calf pain 0/10. Because this created consecutive lower-body load and the run contained faster kilometres, keep 2026-08-16 recovery-focused and non-impact before considering the next key session.
 
 ## Current health constraints
@@ -33,14 +34,7 @@ Last updated: 2026-08-19
 
 ### Key
 
-1. **Race-specific bike plus short transition run**
-   - Complete only when the morning readiness and calf safety gates pass.
-   - Minimum: 50 minutes cycling with 2 × 8 minutes at RPE 6/10, then 5 minutes of easy running.
-   - Target: 70-80 minutes cycling with 3 × 10 minutes at RPE 6/10, then 8-10 minutes of running at RPE 2-3/10.
-   - Stretch: 90 minutes cycling without adding more tempo work, then up to 12 minutes of easy running.
-   - Keep the following day non-impact and recovery-focused.
-
-2. **Controlled easy run**
+1. **Controlled easy run**
    - Complete only when the morning readiness and calf safety gates pass.
    - Minimum: 30 minutes.
    - Target: 40 minutes.
@@ -48,7 +42,7 @@ Last updated: 2026-08-19
    - Keep the session at RPE 2-3/10 with no finishing acceleration.
    - Do not increase both speed and duration in this run.
 
-3. **Race-swim transfer**
+2. **Race-swim transfer**
    - Minimum: 1.5 km of steady pool swimming.
    - Target: 1.5-1.8 km in open water with the wetsuit, including deliberate sighting practice.
    - Stretch: 2.0 km without adding intensity.
