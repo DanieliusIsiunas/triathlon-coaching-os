@@ -1,6 +1,6 @@
 # Learning Log
 
-Last updated: 2026-08-14
+Last updated: 2026-08-20
 
 This file stores meaningful coaching hypotheses, interventions, and validated personal response patterns. It is not a daily diary.
 
@@ -74,3 +74,15 @@ This file stores meaningful coaching hypotheses, interventions, and validated pe
 - Follow-up observation: On 2026-08-14, during a 90.96 km gravel-bike adventure, Danielius again used the aerobars for selected harder sections of the return leg. Maximum general body discomfort was approximately 1.5/10 and he felt excellent overall. The clearest sustained section was 5 km at 31.3 km/h with average heart rate 145 bpm on nearly level terrain; a surrounding 6 km section averaged 30.4 km/h at 143 bpm.
 - Outcome: Short- and long-duration musculoskeletal tolerance are now supported. The fast late-ride section is consistent with a useful aerodynamic position, but the magnitude of the speed benefit remains unquantified because power, wind, drafting, surface, and exact aerobar usage were not controlled. Traffic-handling confidence was not evaluated in this follow-up.
 - Confidence: high for long-duration comfort; medium that the position is practically useful; low for a quantified aerodynamic gain.
+
+## 2026-08-20 - Race-specific brick tolerance and fueling
+
+- Observation: After one full recovery day following several days of low energy, Danielius completed the race-specific bike plus transition-run key session at RPE 5/10 with no calf or general body problem during or immediately after. In favorable conditions without a meaningful headwind, the bike effort felt sustainable for approximately 20 additional minutes; he would appropriately reduce speed into a headwind or on climbs.
+- Hypothesis: The preceding performance suppression was primarily accumulated fatigue rather than fitness regression, and the current bike effort is sustainable for approximately the planned race-bike duration when paced by effort rather than fixed speed.
+- Fueling: Approximately 30 g carbohydrate from one Decathlon +3H gel and 600 ml water were consumed across about 88 minutes. This equals roughly 20 g carbohydrate and 410 ml fluid per hour. Acute tolerance was acceptable, but the carbohydrate dose remained below a complete race-fueling rehearsal.
+- Decision: Preserve effort-controlled pacing and allow speed to fall into wind or uphill. In the next race-fueling rehearsal, target approximately 45-60 g carbohydrate per hour on the bike without introducing untested products.
+- Expected result: Stable energy through the final 20 minutes of cycling and a controlled first 10 minutes of running without gastrointestinal distress.
+- Validation point: Next-morning fatigue and calf response, plus one more rehearsal of the higher carbohydrate dose.
+- Outcome: Bike-effort sustainability and immediate musculoskeletal tolerance passed; race-fueling dose remains to be completed.
+- Confidence: medium for race-duration bike sustainability because wind and power were uncontrolled; high for the fueling-dose assessment.
+
