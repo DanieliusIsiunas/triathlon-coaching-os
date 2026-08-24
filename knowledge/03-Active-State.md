@@ -14,6 +14,7 @@ Last updated: 2026-08-24
 - The race-specific bike plus transition-run key session was completed on 2026-08-20. The transition run was longer and harder than prescribed, so do not repeat that session as make-up work. A shorter final race-specific rehearsal is included in the new queue as a distinct taper stimulus.
 - The prior controlled easy run was not completed as a separate session. The 2026-08-17 running fitness test and the 2026-08-20 transition run supplied sufficient running load, so the missed standalone run is closed rather than carried forward.
 - The race-swim transfer was completed on 2026-08-23 as a 1.59 km open-water swim. Do not repeat it as make-up work; the new queue contains only a shorter race-sharpening swim.
+- The controlled easy run in the current queue was completed on 2026-08-24 as 53:15 and 8.01 km at average heart rate 145 bpm. Danielius rated it RPE 4/10, felt confident, did not push, and reported no calf problem during or immediately after. The session exceeded the 45-minute stretch duration and produced COROS training load 119, so do not repeat it and keep the following day non-impact. Next-morning response still confirms full musculoskeletal tolerance.
 - The 2026-08-11 easy-run progression was subsequently tolerated. On 2026-08-15, one day after a 90.96 km gravel-bike adventure, Danielius completed another 31:50 run covering 5.17 km at RPE 3-4/10, with heat accounting for most of the perceived effort. He reported feeling good, no general bodily problem, and calf pain 0/10. Because this created consecutive lower-body load and the run contained faster kilometres, keep 2026-08-16 recovery-focused and non-impact before considering the next key session.
 
 ## Current health constraints
@@ -37,22 +38,14 @@ Last updated: 2026-08-24
 ### Key
 
 1. **Final race-specific bike plus short transition run**
-   - Complete once, preferably by 2026-08-28, only when the higher-risk-session gates pass.
+   - Complete once, preferably by 2026-08-28, after at least one non-impact day following the 2026-08-24 run and only when the higher-risk-session gates pass.
    - Minimum: 45 minutes cycling with 2 x 8 minutes at race effort, then 5-8 minutes of easy running.
    - Target: 60-75 minutes cycling with 2 x 12 minutes at RPE 6/10 and 5 minutes easy between, then 8-12 minutes of easy running at RPE 2-3/10.
    - Stretch: use the top of the target duration without adding another hard interval.
    - Pace by effort rather than speed in wind or on climbs. Use aerobars only where handling and braking access are safe.
    - Practice 45-60 g carbohydrate and approximately 500-750 ml fluid per hour on the bike using tested products.
 
-2. **Controlled easy run**
-   - Complete after at least one non-impact or recovery day following the brick.
-   - Minimum: 30 minutes.
-   - Target: 35-40 minutes.
-   - Stretch: 45 minutes.
-   - Keep the session at RPE 2-3/10 with no finishing acceleration. COROS aerobic-endurance heart rate of 131-148 bpm is directional rather than a rigid target.
-   - Do not increase both speed and duration.
-
-3. **Race-swim sharpening**
+2. **Race-swim sharpening**
    - Minimum: 1.5 km.
    - Target: 1.5-1.8 km with four 30-45 second stronger starts, returning to an easy sustainable rhythm after each.
    - Stretch: 2.0 km without adding more intensity.
@@ -76,8 +69,8 @@ Last updated: 2026-08-24
 - Sessions remain movable. Use current readiness, family availability, and a weather check within 24 hours to choose their order.
 - If time collapses, remove optional sessions first.
 - For the final brick, shorten the cycling portion but preserve a 5-8 minute transition run when the run safety gates pass.
-- Keep at least one non-impact or recovery day between demanding lower-body sessions.
-- Do not repeat the 2026-08-20 brick, the missed prior easy run, or the 2026-08-23 race-swim transfer as make-up work.
+- Keep at least one non-impact or recovery day between demanding lower-body sessions. Keep 2026-08-25 non-impact after the longer-than-planned 2026-08-24 run.
+- Do not repeat the 2026-08-20 brick, the 2026-08-23 race-swim transfer, or the completed 2026-08-24 controlled run as make-up work.
 - Do not add a second hard bike or hard run session to the queue.
 - The run, brick, and harder bike sessions remain conditional on sleep quality at least 3/5, energy at least 3/5, soreness no more than 2/5, pain 0-1/10, normal walking and stairs, single-leg heel raises no more than 0-1/10, no illness symptoms, and enough time for the warm-up.
 
