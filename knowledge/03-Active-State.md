@@ -1,6 +1,6 @@
 # Active State
 
-Last updated: 2026-08-24
+Last updated: 2026-08-25
 
 ## Current status
 
@@ -15,6 +15,7 @@ Last updated: 2026-08-24
 - The prior controlled easy run was not completed as a separate session. The 2026-08-17 running fitness test and the 2026-08-20 transition run supplied sufficient running load, so the missed standalone run is closed rather than carried forward.
 - The race-swim transfer was completed on 2026-08-23 as a 1.59 km open-water swim. Do not repeat it as make-up work; the new queue contains only a shorter race-sharpening swim.
 - The controlled easy run in the current queue was completed on 2026-08-24 as 53:15 and 8.01 km at average heart rate 145 bpm. Danielius rated it RPE 4/10, felt confident, did not push, and reported no calf problem during or immediately after. The session exceeded the 45-minute stretch duration and produced COROS training load 119, so do not repeat it and keep the following day non-impact. Next-morning response still confirms full musculoskeletal tolerance.
+- The supporting technique swim was completed on 2026-08-25 as 1.80 km in 41:54 at 2:18/100 m with average heart rate 125 bpm. The distance slightly exceeded the 1.2-1.6 km target, but the low cardiovascular intensity preserved the intended non-impact recovery day. Do not repeat it as make-up work.
 - The 2026-08-11 easy-run progression was subsequently tolerated. On 2026-08-15, one day after a 90.96 km gravel-bike adventure, Danielius completed another 31:50 run covering 5.17 km at RPE 3-4/10, with heat accounting for most of the perceived effort. He reported feeling good, no general bodily problem, and calf pain 0/10. Because this created consecutive lower-body load and the run contained faster kilometres, keep 2026-08-16 recovery-focused and non-impact before considering the next key session.
 
 ## Current health constraints
@@ -53,7 +54,6 @@ Last updated: 2026-08-24
 
 ### Supporting
 
-- Technique swim: 1.2-1.6 km at easy aerobic effort.
 - Easy aerobic bike: 45-60 minutes at RPE 2-3/10.
 - One 10-15 minute light mobility or activation session that does not create soreness.
 
