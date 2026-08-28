@@ -1,6 +1,6 @@
 # Active State
 
-Last updated: 2026-08-26
+Last updated: 2026-08-28
 
 ## Current status
 
@@ -17,6 +17,7 @@ Last updated: 2026-08-26
 - The controlled easy run in the current queue was completed on 2026-08-24 as 53:15 and 8.01 km at average heart rate 145 bpm. Danielius rated it RPE 4/10, felt confident, did not push, and reported no calf problem during or immediately after. The session exceeded the 45-minute stretch duration and produced COROS training load 119, so do not repeat it and keep the following day non-impact. Next-morning response still confirms full musculoskeletal tolerance.
 - The supporting technique swim was completed on 2026-08-25 as 1.80 km in 41:54 at 2:18/100 m with average heart rate 125 bpm. Danielius rated it RPE 3/10, felt excellent, expected a faster pace, and intentionally used slow, long strokes. Compared with recent pool swims, the pace-to-heart-rate relationship was among the best, and SWOLF improved to 45 from 46 at the same pace on 2026-08-18. However, an abrupt late-session heart-rate rise in the length data makes the exact heart-rate comparison provisional. The distance slightly exceeded the 1.2-1.6 km target, but the low overall intensity preserved the intended non-impact recovery day. Do not repeat it as make-up work.
 - The supporting easy bike was completed on 2026-08-26 but became a full tempo stimulus: 1:06:50, 33.38 km, average speed 30.0 km/h, average heart rate 147 bpm, COROS training load 161, aerobic training effect 3.4, and RPE 6.5/10. Danielius felt excellent, held a strong but controlled pace, and had no right-shoulder discomfort while using aerobars. Fuel was approximately 16 g carbohydrate from 20 g agave syrup plus about 600 ml water. This ride supplies the final substantial race-specific bike stimulus; do not repeat another 60-75 minute tempo bike session before the race.
+- The planned race-swim sharpening was completed on 2026-08-28 as a much larger 4.00 km pool-endurance session in 1:46:51, structured as 10 x 400 m in a 50 m pool. COROS recorded average pace 2:24/100 m, training load 200, aerobic training effect 3.9, and average stroke rate 19 strokes/min. The first 400 m averaged approximately 2:18/100 m and the final 400 m approximately 2:30/100 m, showing manageable late-session fatigue. Danielius felt excellent, used about 650 ml water and 30 g maple syrup, and reported a mild right-shoulder ache that did not worsen during the swim but remained lightly present afterward. This session replaces the planned race-swim sharpening; do not add another long or hard swim before reassessment.
 - The 2026-08-11 easy-run progression was subsequently tolerated. On 2026-08-15, one day after a 90.96 km gravel-bike adventure, Danielius completed another 31:50 run covering 5.17 km at RPE 3-4/10, with heat accounting for most of the perceived effort. He reported feeling good, no general bodily problem, and calf pain 0/10. Because this created consecutive lower-body load and the run contained faster kilometres, keep 2026-08-16 recovery-focused and non-impact before considering the next key session.
 
 ## Current health constraints
@@ -33,7 +34,7 @@ Last updated: 2026-08-26
 - The 2026-08-11 run was followed by no reported calf problem. The 2026-08-15 run, rated RPE 3-4/10 mainly because of heat, produced no general bodily problem and an immediate calf response of 0/10, strengthening evidence that easy running is currently tolerated. Continue to use next-morning response before further progression.
 - The calf currently creates no restriction for easy running when the existing safety gates pass. Continue gradual progression by increasing only one running variable at a time; do not combine a meaningful speed increase with a meaningful duration increase in the next run.
 - A mild lower-back pulling sensation during cycling matches a long-standing pattern, is tolerable since bike fit, and resolves after riding; it creates no current training restriction.
-- On 2026-08-25 Danielius reported a new mild pulling ache in the upper-anterior right shoulder near the chest after swimming. He breathes to the left and feels that the right lead arm may cross the midline or press down to provide balance. Treat this mechanical link as a hypothesis, not a diagnosis. On 2026-08-26 he used aerobars during a 1:06:50 bike session without any shoulder discomfort, which clears cycling posture but does not yet clear swimming. Until swim tolerance is confirmed, avoid paddles, hard swim starts, and deliberate stroke-rate increases; swim only easily when pain is 0-1/10 and does not increase, and stop if it worsens. Persistent pain, night pain, weakness, or reduced range of motion supports professional assessment.
+- On 2026-08-25 Danielius reported a new mild pulling ache in the upper-anterior right shoulder near the chest after swimming. He breathes to the left and feels that the right lead arm may cross the midline or press down to provide balance. Treat this mechanical link as a hypothesis, not a diagnosis. On 2026-08-26 he used aerobars during a 1:06:50 bike session without any shoulder discomfort, clearing cycling posture. During the much larger 4.00 km pool swim on 2026-08-28 the shoulder was mildly noticeable and did not worsen, but a light ache remained afterward. This supports tolerance without acute escalation but does not clear the shoulder for further swim load. Avoid paddles, hard swim starts, deliberate stroke-rate increases, and another long swim. Resume only easy swimming after pain is 0-1/10 at rest and with overhead motion and the next-morning response is not worse; stop if symptoms increase. Persistent pain, night pain, weakness, or reduced range of motion supports professional assessment.
 - Sharp, focal, worsening or increasingly asymmetric symptoms, swelling, altered gait, or pain during ordinary walking reject return to running and support professional assessment.
 
 ## Current session queue
@@ -41,17 +42,11 @@ Last updated: 2026-08-26
 ### Key
 
 1. **Short activation bike plus transition run**
-   - Complete once, preferably on 2026-08-28, only when the higher-risk-session gates pass and after the 2026-08-27 shoulder-tolerance swim or recovery day does not create a negative response.
+   - Complete once, no earlier than 2026-08-30 and only after at least one recovery day following the 4.00 km swim, when the higher-risk-session gates pass and the shoulder is no worse.
    - Minimum: 25-30 minutes easy cycling, then 5 minutes of easy running.
    - Target: 30-40 minutes cycling at RPE 3/10 with 3 x 2 minutes at race effort RPE 6/10 and at least 2 minutes easy between, then 5-8 minutes of easy running at RPE 2-3/10.
    - Do not extend the cycling or add more hard intervals. The substantial final bike stimulus was already completed on 2026-08-26.
    - Use aerobars only where handling and braking access are safe and the right shoulder remains 0-1/10.
-
-2. **Race-swim sharpening**
-   - Minimum: 1.5 km.
-   - Target: 1.5-1.8 km with four 30-45 second stronger starts, returning to an easy sustainable rhythm after each.
-   - Stretch: 2.0 km without adding more intensity.
-   - Use a pool or safe open water. Open water requires accompaniment, good visibility, and no thunder or lightning risk.
 
 ### Supporting
 
@@ -59,19 +54,19 @@ Last updated: 2026-08-26
 
 ### Optional
 
-- A third easy swim.
-- 20-30 minutes of very easy cycling or walking.
+- 20-30 minutes of very easy walking.
 - An additional full recovery day.
 
 ## Queue adaptation rules
 
-- This is a taper-oriented queue for 2026-08-24 through 2026-08-30. Reduce fatigue while retaining short race-specific intensity.
+- This is a taper-oriented queue for 2026-08-24 through 2026-08-30. Reduce fatigue while retaining only a short race-specific activation.
+- The 4.00 km swim on 2026-08-28 superseded the planned race-swim sharpening and created enough swim load for this queue. Do not add another swim on 2026-08-29.
+- Keep at least one full recovery day after the 4.00 km swim before considering the activation brick. If the shoulder is worse the next morning, prioritize recovery and reassessment over the brick.
 - Sessions remain movable. Use current readiness, family availability, and a weather check within 24 hours to choose their order.
 - If time collapses, remove optional sessions first.
 - For the short activation brick, preserve a 5-8 minute transition run when the run safety gates pass; do not restore the previously planned 60-75 minute tempo bike.
-- Keep at least one non-impact or recovery day between demanding lower-body sessions. Keep 2026-08-25 non-impact after the longer-than-planned 2026-08-24 run.
-- Do not repeat the 2026-08-20 brick, the 2026-08-23 race-swim transfer, or the completed 2026-08-24 controlled run as make-up work.
-- Do not add a second hard bike or hard run session to the queue.
+- Do not repeat the 2026-08-20 brick, the 2026-08-23 race-swim transfer, the completed 2026-08-24 controlled run, or the 2026-08-28 long pool swim as make-up work.
+- Do not add a second hard bike, hard run, long swim, or hard swim session to the queue.
 - The run, brick, and harder bike sessions remain conditional on sleep quality at least 3/5, energy at least 3/5, soreness no more than 2/5, pain 0-1/10, normal walking and stairs, single-leg heel raises no more than 0-1/10, no illness symptoms, and enough time for the warm-up.
 
 ## Run and brick safety gates
