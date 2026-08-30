@@ -1,12 +1,12 @@
 # Active State
 
-Last updated: 2026-08-28
+Last updated: 2026-08-30
 
 ## Current status
 
 - Coaching Operating System version 1.2 is active.
 - No live COROS telemetry is stored here.
-- The rolling session queue below was confirmed by Danielius on 2026-08-24.
+- The race-week rolling session queue below was confirmed by Danielius on 2026-08-30.
 - On 2026-08-19 Danielius reported several days of low energy and reduced ability to generate usual swim effort, then completed a full recovery day. He felt substantially better on 2026-08-20, completed the race-specific bike plus transition-run key session without calf or general body problems, and subsequently tolerated further training. The temporary fatigue restriction is resolved; future decisions should still prioritize current subjective energy over COROS readiness.
 - Sessions are not tied to fixed weekdays. Select the highest-priority feasible session using current readiness, recent activity, family availability, and weather.
 - The longer aerobic bike key session was completed on 2026-07-31; do not repeat it as a make-up session.
@@ -42,15 +42,24 @@ Last updated: 2026-08-28
 ### Key
 
 1. **Short activation bike plus transition run**
-   - Complete once, no earlier than 2026-08-30 and only after at least one recovery day following the 4.00 km swim, when the higher-risk-session gates pass and the shoulder is no worse.
-   - Minimum: 25-30 minutes easy cycling, then 5 minutes of easy running.
-   - Target: 30-40 minutes cycling at RPE 3/10 with 3 x 2 minutes at race effort RPE 6/10 and at least 2 minutes easy between, then 5-8 minutes of easy running at RPE 2-3/10.
-   - Do not extend the cycling or add more hard intervals. The substantial final bike stimulus was already completed on 2026-08-26.
-   - Use aerobars only where handling and braking access are safe and the right shoulder remains 0-1/10.
+   - Preferred timing: 2026-08-31. If the higher-risk-session gates fail, shorten or skip the session rather than moving it close to race day.
+   - Minimum: 25 minutes of easy cycling, then 5 minutes of easy running.
+   - Target: 30-40 minutes cycling with 3 x 2 minutes at race effort RPE 6/10 and at least 2 minutes easy between, then 5-8 minutes of very easy running at RPE 2-3/10.
+   - Do not extend the cycling or add intervals. Use aerobars only where handling and braking access are safe and the right shoulder remains 0-1/10.
+   - Follow with a non-impact day.
+
+2. **Druskininkai Olympic-distance triathlon on 2026-09-05**
+   - Race distance: 1.5 km swim, 40 km bike, 10 km run.
+   - Do not introduce new food, equipment adjustments, or intensity experiments.
+   - Pace the bike by sustainable effort, allowing speed to fall into headwind and on climbs so the 10 km run is preserved.
+   - Recheck current weather and race logistics within 24 hours of travel and start.
 
 ### Supporting
 
+- One 15-25 minute very easy swim on 2026-09-02 or 2026-09-03, only if the right shoulder is 0-1/10 at rest and overhead, the next-morning response is not worse, and all other gates pass. No paddles, sprints, hard starts, or long swimming.
+- One 15-20 minute very easy run on 2026-09-02 or 2026-09-03, only if the activation brick was tolerated and the next-morning calf response is 0-1/10.
 - One 10-15 minute light mobility or activation session that does not create soreness.
+- Full recovery on 2026-09-04, with only a short walk and equipment preparation.
 
 ### Optional
 
@@ -59,15 +68,15 @@ Last updated: 2026-08-28
 
 ## Queue adaptation rules
 
-- This is a taper-oriented queue for 2026-08-24 through 2026-08-30. Reduce fatigue while retaining only a short race-specific activation.
-- The 4.00 km swim on 2026-08-28 superseded the planned race-swim sharpening and created enough swim load for this queue. Do not add another swim on 2026-08-29.
-- Keep at least one full recovery day after the 4.00 km swim before considering the activation brick. If the shoulder is worse the next morning, prioritize recovery and reassessment over the brick.
-- Sessions remain movable. Use current readiness, family availability, and a weather check within 24 hours to choose their order.
-- If time collapses, remove optional sessions first.
-- For the short activation brick, preserve a 5-8 minute transition run when the run safety gates pass; do not restore the previously planned 60-75 minute tempo bike.
-- Do not repeat the 2026-08-20 brick, the 2026-08-23 race-swim transfer, the completed 2026-08-24 controlled run, or the 2026-08-28 long pool swim as make-up work.
-- Do not add a second hard bike, hard run, long swim, or hard swim session to the queue.
-- The run, brick, and harder bike sessions remain conditional on sleep quality at least 3/5, energy at least 3/5, soreness no more than 2/5, pain 0-1/10, normal walking and stairs, single-leg heel raises no more than 0-1/10, no illness symptoms, and enough time for the warm-up.
+- This is the confirmed race-week taper queue through the 2026-09-05 race. The training adaptation is already built; the purpose now is to preserve freshness and a small amount of race-specific sharpness.
+- Sessions remain conditional and movable only within the timing limits above. Use current readiness, family availability, and a weather check within 24 hours.
+- If time or readiness collapses, remove optional and supporting sessions first. Do not compensate for missed work.
+- If the activation brick cannot be completed safely on 2026-08-31, shorten or skip it rather than transferring it close to the race.
+- The easy swim and easy run are supporting options, not fitness tests. Stop or omit them if the shoulder, calf, fatigue, or illness gates fail.
+- Do not add another hard bike, hard run, long swim, hard swim, strength session that creates soreness, or any full-distance rehearsal.
+- The run, brick, and swim remain conditional on sleep quality at least 3/5, energy at least 3/5, soreness no more than 2/5, pain 0-1/10, normal walking and stairs, no illness symptoms, and enough time for an unhurried warm-up.
+- Swimming additionally requires right-shoulder pain 0-1/10 at rest and with overhead motion and no worsening the next morning.
+- No new fueling product, equipment adjustment, or intensity experiment is allowed during race week or on race day.
 
 ## Run and brick safety gates
 
