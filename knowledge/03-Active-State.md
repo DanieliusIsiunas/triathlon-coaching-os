@@ -19,6 +19,7 @@ Last updated: 2026-09-02
 - The supporting easy bike was completed on 2026-08-26 but became a full tempo stimulus: 1:06:50, 33.38 km, average speed 30.0 km/h, average heart rate 147 bpm, COROS training load 161, aerobic training effect 3.4, and RPE 6.5/10. Danielius felt excellent, held a strong but controlled pace, and had no right-shoulder discomfort while using aerobars. Fuel was approximately 16 g carbohydrate from 20 g agave syrup plus about 600 ml water. This ride supplies the final substantial race-specific bike stimulus; do not repeat another 60-75 minute tempo bike session before the race.
 - The planned race-swim sharpening was completed on 2026-08-28 as a much larger 4.00 km pool-endurance session in 1:46:51, structured as 10 x 400 m in a 50 m pool. COROS recorded average pace 2:24/100 m, training load 200, aerobic training effect 3.9, and average stroke rate 19 strokes/min. The first 400 m averaged approximately 2:18/100 m and the final 400 m approximately 2:30/100 m, showing manageable late-session fatigue. Danielius felt excellent, used about 650 ml water and 30 g maple syrup, and reported a mild right-shoulder ache that did not worsen during the swim but remained lightly present afterward. This session replaces the planned race-swim sharpening; do not add another long or hard swim before reassessment.
 - The final bike activation was completed in modified form on 2026-09-01 as a 1:02:28, 23.58 km gravel ride at RPE 3/10 with average heart rate 136 bpm, 182 m elevation gain, COROS training load 108, and aerobic training effect 3.0. Three steep bridge repetitions produced contained heart-rate peaks of 159, 166, and 170 bpm. Danielius felt good and reported no pain. The ride was longer and created more aerobic load than prescribed, but the low perceived effort, low overall heart rate, and absence of symptoms support tolerance. It closes the final bike activation; do not add the omitted transition run or further bike intensity as make-up work.
+- The race-week easy run was completed on 2026-09-02 as 37:25 and 6.01 km at 6:14/km with average heart rate 149 bpm, COROS training load 103, aerobic training effect 2.8, and anaerobic training effect 2.1. It exceeded the prescribed 15-20 minutes and included a 5:20 fourth kilometre, with average heart rate rising to 157-158 bpm over the final two kilometres. Danielius reported no pain and that everything felt okay. Treat this as a tolerated but larger-than-planned final run stimulus; do not add further running before the race, and reduce the 2026-09-03 swim to a short recovery-oriented session if all gates pass.
 - The 2026-08-11 easy-run progression was subsequently tolerated. On 2026-08-15, one day after a 90.96 km gravel-bike adventure, Danielius completed another 31:50 run covering 5.17 km at RPE 3-4/10, with heat accounting for most of the perceived effort. He reported feeling good, no general bodily problem, and calf pain 0/10. Because this created consecutive lower-body load and the run contained faster kilometres, keep 2026-08-16 recovery-focused and non-impact before considering the next key session.
 
 ## Current health constraints
@@ -50,9 +51,9 @@ Last updated: 2026-09-02
 
 ### Supporting
 
-- One 15-20 minute very easy run on 2026-09-02, selected by Danielius, only if the 2026-09-01 bike is tolerated, all run safety gates pass, and the calf response is 0-1/10. Keep RPE at 2-3/10 with no pace target, surges, or extension. This is race-week movement, not a fitness test or make-up transition run.
-- One 15-25 minute very easy pool swim on 2026-09-03, selected by Danielius, only if the right shoulder is 0-1/10 at rest and overhead, the run does not produce a negative response, and all other gates pass. No paddles, sprints, hard starts, or long swimming.
-- One 10-15 minute light mobility or activation session that does not create soreness.
+- The final run stimulus is complete. Do not run again before the race.
+- One 10-15 minute very easy pool swim on 2026-09-03, approximately 400-700 m, only if the right shoulder is 0-1/10 at rest and overhead, the 2026-09-02 run does not produce a negative next-morning response, and all other gates pass. Keep it recovery-oriented with no paddles, sprints, hard starts, drills that change mechanics, or extension.
+- One 5-10 minute light mobility or activation session that does not create soreness.
 - Full recovery on 2026-09-04, with only a short walk and equipment preparation.
 
 ### Optional
@@ -64,7 +65,7 @@ Last updated: 2026-09-02
 
 - This is the confirmed race-week taper queue through the 2026-09-05 race. The training adaptation is already built; the purpose now is to preserve freshness and a small amount of race-specific sharpness.
 - The final bike activation was completed on 2026-09-01. It was longer and hillier than prescribed, so do not add the omitted transition run, further bike intervals, or another bike session as compensation.
-- Danielius selected a very easy run on 2026-09-02, a very easy pool swim on 2026-09-03, full recovery on 2026-09-04, and the race on 2026-09-05. Both supporting sessions remain conditional; skip rather than move or compensate if any gate fails.
+- The 2026-09-02 run was completed at nearly twice the prescribed duration and with one faster kilometre. Do not add another run before the race. The remaining sequence is a shortened recovery-oriented pool swim on 2026-09-03 only if all gates pass, full recovery on 2026-09-04, and the race on 2026-09-05. Skip rather than move or compensate if any gate fails.
 - Sessions remain conditional and movable only within the timing limits above. Use current readiness, family availability, and a weather check within 24 hours.
 - If time or readiness collapses, remove optional and supporting sessions first. Do not compensate for missed work.
 - The easy swim and easy run are supporting options, not fitness tests. Stop or omit them if the shoulder, calf, fatigue, or illness gates fail.
