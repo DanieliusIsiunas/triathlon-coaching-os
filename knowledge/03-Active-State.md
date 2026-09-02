@@ -1,6 +1,6 @@
 # Active State
 
-Last updated: 2026-09-01
+Last updated: 2026-09-02
 
 ## Current status
 
@@ -50,8 +50,8 @@ Last updated: 2026-09-01
 
 ### Supporting
 
-- One 15-25 minute very easy swim on 2026-09-02 or 2026-09-03, only if the right shoulder is 0-1/10 at rest and overhead, the next-morning response is not worse, and all other gates pass. No paddles, sprints, hard starts, or long swimming.
-- One 15-20 minute very easy run on 2026-09-02 or 2026-09-03, only if the 2026-09-01 bike is tolerated the next morning and the calf response is 0-1/10. This is optional race-week movement, not a fitness test or make-up transition run.
+- One 15-20 minute very easy run on 2026-09-02, selected by Danielius, only if the 2026-09-01 bike is tolerated, all run safety gates pass, and the calf response is 0-1/10. Keep RPE at 2-3/10 with no pace target, surges, or extension. This is race-week movement, not a fitness test or make-up transition run.
+- One 15-25 minute very easy pool swim on 2026-09-03, selected by Danielius, only if the right shoulder is 0-1/10 at rest and overhead, the run does not produce a negative response, and all other gates pass. No paddles, sprints, hard starts, or long swimming.
 - One 10-15 minute light mobility or activation session that does not create soreness.
 - Full recovery on 2026-09-04, with only a short walk and equipment preparation.
 
@@ -64,7 +64,7 @@ Last updated: 2026-09-01
 
 - This is the confirmed race-week taper queue through the 2026-09-05 race. The training adaptation is already built; the purpose now is to preserve freshness and a small amount of race-specific sharpness.
 - The final bike activation was completed on 2026-09-01. It was longer and hillier than prescribed, so do not add the omitted transition run, further bike intervals, or another bike session as compensation.
-- Use 2026-09-02 as recovery by default. A supporting easy swim or run may be selected later only after current readiness and next-morning symptom gates pass.
+- Danielius selected a very easy run on 2026-09-02, a very easy pool swim on 2026-09-03, full recovery on 2026-09-04, and the race on 2026-09-05. Both supporting sessions remain conditional; skip rather than move or compensate if any gate fails.
 - Sessions remain conditional and movable only within the timing limits above. Use current readiness, family availability, and a weather check within 24 hours.
 - If time or readiness collapses, remove optional and supporting sessions first. Do not compensate for missed work.
 - The easy swim and easy run are supporting options, not fitness tests. Stop or omit them if the shoulder, calf, fatigue, or illness gates fail.
