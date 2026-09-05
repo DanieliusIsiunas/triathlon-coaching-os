@@ -1,12 +1,13 @@
 # Active State
 
-Last updated: 2026-09-02
+Last updated: 2026-09-05
 
 ## Current status
 
 - Coaching Operating System version 1.2 is active.
 - No live COROS telemetry is stored here.
-- The race-week rolling session queue below was confirmed by Danielius on 2026-08-30.
+- The Druskininkai Olympic-distance triathlon was completed on 2026-09-05 in an official time of 2:59:19.7, achieving the sub-three-hour stretch goal. Official splits were swim 34:23.2, T1 3:08.5, bike 1:18:31.2, T2 2:07.2, and run 1:01:09.4; overall place was 147. Compared with the 2026-07-19 debut result of 3:25:59, total time improved by approximately 26:39. The athlete reports that the course was slightly longer than the nominal 1.5 km / 40 km / 10 km. Official timing takes precedence over the distorted COROS multisport segment boundaries caused by accidental watch-button presses.
+- Immediate subjective report after the race: Danielius feels excellent, is very satisfied, identifies the run as the weakest discipline, and proposes improving triathlon run pace from approximately 6:00/km toward 5:00/km over the next year. Treat 5:00/km as a promising provisional strategic target pending a complete race debrief, exact course-distance confirmation, and selection of the next goal race.
 - On 2026-08-19 Danielius reported several days of low energy and reduced ability to generate usual swim effort, then completed a full recovery day. He felt substantially better on 2026-08-20, completed the race-specific bike plus transition-run key session without calf or general body problems, and subsequently tolerated further training. The temporary fatigue restriction is resolved; future decisions should still prioritize current subjective energy over COROS readiness.
 - Sessions are not tied to fixed weekdays. Select the highest-priority feasible session using current readiness, recent activity, family availability, and weather.
 - The longer aerobic bike key session was completed on 2026-07-31; do not repeat it as a make-up session.
@@ -43,36 +44,34 @@ Last updated: 2026-09-02
 
 ### Key
 
-1. **Druskininkai Olympic-distance triathlon on 2026-09-05**
-   - Race distance: 1.5 km swim, 40 km bike, 10 km run.
-   - Do not introduce new food, equipment adjustments, or intensity experiments.
-   - Pace the bike by sustainable effort, allowing speed to fall into headwind and on climbs so the 10 km run is preserved.
-   - Recheck current weather and race logistics within 24 hours of travel and start.
+1. **Immediate post-race recovery**
+   - No structured swim, bike, run, or strength work for at least 48 hours after the 2026-09-05 race.
+   - Easy walking and gentle daily movement are optional only while pain-free and comfortable.
+   - Prioritize normal meals with carbohydrate and protein, fluids, sleep, and monitoring of next-morning symptoms.
+   - Make the next training decision no earlier than 2026-09-08 using current soreness, pain, illness, sleep, energy, and live recovery data.
+
+2. **Complete the Druskininkai race review**
+   - Use official timing as the source for total and discipline splits.
+   - Collect discipline RPE, pain or symptoms, fueling and hydration, equipment execution, course distances when available, and what changed during the final run lap.
+   - Create the canonical race-review file after the debrief.
+   - Do not finalize the next season goal or a 5:00/km training plan until the review and next race selection are complete.
 
 ### Supporting
 
-- The final run stimulus is complete. Do not run again before the race.
-- One 10-15 minute very easy pool swim on 2026-09-03, approximately 400-700 m, only if the right shoulder is 0-1/10 at rest and overhead, the 2026-09-02 run does not produce a negative next-morning response, and all other gates pass. Keep it recovery-oriented with no paddles, sprints, hard starts, drills that change mechanics, or extension.
-- One 5-10 minute light mobility or activation session that does not create soreness.
-- Full recovery on 2026-09-04, with only a short walk and equipment preparation.
+- Short, easy walks that do not increase soreness.
+- Gentle mobility within comfortable range.
 
 ### Optional
 
-- 20-30 minutes of very easy walking.
-- An additional full recovery day.
+- Full rest.
 
 ## Queue adaptation rules
 
-- This is the confirmed race-week taper queue through the 2026-09-05 race. The training adaptation is already built; the purpose now is to preserve freshness and a small amount of race-specific sharpness.
-- The final bike activation was completed on 2026-09-01. It was longer and hillier than prescribed, so do not add the omitted transition run, further bike intervals, or another bike session as compensation.
-- The 2026-09-02 run was completed at nearly twice the prescribed duration and with one faster kilometre. Do not add another run before the race. The remaining sequence is a shortened recovery-oriented pool swim on 2026-09-03 only if all gates pass, full recovery on 2026-09-04, and the race on 2026-09-05. Skip rather than move or compensate if any gate fails.
-- Sessions remain conditional and movable only within the timing limits above. Use current readiness, family availability, and a weather check within 24 hours.
-- If time or readiness collapses, remove optional and supporting sessions first. Do not compensate for missed work.
-- The easy swim and easy run are supporting options, not fitness tests. Stop or omit them if the shoulder, calf, fatigue, or illness gates fail.
-- Do not add another hard bike, hard run, long swim, hard swim, strength session that creates soreness, or any full-distance rehearsal.
-- The run and swim remain conditional on sleep quality at least 3/5, energy at least 3/5, soreness no more than 2/5, pain 0-1/10, normal walking and stairs, no illness symptoms, and enough time for an unhurried warm-up.
-- Swimming additionally requires right-shoulder pain 0-1/10 at rest and with overhead motion and no worsening the next morning.
-- No new fueling product, equipment adjustment, or intensity experiment is allowed during race week or on race day.
+- The race-week queue is complete. Do not carry forward any missed taper session.
+- Feeling excellent immediately after finishing is a positive signal but does not replace post-race recovery. Delayed soreness and fatigue over the next 24-48 hours are expected possibilities.
+- Resume structured training progressively only after the post-race gates pass. Do not use an isolated recovery score to accelerate the return.
+- No performance testing, long session, hard session, or attempt to begin the 5:00/km project during the immediate recovery window.
+- Sharp or worsening pain, swelling, altered gait, chest symptoms, dizziness, unusual weakness, dark urine, or illness symptoms require stopping activity and appropriate medical assessment.
 
 ## Run and brick safety gates
 
