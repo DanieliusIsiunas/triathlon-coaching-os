@@ -1,6 +1,6 @@
 # Current Season
 
-Last updated: 2026-07-26
+Last updated: 2026-09-05
 
 ## Primary race
 
@@ -19,15 +19,16 @@ Last updated: 2026-07-26
 ## Baseline race
 
 Event date: 2026-07-19
+Event: Jonava Olympic-distance triathlon
 
-- Total: 3:25:59
-- Recorded total distance: 51.50 km
-- Open-water swim: 1.5 km in 38:39
-- Combined transitions: approximately 4:52
-- Bike: 39.669 km in 1:34:01; average heart rate 149 bpm
-- Run: 10.246 km in 1:08:26; average heart rate 162 bpm; recorded elevation gain 145 m
-- Run first 5 km: 31:05
-- Run second 5 km: 34:24
+- Official segment sum: 3:24:24.0
+- Swim: 38:16.9
+- T1: 4:01.1
+- Bike: 1:33:43.8
+- T2: 1:29.2
+- Run: 1:06:53.0
+- Combined transitions: 5:30.3
+- COROS recorded the workout as 3:25:59 and 51.00 km, but the official timing segments above are the canonical baseline for race comparison.
 
 ## Current limiter hypothesis
 
