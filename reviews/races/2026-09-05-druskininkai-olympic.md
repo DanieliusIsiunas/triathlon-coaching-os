@@ -80,7 +80,7 @@
 - Improve bike-to-run transfer: stop treating the hardest gear as the target. Test sustainable cadence, initially around 75-85 rpm, and compare the resulting run feel.
 - Improve run: retain easy aerobic running but add one controlled faster-running exposure each week and short relaxed strides after an easy run. Build a distinct set of gears rather than trying to force every run toward 5:00/km.
 - After recovery, establish a fresh standalone running benchmark before fixing exact training paces.
-- Provisional 12-month goal: move Olympic-distance triathlon run pace from about 6:00/km toward 5:00/km. This is plausible given the athlete's historical 1:38 half-marathon, but requires progressive speed reserve, threshold work and bike-to-run bike-to-run specificity.
+- Provisional 12-month goal: move Olympic-distance triathlon run pace from about 6:00/km toward 5:00/km. This is plausible given the athlete's historical 1:38 half-marathon, but requires progressive speed reserve, threshold work and bike-to-run specificity.
 - Immediate action: at least 48 hours without structured training, then reassess soreness, sleep and energy before starting the next block.
 
 ## Pending completion fields
