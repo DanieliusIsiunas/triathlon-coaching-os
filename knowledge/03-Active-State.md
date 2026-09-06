@@ -1,6 +1,6 @@
 # Active State
 
-Last updated: 2026-09-05
+Last updated: 2026-09-06
 
 ## Current status
 
@@ -42,28 +42,39 @@ Last updated: 2026-09-05
 
 ## Current session queue
 
+This post-race recovery queue was confirmed by Danielius on 2026-09-06.
+
 ### Key
 
-1. **Immediate post-race recovery**
-   - No structured swim, bike, run, or strength work for at least 48 hours after the 2026-09-05 race.
-   - Easy walking and gentle daily movement are optional only while pain-free and comfortable.
-   - Prioritize normal meals with carbohydrate and protein, fluids, sleep, and monitoring of next-morning symptoms.
-   - Make the next training decision no earlier than 2026-09-08 using current soreness, pain, illness, sleep, energy, and live recovery data.
+1. **Post-race recovery through 2026-09-08**
+   - Full rest or a 20-40 minute easy walk.
+   - No structured swim, bike, run, or strength work.
+   - Prioritize normal meals with carbohydrate and protein, fluids, sleep, and monitoring of delayed soreness or pain.
 
-2. **Complete the Druskininkai race review**
-   - Use official timing as the source for total and discipline splits.
-   - Collect discipline RPE, pain or symptoms, fueling and hydration, equipment execution, course distances when available, and what changed during the final run lap.
-   - Create the canonical race-review file after the debrief.
-   - Do not finalize the next season goal or a 5:00/km training plan until the review and next race selection are complete.
+2. **Conditional return to movement, no earlier than 2026-09-08**
+   - Minimum: 20 minutes of easy walking.
+   - Target: 25-35 minutes of very easy cycling.
+   - Maximum: 40 minutes at no more than RPE 2/10.
+   - Alternative: 20-30 minutes of easy swimming only if right-shoulder pain is 0-1/10 at rest and with overhead motion.
+   - Select only one option and assess the next-morning response.
+
+3. **First conditional run**
+   - Only after a well-tolerated easy return-to-movement session and no earlier than 72 hours after the 2026-09-05 finish.
+   - Minimum: 20 minutes.
+   - Target: 25-30 minutes.
+   - Maximum: 35 minutes.
+   - Keep the entire run easy, with no strides, accelerations, or pace testing.
 
 ### Supporting
 
-- Short, easy walks that do not increase soreness.
-- Gentle mobility within comfortable range.
+- One easy 20-30 minute swim if the shoulder gates pass.
+- One easy 30-45 minute bike ride.
+- Gentle mobility within a comfortable range.
 
 ### Optional
 
-- Full rest.
+- An additional full rest day.
+- Easy walks.
 
 ## Queue adaptation rules
 
