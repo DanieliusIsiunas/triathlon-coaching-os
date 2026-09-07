@@ -23,7 +23,7 @@ Then evaluate [coaching scenarios](tests/coaching-scenarios.md), inspect the ful
 
 The personal coaching skill and existing morning/weekly tasks should fetch the manifest and use the canonical rules. Their schedules are independent of policy revisions. The root manifest pointer remains for older entry points.
 
-`PROJECT-INSTRUCTIONS.md` is the maintained replacement text for ChatGPT Project settings; editing this repository file does not edit the actual Project settings. The currently supplied legacy Project instructions still route through the root manifest and are compatible, but contain redundant rules. Replacing that settings text with the short entry point is a manual integration step when no Project-settings tool is available.
+`PROJECT-INSTRUCTIONS.md` is the maintained text for ChatGPT Project settings; editing this repository file does not edit the actual settings. Danielius confirmed replacing the settings text with this entry point and supplied a matching screenshot on 2026-09-07. The manual integration step is complete.
 
 ## Maintenance scope
 
