@@ -1,5 +1,7 @@
 # 2026-09-05 Druskininkai Olympic Triathlon Race Review
 
+Reviewed for evidence consistency: 2026-09-07. Historical race evidence; current prescriptions belong to `knowledge/03-Active-State.md`, targets to `knowledge/02-Current-Season.md`, and current hypotheses to `knowledge/05-Learning-Log.md`.
+
 ## Event
 
 - Event: Druskininkai Olympic-distance triathlon
@@ -45,7 +47,7 @@
 - Based on the official 1:18:31 bike split: about 68.8 g carbohydrate/hour and 0.50 L fluid/hour.
 - Run: several sips of water at aid stations about every 2.5 km.
 - No gastrointestinal problems occurred.
-- No evidence that fueling or hydration caused the run limitation.
+- No reported gastrointestinal problem or classic energy crash. These observations do not establish optimal carbohydrate intake, adequate hydration/sodium, or exclude a contribution to performance.
 
 ## Subjective report
 
@@ -57,33 +59,30 @@
 
 ## Analysis
 
-### Strong conclusions
+### Observations and bounded interpretations
 
-1. The largest validated improvement was the bike split, followed by the run and swim.
-2. Open-water confidence improved materially: calm freestyle replaced stress-driven breaststroke.
-3. Bike fueling was well executed, gastrointestinally tolerated, and unlikely to be the main cause of the run limitation.
-4. The 6/10, 7/10 and 8/10 discipline progression supports successful overall effort allocation rather than an early overreach.
-5. The run did not progressively collapse before the late surge. The first three loops were stable and the third was the fastest, so basic endurance was adequate for most of the leg.
-6. The uncontrolled 300 m surge likely contributed to the slow final 2.5 km. This does not fully explain the athlete's broader inability to feel a faster running gear.
+1. Official split times improved, most on the bike. Different courses, conditions, equipment and execution prevent treating these differences as isolated physiological adaptation.
+2. Calm freestyle replaced stress-driven breaststroke, supporting improved open-water confidence.
+3. The higher race carbohydrate intake was reported as tolerated. Its causal performance benefit and hydration adequacy were not measured.
+4. Rising discipline effort ratings are consistent with the athlete's intended allocation but do not prove optimal pacing or exclude preceding-bike fatigue. Ratings across disciplines and durations are not interchangeable physiological measurements.
+5. The first three reported run loops were stable, with the third fastest. This argues against an obvious progressive early collapse but does not establish sufficient durability for a faster target pace.
+6. The late surge preceded slowing and plausibly contributed; it does not alone explain the broader lack of a faster sustainable running gear.
 
-### Working hypotheses
+### Hypotheses at evidence reconciliation
 
-1. **Running speed reserve / coordination limitation - medium confidence.** High exposure to easy Zone 2 running has built aerobic durability, but the athlete has not recently rehearsed the cadence, stiffness, stride mechanics and relaxation needed for faster running.
-2. **Bike-to-run muscular cost from very heavy gearing - medium-low confidence.** The athlete reports riding about 80% of the bike in the hardest 46 x 11 gear. At roughly 30-31 km/h on a 700c gravel setup, this would imply cadence around the mid-50s rpm. That is a high-torque strategy and may leave the quadriceps without a responsive running gear despite modest whole-body fatigue. This must be tested with actual cadence or power data.
-3. **Fuel limitation - low confidence.** About 69 g carbohydrate/hour on the bike plus a pre-swim gel was substantial, caused no gastrointestinal problems, and the athlete did not report a classic energy crash.
-4. **Swim speed limitation is now increasingly technical rather than anxiety-driven - medium confidence.** Sighting, line choice and maintaining hand entry/catch quality under fatigue are the next clear opportunities.
+- **Run limiter: unresolved.** Fresh fitness, durability, coordination, preceding bike cost and pacing remain alternatives. Historical half-marathon ability is not current fitness. Easy-training exposure does not establish a coordination deficit.
+- **Gearing mechanism: low confidence.** The original review inferred very low cadence from assumed gear and average speed. Coasting, shifts and variable speed prevent establishing actual pedaling cadence from that calculation. The athlete questioned the interpretation. Reliable cadence/output measurement and comparable bike-run evidence are required before attributing the run limitation to gearing. There is no prescribed corrective cadence from this review.
+- **Fueling contribution: unresolved.** Reported intake and tolerance make an obvious intake/tolerance failure less apparent; they cannot exclude nutritional or hydration contributions.
+- **Swim technique/navigation: plausible opportunity.** Reported wandering and late technical looseness support investigation but do not isolate their time cost.
 
-## Durable conclusions and next direction
+## Durable conclusions and current ownership
 
-- Keep: calm wetsuit freestyle, regular 10-15 minute fueling rhythm, comfortable aero position, and progressively rising discipline effort.
-- Improve swim: sighting and straight-line practice, plus maintaining entry and catch quality when tired.
-- Improve bike-to-run transfer: stop treating the hardest gear as the target. Test sustainable cadence, initially around 75-85 rpm, and compare the resulting run feel.
-- Improve run: retain easy aerobic running but add one controlled faster-running exposure each week and short relaxed strides after an easy run. Build a distinct set of gears rather than trying to force every run toward 5:00/km.
-- After recovery, establish a fresh standalone running benchmark before fixing exact training paces.
-- Provisional 12-month goal: move Olympic-distance triathlon run pace from about 6:00/km toward 5:00/km. This is plausible given the athlete's historical 1:38 half-marathon, but requires progressive speed reserve, threshold work and bike-to-run specificity.
-- Immediate action: at least 48 hours without structured training, then reassess soreness, sleep and energy before starting the next block.
+- Retain calm wetsuit freestyle, a practical frequent fueling rhythm and the comfortable aero position, subject to current symptoms and handling safety.
+- Use `knowledge/05-Learning-Log.md` for current explanations, confidence and review triggers; avoid maintaining a second active hypothesis queue here.
+- Use `knowledge/02-Current-Season.md` for Project 2:49, the provisional faster-run direction and inactive benchmark designs.
+- Use `knowledge/03-Active-State.md` for the confirmed recovery queue and symptom gates. This historical review does not activate strides, weekly faster running, a cadence change or an early return to training.
 
-## Pending completion fields
+## Outstanding historical evidence
 
-- Shoulder, calf and general soreness in the first 24-48 hours.
-- If available later: reliable bike cadence/power and official course distances.
+- Shoulder, calf and delayed post-race response remain unconfirmed in this review. Collect current symptoms at the next decision rather than treating the missing historical report as clearance.
+- Reliable race cadence/power and verified actual course distances remain unavailable.

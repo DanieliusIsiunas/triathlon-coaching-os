@@ -33,3 +33,16 @@
 - Established `DanieliusIsiunas/triathlon-coaching-os` as the canonical mutable persistent knowledge store.
 - Defined the ChatGPT Project, GitHub repository, and COROS MCP system boundary.
 - Project Sources are no longer the canonical state store.
+
+## 2026-09-07 - v1.3 evidence-driven coaching and instruction consolidation
+
+- User approved methodical implementation of the Bu-informed recommendations with tidy, non-competing instructions.
+- Established one detailed policy owner in Coach Rules and one version/authority owner in the manifest. Project entry text is a thin router; root manifest compatibility remains.
+- Replaced accumulated Active State telemetry and expired pre-race directions with the confirmed recovery queue, unresolved symptoms and next decisions. Preserved session ceilings and recovery dependencies; no training block or benchmark activated.
+- Reconciled calf, fueling, swim confidence, aerobar and fatigue outcomes; distinguished observed tolerance from unproven mechanisms. Corrected the historical review's cadence inference and removed its competing live prescriptions.
+- Added session purpose/success/ceiling/progression, limited active investigations, falsification/review triggers, and expected-versus-observed coaching accountability.
+- Added capability mapping and inactive standardized benchmark designs to Current Season without changing race targets, running frequency ceiling or confirmed recovery status.
+- Updated existing review templates; no backup state or parallel policy document created.
+- Added `scripts/validate_os.py` and `tests/coaching-scenarios.md`. Structural checks passed, including four injected regressions (missing owner, broken link, duplicated version and telemetry leakage). Ten cases were reviewed against the policy; four were independently exercised through the thin skill using an offline snapshot, with no live mutations, and met the required behaviors.
+- Runtime limitations: no current telemetry or symptom clearance obtained during this architecture revision. Behavioral evaluation is not deterministic validation of clinical judgment or proof of training effectiveness. First real adopted-block effectiveness review remains pending.
+- Integration boundary: the supplied legacy Project settings still resolve the manifest and are compatible. The replacement `PROJECT-INSTRUCTIONS.md` must be applied manually to settings when no settings-edit capability is available. External skill/task save verification is recorded below when completed.

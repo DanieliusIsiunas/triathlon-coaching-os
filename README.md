@@ -1,56 +1,30 @@
 # Triathlon Coaching OS
 
-Canonical, versioned coaching knowledge for Danielius's adaptive triathlon system.
+Danielius's canonical coaching knowledge. Start with [the manifest](knowledge/00-Coaching-OS-Manifest.md); it owns the current version, authority and file inventory. [Coach Rules](knowledge/04-Coach-Rules.md) owns coaching decisions and review behavior.
 
-## Architecture
+## Navigation
 
-The system has three connected components:
+- [Athlete Profile](knowledge/01-Athlete-Profile.md): stable facts and preferences.
+- [Current Season](knowledge/02-Current-Season.md): targets, strategy and inactive benchmark designs.
+- [Active State](knowledge/03-Active-State.md): current restrictions and confirmed queue.
+- [Learning Log](knowledge/05-Learning-Log.md): questions, evidence, outcomes and review triggers.
+- [Race reviews](reviews/races/): historical evidence.
+- [Weekly template](templates/weekly-review.md) and [race template](templates/race-review.md): output fields.
+- [Project entry point](PROJECT-INSTRUCTIONS.md): the short instruction block for Project settings.
+- [Changelog](CHANGELOG.md): architecture changes and verification history.
 
-1. **ChatGPT Project** — coaching reasoning, current conversation, pain, illness, readiness, family constraints, and available time.
-2. **This GitHub repository** — canonical mutable persistent knowledge with full history and CRUD operations.
-3. **COROS MCP** — current telemetry, recent activities, recovery, training load, sleep, HRV, resting heart rate, fitness estimates, and schedules.
+## Validation
 
-## Operating contract
+Run `python3 scripts/validate_os.py` from the repository. The checker uses Python's standard library and validates owned paths, internal file links, version ownership, compact entry points, learning fields and selected telemetry/legacy-state regressions. It exits nonzero on structural errors and reports size warnings.
 
-Before changing the plan, prescribing a consequential session, reviewing a race, or making a training-load decision:
+Then evaluate [coaching scenarios](tests/coaching-scenarios.md), inspect the full diff for changed safety/authority semantics and verify the saved revision. These are complementary checks: a structural pass does not prove correct coaching or predict training outcomes. No automatic remote check is claimed; run the checker before architecture changes and during relevant maintenance.
 
-1. Read `knowledge/00-Coaching-OS-Manifest.md`.
-2. Follow its mandatory read order and source-of-truth precedence.
-3. Read the relevant current repository files.
-4. Query current relevant COROS data.
-5. Use the current conversation for subjective symptoms and practical constraints.
-6. Update the relevant canonical file after a confirmed durable change.
+## Integration boundary
 
-## Repository structure
+The personal coaching skill and existing morning/weekly tasks should fetch the manifest and use the canonical rules. Their schedules are independent of policy revisions. The root manifest pointer remains for older entry points.
 
-- `knowledge/00-Coaching-OS-Manifest.md` — system contract and read/write protocol
-- `knowledge/01-Athlete-Profile.md` — stable athlete facts, preferences, history, and equipment
-- `knowledge/02-Current-Season.md` — current race, goals, strategy, and durable season assumptions
-- `knowledge/03-Active-State.md` — current restrictions, immediate decisions, and rolling session queue
-- `knowledge/04-Coach-Rules.md` — coaching decision rules
-- `knowledge/05-Learning-Log.md` — meaningful hypotheses, interventions, and validated response patterns
-- `reviews/races/` — completed race reviews
-- `templates/race-review.md` — race review format
-- `templates/weekly-review.md` — weekly review format
-- `CHANGELOG.md` — system architecture history
-- `PROJECT-INSTRUCTIONS.md` — canonical ChatGPT Project instruction block
+`PROJECT-INSTRUCTIONS.md` is the maintained replacement text for ChatGPT Project settings; editing this repository file does not edit the actual Project settings. The currently supplied legacy Project instructions still route through the root manifest and are compatible, but contain redundant rules. Replacing that settings text with the short entry point is a manual integration step when no Project-settings tool is available.
 
-## Source-of-truth precedence
+## Maintenance scope
 
-1. Current explicit user statement
-2. Live COROS data for dynamic telemetry and recorded activities
-3. `knowledge/03-Active-State.md`
-4. `knowledge/02-Current-Season.md`
-5. `knowledge/01-Athlete-Profile.md`
-6. `knowledge/04-Coach-Rules.md`
-7. `knowledge/05-Learning-Log.md`
-8. Historical race reviews
-9. Older conversation history and non-canonical artifacts
-
-Live COROS data cannot override Danielius's current report of pain, illness, perceived effort, readiness, or practical availability.
-
-## Telemetry and update rules
-
-Do not store raw workout data or daily COROS telemetry in this repository. Query COROS live whenever current recovery, training load, sleep, HRV, resting heart rate, fitness estimates, recent activities, or schedules materially affect a decision.
-
-GitHub is the canonical mutable store. Update only the file whose responsibility changed. Before updating an existing file, fetch its current content and blob SHA, then replace it with a descriptive commit message.
+Keep one owner per responsibility. Git history retains removed detail; do not create backup state files. Daily telemetry stays in COROS; conversation supplies current subjective state. Benchmarks remain designs until activated in a confirmed queue through current readiness gates.

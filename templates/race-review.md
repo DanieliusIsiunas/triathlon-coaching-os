@@ -1,38 +1,30 @@
 # Race Review
 
-## Event
+Historical evidence only. Use `knowledge/04-Coach-Rules.md` for analysis and the manifest for persistence. Current prescriptions/targets remain in their current-state owners.
 
-- Event:
-- Date:
-- Distance:
-- Goal:
-- Result:
+## Event and evidence quality
 
-## Execution
+- Event/date, verified distance/course and goal:
+- Official result/splits and source:
+- Device defects, missing data and course-comparison limits:
 
-- Swim:
-- T1:
-- Bike:
-- T2:
-- Run:
-- Fueling and hydration:
+## Execution and subjective report
 
-## Subjective report
+- Swim, first transition, bike, second transition and run:
+- Early/late effort, pacing changes and what felt limiting:
+- Fueling/fluid/sodium when known; tolerance and late-session response:
+- Pain during/after, next-day follow-up or explicitly unknown:
 
-- RPE:
-- Pain or symptoms:
-- What felt strong:
-- What broke down:
+## Assessment
 
-## Analysis
+- Observations established by timing and athlete report:
+- Intended versus observed outcome; coaching decisions that merit reconsideration:
+- Hypotheses, alternatives, confidence and evidence that would change the interpretation:
+- Distinguish fitness, technique, conditions, equipment, pacing and fueling:
 
-- What most affected the result:
-- Evidence from COROS and the athlete report:
-- What remains uncertain:
+## Durable learning and follow-up
 
-## Durable conclusions
-
-- Keep:
-- Change:
-- New or revised hypothesis:
-- Files that require canonical updates:
+- What to retain; what needs a controlled comparison:
+- Learning Log entries and status/outcome updates:
+- Current Season/Active State updates if confirmed; link their owners:
+- Outstanding evidence and review trigger:

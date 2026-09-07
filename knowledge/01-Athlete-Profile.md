@@ -1,13 +1,13 @@
 # Athlete Profile
 
-Last updated: 2026-08-10
+Last updated: 2026-09-07
 
 ## Identity and physiology
 
 - Name: Danielius
 - Birth date: 1989-09-16
 - Height: 194 cm
-- Current confirmed weight: 91 kg
+- Last confirmed weight: 91 kg on 2026-07-20; reconfirm before weight-dependent prescriptions.
 - Location and timezone: Kaunas, Lithuania; Europe/Vilnius
 - Experience: developing triathlete with a strong historical running background
 
@@ -47,6 +47,7 @@ Last updated: 2026-08-10
 
 - Training must remain compatible with family life.
 - Prefer causal explanations and first-principles reasoning.
+- Confirmed on 2026-09-07: keep coaching instructions concise, tidy and consistent; implement the Bu-informed experiment/review approach with explicit evidence limits.
 - Prefer concise recommendations with clear decision logic.
 - Race preparation should improve fitness, pacing, transitions, and fueling without requiring a perfectly controlled schedule.
-- Current pool habit is to swim the full session continuously without planned rests. The purpose is race-specific mental durability and confidence that forward movement can be sustained when stopping is not possible.
+- Values continuous swimming for confidence and mental durability. This is a preference, not a prohibition on purposeful repetitions; later training included 10 x 400 m.

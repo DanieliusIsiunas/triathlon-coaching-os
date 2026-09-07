@@ -1,101 +1,86 @@
 # Triathlon Coaching OS Manifest
 
-Last updated: 2026-07-26
-System version: 1.2
+Last updated: 2026-09-07
+System version: 1.3
 Canonical repository: `DanieliusIsiunas/triathlon-coaching-os`
 
-## Purpose
+## Authority and ownership
 
-This manifest defines how persistent GitHub knowledge, live COROS data, current conversation inputs, and coaching rules combine into one coaching system.
+The default branch is the canonical mutable coaching store. Current explicit user instructions govern. Uploaded Project Sources, attachments, old conversations, skill copies and local artifacts are historical evidence only when GitHub is available.
 
-## Canonical-store rule
+Each responsibility has one owner:
 
-The default branch of `DanieliusIsiunas/triathlon-coaching-os` is the canonical mutable persistent coaching store.
+| Path | Responsibility |
+|---|---|
+| `knowledge/00-Coaching-OS-Manifest.md` | Authority, read/write contract, file ownership and integration contract |
+| `knowledge/01-Athlete-Profile.md` | Stable facts, preferences, constraints, injury history and equipment |
+| `knowledge/02-Current-Season.md` | Goals, season strategy, capability targets and benchmark protocols |
+| `knowledge/03-Active-State.md` | Current restrictions, confirmed rolling queue and next decision requirements |
+| `knowledge/04-Coach-Rules.md` | Coaching policy, live-input requirements, safety, output and review rules |
+| `knowledge/05-Learning-Log.md` | Current hypotheses, interventions, benchmark conclusions and retained learning |
+| `reviews/races/` | Official results, contextualized historical race evidence and review conclusions |
+| `templates/weekly-review.md` | Weekly output fields; no independent coaching policy |
+| `templates/race-review.md` | Race-review fields; no independent coaching policy |
+| `PROJECT-INSTRUCTIONS.md` | Thin project entry point to this manifest |
+| `README.md` | Human navigation, validation and integration status |
+| `scripts/validate_os.py` | Deterministic structural checks, not a coaching decision engine |
+| `tests/coaching-scenarios.md` | Behavioral evaluation cases, not athlete state or session prescriptions |
+| `CHANGELOG.md` | Architecture history and validation record |
 
-Uploaded Project Sources, prior attachments, sandbox artifacts, downloaded copies, and older conversation excerpts are not canonical when the repository is available. They may be used only as historical evidence or migration inputs.
+The root `00-Coaching-OS-Manifest.md` is a compatibility pointer only. Keep detailed policy in its owner; entry points, templates and historical reviews must not become alternative live rulebooks. System version is declared only here.
 
 ## Mandatory read order
 
-Before changing the plan, prescribing a consequential session, reviewing a race, or making a training-load decision:
+For a plan change, consequential session, race review, training-load decision or system revision:
 
-1. Fetch and read `knowledge/00-Coaching-OS-Manifest.md` from the canonical GitHub repository.
-2. Fetch `knowledge/01-Athlete-Profile.md` for stable facts relevant to the task.
-3. Fetch `knowledge/02-Current-Season.md` for current goals and strategy.
-4. Fetch `knowledge/03-Active-State.md` for active restrictions and the rolling session queue.
-5. Fetch `knowledge/04-Coach-Rules.md` for operating rules.
-6. Fetch `knowledge/05-Learning-Log.md` when reviewing trends, changing a hypothesis, evaluating an intervention, or recording a race review conclusion.
-7. Query current relevant COROS data.
-8. Use current conversation inputs for pain, illness, perceived readiness, family constraints, and available time.
+1. Fetch this manifest from the default branch; follow the root pointer if that was the entry point.
+2. Fetch `knowledge/01-Athlete-Profile.md`.
+3. Fetch `knowledge/02-Current-Season.md`.
+4. Fetch `knowledge/03-Active-State.md`.
+5. Fetch `knowledge/04-Coach-Rules.md`.
+6. Fetch `knowledge/05-Learning-Log.md` for trends, hypotheses, interventions, race reviews, weekly reviews or system revisions. Read relevant reviews/templates when needed.
+7. Query the live COROS data required by Coach Rules when dynamic telemetry materially affects the decision. An instruction-only revision does not itself clear symptoms, establish readiness or activate a training block.
+8. Use current conversation inputs for subjective state and practical constraints.
+
+If required canonical knowledge is inaccessible, name the missing source, do not reconstruct durable state from memory, and avoid the affected plan-level decision. Continue useful read-only work or conservative general guidance with the limitation stated. Apply Coach Rules' degraded-data behavior if COROS is unavailable.
 
 ## Source-of-truth precedence
 
-When sources disagree:
+For conflicting athlete facts and state:
 
-1. Current explicit user statement
-2. Live COROS data for dynamic telemetry and recorded activities
-3. Current `knowledge/03-Active-State.md`
-4. Current `knowledge/02-Current-Season.md`
-5. Current `knowledge/01-Athlete-Profile.md`
-6. Current `knowledge/04-Coach-Rules.md`
-7. Current `knowledge/05-Learning-Log.md`
-8. Historical race reviews in `reviews/races/`
-9. Older conversation history, Project Sources, attachments, or generated artifacts
+1. Current explicit user statement.
+2. Live COROS for dynamic telemetry and recorded activities, except official timing is authoritative for race results and verified course information for race distances.
+3. Current Active State.
+4. Current Season.
+5. Athlete Profile.
+6. Coach Rules as general defaults, not evidence of an athlete fact.
+7. Learning Log.
+8. Historical race reviews.
+9. Older conversation, Project Sources, attachments or generated artifacts.
 
-Live COROS data cannot override the user's current report of pain, illness, perceived effort, or practical availability.
+Live data never overrides the user's current pain, illness, effort, readiness or availability. A proposed queue cannot override a confirmed queue. A historical review does not prescribe today's session. Rules belong to Coach Rules; the precedence above is not permission for stale prose to override safety or operating policy.
 
-## Telemetry rule
+## Coaching loop
 
-Never treat stored COROS values as current telemetry. Recovery, training load, sleep, Heart Rate Variability (HRV), resting heart rate, fitness estimates, recent activities, and schedules must be queried live when they materially affect a decision.
+Observe -> distinguish facts from hypotheses -> choose the highest-value safe feasible stimulus -> define purpose, success, ceiling and progression -> review actual execution and next-day response -> compare expected with observed response -> update the owning file.
 
-Do not store raw workout streams or daily COROS snapshots in persistent Markdown files.
+Evaluate whole-race capability and sustainable participation. Coach Rules defines the decisions and evidence standards for this loop.
 
-## Mandatory coaching loop
+## Persistence and cleanup
 
-1. Observe: read relevant current repository knowledge, live COROS data, and current subjective constraints.
-2. Diagnose: identify readiness, risk, and the most important current limiter.
-3. Decide: select the highest-value safe session from the rolling queue.
-4. Adapt: provide minimum, target, or stretch versions when useful.
-5. Execute: prescribe the session with clear success criteria.
-6. Review: capture completion, Rate of Perceived Exertion (RPE), pain, fueling, and notable subjective response.
-7. Learn: update only confirmed facts, current restrictions, queue changes, race conclusions, or evidence-backed hypotheses.
+- Persist confirmed durable changes to goals, strategy, constraints, symptoms, equipment, preferences, hypotheses, intervention outcomes and race reviews. A direct user report confirms that report; do not ask again merely to record it. New training queues require confirmation unless the user has already authorized that exact change.
+- Fetch each target's current content and blob SHA before writing. Update the same path with the smallest coherent replacement. Reconcile intervening edits; never overwrite them blindly.
+- For a multi-file architecture revision, validate the complete revision and prefer one atomic commit based on the current tree. Verify target blob SHAs, recheck the branch head, and use a non-forced fast-forward update; rebuild on concurrent changes. For single-file updates use its current blob SHA.
+- Use descriptive commits as the audit trail. Append architecture changes to `CHANGELOG.md`; verify saved content before claiming success.
+- Do not store raw workout streams, daily wellness values or daily COROS telemetry in Markdown. Keep dates/references and the minimum contextual evidence needed for durable learning or a benchmark conclusion. Race results and race-specific fueling evidence belong in race reviews.
+- Active State holds only unresolved restrictions, the current queue and immediate decisions. Remove completed sessions and expired calendar instructions after retaining any durable conclusion in its owner. Absence of a new symptom report is not proof of recovery.
+- Update learning entries in place; reconcile superseded conclusions across affected owners in the same change. Retain useful historical outcomes compactly; Git history preserves removed detail. Do not create timestamped state copies or append a competing instruction patch.
+- Distinguish supported outcomes from untested mechanisms. Do not label an unavailable benchmark as failed or an unobserved outcome as passed.
 
-## Write protocol
+## Integration and validation contract
 
-For every persistent change:
+The coaching skill, project instructions and existing morning/weekly task prompts fetch this manifest and follow Coach Rules. They contain only routing, task intent and delivery language, not copied policy or athlete state. Preserve existing task schedules unless the user requests a schedule change.
 
-1. Identify the single canonical file whose responsibility changed.
-2. Fetch its current content and blob SHA from GitHub.
-3. Apply the smallest coherent replacement to that file.
-4. Update the existing path; do not create duplicates or timestamped substitutes.
-5. Use a descriptive commit message that states the confirmed coaching-state change.
-6. Re-fetch the file when verification is materially important.
+For architecture changes: run `python3 scripts/validate_os.py`, evaluate `tests/coaching-scenarios.md`, inspect the diff for lost constraints and conflicting instructions, and verify remote read-back. Structural checks catch known file/format regressions; behavioral evaluations and real-use review assess judgment. None guarantees training safety or performance.
 
-## File ownership rules
-
-- Update `knowledge/01-Athlete-Profile.md` only after a confirmed stable fact, long-term constraint, injury history, equipment, or preference changes.
-- Update `knowledge/02-Current-Season.md` after a confirmed goal, race, phase, strategy, or durable availability assumption changes.
-- Update `knowledge/03-Active-State.md` after a confirmed current restriction, symptom status, rolling-queue change, or immediate planning decision.
-- Update `knowledge/04-Coach-Rules.md` only when the operating protocol changes.
-- Update `knowledge/05-Learning-Log.md` after a meaningful hypothesis, intervention outcome, or validated personal response pattern.
-- Create a file in `reviews/races/` for each completed race review, using `templates/race-review.md`.
-- Use `templates/weekly-review.md` for weekly reviews; store only durable conclusions in canonical knowledge files.
-- Append system architecture changes to `CHANGELOG.md`.
-- Resolve or remove temporary restrictions once they are no longer current.
-- Do not preserve uncertainty as fact. Label hypotheses and confidence explicitly.
-
-## Required inputs before higher-risk sessions
-
-Before prescribing a run, hard bike session, brick, long session, or return after pain, collect or infer what remains unknown:
-
-- Sleep quality: 1-5
-- Energy: 1-5
-- Soreness: 1-5
-- Current pain: location and 0-10
-- Illness symptoms: yes/no
-- Available training time
-
-Do not repeat questions already answered in the current conversation or available from live sources.
-
-## System boundary
-
-GitHub Markdown files are durable coaching knowledge. COROS is the live objective telemetry source. The current conversation is the source for subjective symptoms and practical constraints. None substitutes for medical assessment when warning signs are present.
+After the first adopted training block under a revision, use the weekly review to evaluate decision usefulness, session execution, benchmark evidence, symptom handling, family fit and reporting burden. Keep validation pending until observed; do not create an extra scheduled task solely for this checkpoint.
