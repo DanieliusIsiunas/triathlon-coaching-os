@@ -1,6 +1,6 @@
 # Active State
 
-Last updated: 2026-09-07
+Last updated: 2026-09-08
 
 ## Current status
 
@@ -10,9 +10,9 @@ Last updated: 2026-09-07
 
 ## Current restrictions and release criteria
 
-- **Post-race recovery:** current delayed soreness, energy, calf and shoulder response remain to be established. The excellent immediate post-race report is historical, not today's readiness. No testing, long/hard work or performance-project activation in this recovery queue.
+- **Post-race recovery:** on 2026-09-08 Danielius reports mild bilateral calf-muscle aching that is noticeable but not meaningfully painful, plus a small residual right-shoulder sensation. Exact pain ratings, energy, illness status and the shoulder response at rest versus overhead remain to be established. No testing, long/hard work or performance-project activation in this recovery queue.
 - **Calf:** the July episode no longer creates a separate easy-running restriction after subsequent tolerated running. Historical resolution is recorded in the Learning Log. Current post-race response still needs confirmation; preserve the run gates below and gradual progression.
-- **Right shoulder:** the last specific swim follow-up on 2026-08-28 described a mild ache that persisted afterward without worsening during swimming. No explicit subsequent clearance is recorded. Avoid paddles, hard starts, deliberate stroke-rate increases and another long swim. Easy swimming is conditional on pain 0-1/10 at rest and overhead, no worsening during the session, and no worse next-morning response. Reassess at the next swim decision; persistent pain, night pain, weakness or reduced motion supports professional assessment.
+- **Right shoulder:** the last specific swim follow-up on 2026-08-28 described a mild ache that persisted afterward without worsening during swimming. On 2026-09-08 Danielius again reports that the shoulder is slightly noticeable, so explicit clearance is still absent. Avoid paddles, hard starts, deliberate stroke-rate increases and another long swim. Easy swimming is conditional on pain 0-1/10 at rest and overhead, no worsening during the session, and no worse next-morning response. Reassess at the next swim decision; persistent pain, night pain, weakness or reduced motion supports professional assessment.
 - **Back:** the previously reported mild cycling sensation is longstanding, tolerable after bike fit and resolves after riding; no separate restriction was established. New or changed symptoms require reassessment.
 - The August low-energy episode resolved after rest and subsequent tolerance; it is not a standing restriction.
 
