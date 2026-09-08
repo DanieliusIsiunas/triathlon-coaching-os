@@ -7,7 +7,7 @@ Last updated: 2026-09-08
 - The 2026-09-05 Druskininkai race is complete. Current goals and phase are owned by `knowledge/02-Current-Season.md`; official results and historical evidence by `reviews/races/2026-09-05-druskininkai-olympic.md`.
 - The post-race recovery queue below was confirmed on 2026-09-06. The 2026-09-07 system revision adds clarity and removes stale material; it does not establish current recovery or activate a training block.
 - All pre-race/taper sessions are closed. There is no make-up backlog.
-- The conditional return-to-movement item was completed on 2026-09-08 as a 2.20 km pool swim in 56:25 at 2:20/100 m, average heart rate 135 bpm and COROS training load 95. The intended 20-30 minute easy-swim alternative was exceeded, so this was a larger supporting aerobic session rather than a bounded recovery test. Danielius felt excellent; right-shoulder sensation stayed at 1/10 during and immediately after. No further structured training today; next-morning response is required before progression.
+- The conditional return-to-movement item was completed on 2026-09-08 as a 2.20 km pool swim in 56:25 at 2:20/100 m, average heart rate 135 bpm and COROS training load 95. The intended 20-30 minute easy-swim alternative was exceeded, so this was a larger supporting aerobic session rather than a bounded recovery test. Danielius rated the session 4/10, confirmed that the repetition structure with approximately 50-second recoveries was intentional, felt excellent, and reported that right-shoulder sensation stayed at 1/10 during and immediately after. No further structured training today; next-morning response is required before progression.
 
 ## Current restrictions and release criteria
 
