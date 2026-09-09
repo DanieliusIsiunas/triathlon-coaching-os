@@ -1,6 +1,6 @@
 # Learning Log
 
-Last updated: 2026-09-07
+Last updated: 2026-09-09
 
 This file owns hypotheses and durable response conclusions. Current restrictions/queue belong to Active State, protocols/targets to Current Season, and official race evidence to the linked race review. The 2026-09-07 reconciliation uses existing records and user-authorized system changes; it supplies no new live readiness or benchmark results.
 
@@ -9,8 +9,8 @@ This file owns hypotheses and durable response conclusions. Current restrictions
 ### L1 - Fresh running capacity and bike-to-run cost
 
 - Question/hypothesis: The run is the largest identified Olympic performance opportunity, but its limiting mechanism is unresolved. Fresh capacity, durability, coordination, preceding bike cost and pacing are competing explanations.
-- Evidence and alternatives: The [Druskininkai review](../reviews/races/2026-09-05-druskininkai-olympic.md) records a stable first three run loops, a late surge and difficulty accessing faster sustainable pace. Historical half-marathon ability is not a current baseline. Measured race cadence/power is absent; assumed gearing and average speed cannot establish pedaling cadence. Adequate-feeling effort and tolerated fueling do not exclude bike or nutritional cost.
-- Intervention/decision: Once recovery is established, use Current Season's RUN-E/RUN-F references as appropriate, then BRICK-C only if needed. First measure cadence if gearing remains a relevant explanation; do not impose 75-85 rpm as a correction to an unmeasured problem.
+- Evidence and alternatives: The [Druskininkai review](../reviews/races/2026-09-05-druskininkai-olympic.md) records a stable first three run loops, a late surge and difficulty accessing faster sustainable pace. Historical half-marathon ability is not a current baseline. Measured race cadence/power is absent; assumed gearing and average speed cannot establish race cadence. The first Favero-recorded ride on 2026-09-09 showed 64 rpm overall and approximately 65 rpm through the first 20 km, including 196 W at 64 rpm over km 5-10. This supports a naturally torque-heavy pedaling pattern, but mixed surface, strong wind, interruptions, new shoes and deliberate intensity changes prevent attribution to race execution or subsequent running. Adequate-feeling effort and tolerated fueling do not exclude bike or nutritional cost.
+- Intervention/decision: Once recovery is established, use Current Season's RUN-E/RUN-F references as appropriate, then BRICK-C only if needed. Cadence is now measurable. Before prescribing a correction, compare natural cadence with small controlled increases at similar easy power on a flat, uninterrupted ride and observe heart rate, leg effort, right-foot response and later running. Do not jump directly to a fixed cadence target.
 - Expected result and revision criterion: Comparable fresh and post-bike evidence will narrow the limiter. Relatively strong fresh running with poorer post-bike response supports transfer investigation; similarly limited performance fresh weakens bike cost as the sole explanation. Inconsistent conditions leave the result unresolved. Change one major variable in a later trial.
 - Review trigger: First relevant activated benchmark pair, then the end of the first adopted development block; earlier if reliable cadence or contradictory evidence arrives.
 - Status/outcome: unresolved; protocols are inactive and no new baseline exists.
