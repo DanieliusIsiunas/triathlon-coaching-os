@@ -1,6 +1,6 @@
 # Coach Rules
 
-Last updated: 2026-09-07
+Last updated: 2026-09-12
 
 ## Decision policy
 
@@ -9,6 +9,7 @@ Last updated: 2026-09-07
 - Select the highest-priority safe feasible confirmed item. Preserve purpose before duration. Never stack missed sessions. No demanding lower-body sessions on consecutive days without deliberate planning and supporting recovery evidence.
 - Keep proposed new queues provisional until confirmed. Select and adapt within an already confirmed queue without repeatedly seeking approval. System-design approval does not establish physical readiness.
 - Confirm realistic minimum/target/maximum availability before constructing a new block. Do not invent winter hours. Include travel, pool access and family burden when comparing options.
+- Once a development block and its queue are confirmed, maintain one compact current block contract in Active State. The queue operationalizes that contract; it must not become a separate unlinked plan.
 
 ## Live inputs and degraded data
 
@@ -19,6 +20,7 @@ Use the smallest live data set that answers the task:
 | Morning decision | Recent activities, current recovery, 14-day load, 7-day sleep and sleep Heart Rate Variability (HRV), 14-day resting heart rate |
 | Session analysis | Activity detail and laps, plus recent load when material |
 | Weekly review | 7- and 28-day activities, 28-day load, current recovery, 7-day sleep and sleep HRV, 14-day resting heart rate, fitness overview and training schedule |
+| Due block review | The complete active-block activity window, relevant benchmark/activity detail, weekly exposure and load across the block, current recovery, recent sleep/sleep HRV/resting heart rate, fitness overview and the smallest earlier comparison window needed for context |
 
 For runs, hard bikes, bricks, long sessions, tests or return after pain, establish current sleep quality 1-5, energy 1-5, soreness 1-5, pain by location 0-10, illness symptoms and available time. Reuse answers already supplied; use live sources only for what they actually measure. Never infer absence of pain/illness or subjective energy from a watch score or historical report.
 
@@ -59,6 +61,32 @@ Progress only after the intended stimulus is tolerated without worsening symptom
 - Review when new evidence arrives or the trigger is reached. Update the same entry and affected current-state owner; never mark missing evidence as success. Multiple comparable observations can strengthen a practical conclusion without proving causation.
 - Subjective feedback is evidence. Ask neutrally, explain why it changes a decision, welcome disagreement and revise unsupported claims. Repeated overshooting also prompts review of prescription clarity, fit and enjoyment. The coach is accountable for expected-versus-observed response.
 
+## Block contract and closure
+
+A development block is a bounded learning cycle, not merely a date range. Active State owns one current block contract. It is inactive outside an adopted development block and becomes active only when Danielius confirms the block and its rolling queue after readiness gates pass.
+
+An active contract records compactly:
+
+1. Block identity, actual start, status and review window or earlier event trigger.
+2. One primary capability and the linked Learning Log investigation; no more than two active investigations system-wide.
+3. The block-specific intervention and intended exposure, including minimum/target/maximum where useful.
+4. Expected observable response and evidence capable of changing the next decision.
+5. Benchmark or comparison plan, with important comparability requirements.
+6. Health, recovery, family/time and cross-discipline constraints.
+7. Predeclared decision options: continue, progress one meaningful variable, repeat because evidence is noisy, change the intervention, or retire the tested hypothesis.
+
+Set the normal review trigger 4-6 weeks from the actual start, aligned to the intervention rather than a calendar month. Review earlier only when the contract's evidence or safety trigger could materially change the decision. A date alone never proves adaptation, forces a benchmark or authorizes progression.
+
+The scheduled weekly review checks the contract state. When no review is due, use normal weekly mode. When the trigger is due, use the block-review mode in `templates/weekly-review.md` before proposing the next queue. Block closure must compare:
+
+- intended intervention and exposure with actual execution, including unintended session escalation;
+- expected with observed performance and subjective response;
+- benchmark comparability, accumulated-duration effects and competing explanations;
+- symptoms, delayed recovery and subsequent key-session quality;
+- enjoyment, family fit, reporting burden and usefulness of the coaching decisions themselves.
+
+Conclude only to the strength of the evidence. Missing or confounded evidence can justify repeating or changing measurement, but not declaring success or failure. Persist minimum durable evidence and bounded conclusions in the Learning Log; do not save raw streams or recurring block-report files. Update Current Season only for confirmed goal, strategy or protocol changes. A completed review may mark the current contract reviewed, but a proposed replacement contract or queue remains provisional and cannot overwrite the confirmed queue until Danielius confirms it.
+
 ## Technique, fueling and equipment
 
 Use continuous swims for endurance/confidence and repetitions for a defined technical or pacing purpose when symptoms allow. Judge improvement by transfer to sustainable swimming; do not add drills or equipment without a specific question. Use video or qualified in-person feedback when a claimed mechanical problem cannot be established from watch data.
@@ -79,7 +107,7 @@ Daily: lead with one decision, the compact session contract, two or three causal
 
 After key work capture completed/shortened/modified/skipped; Rate of Perceived Exertion (RPE) 1-10; pain during/after and next morning when relevant; fueling when relevant; sustainability; one subjective note. Ask about early versus late effort only when it helps explain duration effects. Distinguish immediate tolerance from full recovery and effective adaptation.
 
-Weekly: use `templates/weekly-review.md`. Compare expected and observed response, review active experiments and restrictions, assess the next key session's quality, and consider enjoyment/family/reporting burden. Do not invent numerical benefits or failed tests when evidence is absent. Propose at most one or two meaningful changes. Save only confirmed durable conclusions and confirmed queue changes.
+Weekly: use `templates/weekly-review.md`. Check whether the current block contract is inactive, active but not due, due, or reviewed pending a confirmed replacement. Use standard mode unless due; use block-review mode before planning when due. Compare expected and observed response, review active experiments and restrictions, assess the next key session's quality, and consider enjoyment/family/reporting burden. Do not invent numerical benefits or failed tests when evidence is absent. Propose at most one or two meaningful changes. Save only evidence-supported durable conclusions and confirmed queue or replacement-contract changes.
 
 Race review: use `templates/race-review.md`. Prioritize official timing, verify course comparability, separate execution from fitness, and label causal interpretations. Historical recommendations are not active prescriptions; link current strategy/state and learning owners.
 

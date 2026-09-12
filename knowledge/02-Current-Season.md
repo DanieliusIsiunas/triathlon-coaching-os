@@ -1,6 +1,6 @@
 # Current Season
 
-Last updated: 2026-09-07
+Last updated: 2026-09-12
 
 ## Current phase
 
@@ -104,6 +104,7 @@ The more ambitious 5:00/km triathlon-run direction remains provisional. It is no
 ### Activation and comparison rules
 
 - The current recovery queue and symptom gates take precedence. No baseline test until progressive return has been tolerated, current relevant COROS and subjective inputs are available, and the test is included in a confirmed queue. New pain, illness or disrupted recovery defers it.
+- When Danielius confirms the first development block and queue, record the compact current block contract in Active State under Coach Rules. System-design approval alone does not activate it.
 - Fit measurements into ordinary training; do not add all protocols as extra sessions. Start with a fresh-running reference; add one comparison only when it answers a remaining decision. No mandatory maximal tests.
 - At activation record the exact route/pool length, equipment, warm-up, recovery between repetitions, effort target, preceding 48-hour training, relevant weather, fueling and timing. Repeat comparable conditions. A materially modified protocol establishes a new baseline, not a clean improvement.
 - Retain only the protocol identity and durable baseline/change conclusion with dates, uncertainty and decision in the Learning Log. COROS owns activity/lap detail. Never invent missing results.
@@ -121,4 +122,4 @@ Rate of Perceived Exertion (RPE) uses a 1-10 scale.
 
 These initial doses are comparison designs, not minimum weekly requirements. At activation the coach must choose a lower-risk alternative if a design exceeds current tolerance; document the new baseline rather than forcing standardization.
 
-Review after one completed development block, provisionally 4-6 weeks from its actual start, or earlier when meaningful evidence changes the decision. Repeat rather than escalate if results are noisy. Seek improvement beyond the individual's observed variation with acceptable recovery on more than one comparable observation; there is no invented universal percentage threshold. If capability improves fresh but not after cycling, investigate transfer and bike cost. If neither improves, review execution, dose, recovery and measurement before adding intensity. A fresh 5 km result alone cannot validate Project 2:49.
+Close the activated benchmark work through the current block contract and due weekly block review under Coach Rules. Seek improvement beyond the individual's observed variation with acceptable recovery on more than one comparable observation; there is no invented universal percentage threshold. If capability improves fresh but not after cycling, investigate transfer and bike cost. If neither improves, review execution, dose, recovery and measurement before adding intensity. A fresh 5 km result alone cannot validate Project 2:49.

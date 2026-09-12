@@ -6,7 +6,7 @@ Danielius's canonical coaching knowledge. Start with [the manifest](knowledge/00
 
 - [Athlete Profile](knowledge/01-Athlete-Profile.md): stable facts and preferences.
 - [Current Season](knowledge/02-Current-Season.md): targets, strategy and inactive benchmark designs.
-- [Active State](knowledge/03-Active-State.md): current restrictions and confirmed queue.
+- [Active State](knowledge/03-Active-State.md): current restrictions, current block contract and confirmed queue.
 - [Learning Log](knowledge/05-Learning-Log.md): questions, evidence, outcomes and review triggers.
 - [Race reviews](reviews/races/): historical evidence.
 - [Weekly template](templates/weekly-review.md) and [race template](templates/race-review.md): output fields.
@@ -21,10 +21,10 @@ Then evaluate [coaching scenarios](tests/coaching-scenarios.md), inspect the ful
 
 ## Integration boundary
 
-The personal coaching skill and existing morning/weekly tasks should fetch the manifest and use the canonical rules. Their schedules are independent of policy revisions. The root manifest pointer remains for older entry points.
+The personal coaching skill and existing morning/weekly tasks should fetch the manifest and use the canonical rules. The weekly task is the sole scheduled planner and enters block-review mode only when the current contract's trigger is due. Their schedules are independent of policy revisions. The root manifest pointer remains for older entry points.
 
 `PROJECT-INSTRUCTIONS.md` is the maintained text for ChatGPT Project settings; editing this repository file does not edit the actual settings. Danielius confirmed replacing the settings text with this entry point and supplied a matching screenshot on 2026-09-07. The manual integration step is complete.
 
 ## Maintenance scope
 
-Keep one owner per responsibility. Git history retains removed detail; do not create backup state files. Daily telemetry stays in COROS; conversation supplies current subjective state. Benchmarks remain designs until activated in a confirmed queue through current readiness gates.
+Keep one owner per responsibility. Git history retains removed detail; do not create backup state or recurring block-report files. Daily telemetry stays in COROS; conversation supplies current subjective state. Benchmarks and block contracts remain inactive until adopted with a confirmed queue through current readiness gates.

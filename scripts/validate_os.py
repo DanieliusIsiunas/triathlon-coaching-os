@@ -45,10 +45,22 @@ def validate(root):
     active=root/'knowledge/03-Active-State.md'
     if active.exists():
         text=active.read_text()
+        check(len(re.findall(r'^## Current block contract$',text,re.M))==1,
+              'Active State must contain exactly one current block contract')
+        contract_status=re.search(r'^- \*\*Status:\*\* (inactive|active|review due|reviewed pending replacement)\.?$',text,re.M)
+        check(bool(contract_status),'Current block contract status is missing or invalid')
         check(not re.search(r'(?:average heart rate|training load|SWOLF|aerobic training effect)\s*(?:was|of|:)?\s*\d',text,re.I), 'Daily telemetry found in Active State')
         check(not re.search(r'\d{4}-\d{2}-\d{2}.*(?:bpm|strokes/min)',text), 'Dated sensor values found in Active State')
         if len(text.split())>900:
             warnings.append('Active State exceeds 900 words; check for completed sessions or duplicated policy')
+    rules=root/'knowledge/04-Coach-Rules.md'
+    if rules.exists():
+        check('## Block contract and closure' in rules.read_text(),
+              'Coach Rules is missing block contract and closure policy')
+    weekly=root/'templates/weekly-review.md'
+    if weekly.exists():
+        check('## Block review mode - only when due' in weekly.read_text(),
+              'Weekly template is missing due block-review mode')
     log=root/'knowledge/05-Learning-Log.md'
     if log.exists():
         text=log.read_text()
