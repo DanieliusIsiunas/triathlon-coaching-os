@@ -5,7 +5,7 @@ Last updated: 2026-09-13
 ## Current status
 
 - The 2026-09-05 Druskininkai race and its pre-race queue are closed. Goals and phase belong to `knowledge/02-Current-Season.md`; official evidence belongs to `reviews/races/2026-09-05-druskininkai-olympic.md`.
-- The confirmed post-race return sequence is complete. The return swim was immediately tolerated with a stable mild right-shoulder sensation. The equipment-test ride reproduced load-dependent right-foot numbness that stopped on unclipping. The first return run exceeded its prescribed ceiling and left both calf muscles feeling loaded without reported pain. On 2026-09-13 Danielius reported feeling good and that the calves were settling; walking, stairs and single-leg heel-raise response were not yet reported, so impact release is not established.
+- The confirmed post-race return sequence is complete. The return swim was immediately tolerated with a stable mild right-shoulder sensation. The equipment-test ride reproduced load-dependent right-foot numbness that stopped on unclipping. The first return run exceeded its prescribed ceiling and left both calf muscles feeling loaded without reported pain. On 2026-09-13 Danielius reported feeling good and that the calves were settling; walking, stairs and single-leg heel-raise response were not yet reported, so impact release is not established. The user-authorized open-water swim was completed on 2026-09-13; immediate and next-morning shoulder response remain unreported.
 - No make-up backlog exists. A new development block and its benchmark work remain inactive until current recovery is confirmed and Danielius adopts the proposed block and queue.
 
 ## Current restrictions and release criteria
@@ -29,7 +29,6 @@ Last updated: 2026-09-13
 | Priority / item | Purpose and prescribed dose | Success, ceiling and progression |
 |---|---|---|
 | Immediate review | Assess walking, stairs, calf response to five single-leg heel raises per side, right-foot sensation, shoulder, energy, general soreness and illness. | If all gates pass, post-race return may be considered tolerated and a development block may be proposed. If a gate fails, retain the relevant restriction and choose only a safe recovery option. |
-| Conditional one-off, user-authorized for 2026-09-13 | Easy open-water swim: 5 minutes gradual entry and easy acclimation, then 15-20 minutes relaxed continuous swimming at RPE 2-3/10; maximum 30 minutes total. No paddles, hard starts or deliberate stroke-rate work. | Proceed only if the right shoulder is 0-1/10 at rest and overhead with no night pain, weakness or reduced motion; no illness; general soreness no more than 2/5; and water, wind, visibility and supervision are safe. Stop for increasing shoulder pain, an unsettled cold response, unusual breathlessness or dizziness. This does not activate the development block. |
 | Optional fallback | Rest or 10-30 minutes easy walking. | Keep movement easy until the review is complete. This item does not activate training progression. |
 
 ## Run and brick gates
