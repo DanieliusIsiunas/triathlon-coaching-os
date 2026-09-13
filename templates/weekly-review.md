@@ -9,6 +9,7 @@ Use current `knowledge/04-Coach-Rules.md` for policy and the manifest for source
 - Relevant live data and unavailable/low-quality evidence:
 - Key/supporting/optional work completed, modified, shortened or missed:
 - Intended stimulus versus actual execution; unintended ceiling exceedances:
+- Available training budget versus prescribed and completed exposure; evidence of underdosing or overprotection as well as overload:
 - Current symptom/recovery pattern and outstanding release criteria:
 
 ## Coach assessment
@@ -20,6 +21,7 @@ Use current `knowledge/04-Coach-Rules.md` for policy and the manifest for source
 - Active learning entries reviewed; status/outcome changes and next triggers:
 - Enjoyment, family/time fit and reporting burden; prescription clarity if execution differed:
 - One or two justified changes, or reason to retain the approach:
+- Planned progression delivered in the last 7-14 days, or concrete evidence for holding the dose:
 
 ## Block review mode - only when due
 

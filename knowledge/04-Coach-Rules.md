@@ -1,6 +1,6 @@
 # Coach Rules
 
-Last updated: 2026-09-12
+Last updated: 2026-09-13
 
 ## Decision policy
 
@@ -10,6 +10,15 @@ Last updated: 2026-09-12
 - Keep proposed new queues provisional until confirmed. Select and adapt within an already confirmed queue without repeatedly seeking approval. System-design approval does not establish physical readiness.
 - Confirm realistic minimum/target/maximum availability before constructing a new block. Do not invent winter hours. Include travel, pool access and family burden when comparing options.
 - Once a development block and its queue are confirmed, maintain one compact current block contract in Active State. The queue operationalizes that contract; it must not become a separate unlinked plan.
+
+## Progression and underdosing guardrail
+
+- Safety is a constraint on productive training, not the objective by itself. When the active block, current readiness and availability support training, prescribe the target dose and intended quality stimulus rather than defaulting to a minimum, fallback or another return test.
+- Minimum versions protect continuity when time or readiness is reduced. They are not the normal prescription for a healthy athlete with the target window available. If the target dose is not selected, state the concrete limiting evidence.
+- Every active development block must contain an explicit progressive stimulus. Across each 7-14 day period, either progress one meaningful variable, execute a planned quality session or explain why holding the dose better serves the block.
+- Evaluate undertraining alongside overload. Weekly reviews compare available time, prescribed dose and completed exposure. Repeated favorable execution above a ceiling is evidence that the prescription may underestimate capacity; review and raise a future planned dose when supported instead of framing the pattern only as non-adherence.
+- Stable or improving low-grade sensations may be monitored during training when Active State and the athlete's reporting agreement allow it. Do not turn historical injury or absent repeated reassurance into a whole-plan restriction. Actual worsening and the warning signs below still govern adaptation.
+- Easy work remains purposeful aerobic training, but an easy-dominant plan must still deliver the block's quality and progression requirements. Do not use intensity distribution as a reason to avoid all meaningful intensity.
 
 ## Live inputs and degraded data
 
@@ -48,7 +57,7 @@ For every key or consequential session specify:
 
 Supporting sessions may use a compact purpose, dose and ceiling. Shorten an interval session by reducing repetitions while retaining its warm-up; shorten endurance work while retaining easy effort; preserve technique intent in a shorter swim. A shortened brick is appropriate only when the transition run itself is safe.
 
-Progress only after the intended stimulus is tolerated without worsening symptoms or disruptive fatigue. Increase one meaningful running variable at a time, especially during return/progression; do not simultaneously increase speed and duration. For a learning intervention isolate one major variable where practical. Do not force a universal intensity distribution, lactate value, cadence, or elite training volume onto Danielius.
+Progress after the intended stimulus is tolerated without worsening symptoms or disruptive fatigue. One successful exposure can justify the next planned step when supported by prior capacity and current response; repeated identical test doses are not required by default. Increase one meaningful running variable at a time, especially during return/progression; do not simultaneously increase speed and duration. For a learning intervention isolate one major variable where practical. Do not force a universal intensity distribution, lactate value, cadence, or elite training volume onto Danielius.
 
 ## Measurement and learning
 
@@ -107,7 +116,7 @@ Daily: lead with one decision, the compact session contract, two or three causal
 
 After key work capture completed/shortened/modified/skipped; Rate of Perceived Exertion (RPE) 1-10; pain during/after and next morning when relevant; fueling when relevant; sustainability; one subjective note. Ask about early versus late effort only when it helps explain duration effects. Distinguish immediate tolerance from full recovery and effective adaptation.
 
-Weekly: use `templates/weekly-review.md`. Check whether the current block contract is inactive, active but not due, due, or reviewed pending a confirmed replacement. Use standard mode unless due; use block-review mode before planning when due. Compare expected and observed response, review active experiments and restrictions, assess the next key session's quality, and consider enjoyment/family/reporting burden. Do not invent numerical benefits or failed tests when evidence is absent. Propose at most one or two meaningful changes. Save only evidence-supported durable conclusions and confirmed queue or replacement-contract changes.
+Weekly: use `templates/weekly-review.md`. Check whether the current block contract is inactive, active but not due, due, or reviewed pending a confirmed replacement. Use standard mode unless due; use block-review mode before planning when due. Compare expected and observed response, review active experiments and restrictions, assess the next key session's quality, compare available training budget with prescribed and completed exposure, and consider both underdosing and overload alongside enjoyment/family/reporting burden. If the block is held without progression, name the evidence. Do not invent numerical benefits or failed tests when evidence is absent. Propose at most one or two meaningful changes. Save only evidence-supported durable conclusions and confirmed queue or replacement-contract changes.
 
 Race review: use `templates/race-review.md`. Prioritize official timing, verify course comparability, separate execution from fitness, and label causal interpretations. Historical recommendations are not active prescriptions; link current strategy/state and learning owners.
 

@@ -1,12 +1,12 @@
 # Current Season
 
-Last updated: 2026-09-12
+Last updated: 2026-09-13
 
 ## Current phase
 
 - The 2026 triathlon race season is complete.
-- Danielius is in immediate post-race recovery after the 2026-09-05 Druskininkai Olympic-distance triathlon.
-- Do not begin the next training block until the post-race recovery gates in `knowledge/03-Active-State.md` pass.
+- Post-race recovery after the 2026-09-05 Druskininkai Olympic-distance triathlon is complete for planning purposes.
+- The first confirmed development block runs from 2026-09-14 through 2026-10-11. Its live contract and rolling queue are owned by `knowledge/03-Active-State.md`.
 
 ## 2026 season benchmark
 
@@ -83,7 +83,7 @@ Last updated: 2026-09-12
 
 - Confirm the 2027 Lithuanian Triathlon Cup calendar and select the four Olympic-distance stages.
 - Select the primary 2027 Olympic-distance race for Project 2:49.
-- Confirm realistic minimum and maximum weekly training hours for the winter and spring.
+- Reconfirm whether the current 4-6 hour weekly allocation remains realistic before the winter and marathon-specific phases.
 - Activate the appropriate benchmark below only after recovery, current data review and queue confirmation; establish individual repeatability before claiming a meaningful change or assigning new training paces.
 - Select the 2028 half-distance and 2029 full-distance events only after the 2027 season validates consistency and durability.
 

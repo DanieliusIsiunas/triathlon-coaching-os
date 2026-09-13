@@ -57,10 +57,14 @@ def validate(root):
     if rules.exists():
         check('## Block contract and closure' in rules.read_text(),
               'Coach Rules is missing block contract and closure policy')
+        check('## Progression and underdosing guardrail' in rules.read_text(),
+              'Coach Rules is missing progression and underdosing guardrail')
     weekly=root/'templates/weekly-review.md'
     if weekly.exists():
         check('## Block review mode - only when due' in weekly.read_text(),
               'Weekly template is missing due block-review mode')
+        check('evidence of underdosing or overprotection' in weekly.read_text(),
+              'Weekly template is missing underdosing review')
     log=root/'knowledge/05-Learning-Log.md'
     if log.exists():
         text=log.read_text()

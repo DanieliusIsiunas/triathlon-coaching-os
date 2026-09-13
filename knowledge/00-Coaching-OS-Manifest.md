@@ -1,7 +1,7 @@
 # Triathlon Coaching OS Manifest
 
-Last updated: 2026-09-12
-System version: 1.4
+Last updated: 2026-09-13
+System version: 1.5
 Canonical repository: `DanieliusIsiunas/triathlon-coaching-os`
 
 ## Authority and ownership

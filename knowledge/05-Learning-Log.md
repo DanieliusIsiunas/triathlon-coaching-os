@@ -1,6 +1,6 @@
 # Learning Log
 
-Last updated: 2026-09-12
+Last updated: 2026-09-13
 
 This file owns hypotheses and durable response conclusions. Current restrictions/queue belong to Active State, protocols/targets to Current Season, and official race evidence to the linked race review. The 2026-09-07 reconciliation uses existing records and user-authorized system changes; it supplies no new live readiness or benchmark results.
 
@@ -19,9 +19,9 @@ This file owns hypotheses and durable response conclusions. Current restrictions
 ### L2 - Session purpose, ceiling and sustainable execution
 
 - Question/hypothesis: Explicit success criteria and ceilings, combined with better prescription fit, may reduce unintended session escalation while preserving enjoyment and key-session quality.
-- Evidence and alternatives: Prior records show multiple short/easy prescriptions becoming longer or harder, including the 2026-08-26 bike, 2026-08-28 swim, race-week run and the 2026-09-11 first post-race run, where a 20-minute 2-3/10 impact-tolerance test became 39:38 at 4/10 with a 5:35 kilometre. Immediate tolerance does not establish benefit to the next key session. Underestimated capacity, unclear intent and enjoyment preferences may explain the pattern; do not assume poor discipline.
-- Intervention/decision: Use the Coach Rules session contract, explain the reason for the ceiling, and ask about clarity/fit when execution differs. Bind the intervention to the first confirmed development block contract, keep reporting concise and evaluate execution plus downstream response at weekly reviews and block closure.
-- Expected result and revision criterion: Intended stimulus is achieved more consistently, next key sessions remain feasible, and reporting/enjoyment are acceptable. If escalation persists, inspect prescription clarity and realism before adding restrictions. If the ceiling is repeatedly too low with favorable evidence, reconsider the future dose through normal progression.
+- Evidence and alternatives: Prior records show multiple short/easy prescriptions becoming longer or harder, including the 2026-08-26 bike, 2026-08-28 swim, race-week run and the 2026-09-11 first post-race run, where a 20-minute 2-3/10 impact-tolerance test became 39:38 at 4/10 with a 5:35 kilometre. Across 2026-07-20 through 2026-09-13 Danielius recorded 43 sessions and about 43.7 hours, averaging about 5.5 hours per week, with several higher-volume weeks tolerated. On 2026-09-13 he explicitly reported that coaching had become overprotective and too consistently slower/shorter despite 4-6 available hours and a performance goal. Immediate tolerance does not prove unlimited capacity, but the pattern supports underestimated prescription as a real alternative to non-adherence.
+- Intervention/decision: Use the Coach Rules session contract and the new progression/underdosing guardrail. The confirmed 2026-09-14 block defaults to its target exposure and includes meaningful quality plus progression. Explain ceilings, but treat repeated favorable overshoot as evidence to recalibrate future planned dose. Keep reporting concise and evaluate execution plus downstream response at weekly reviews and block closure.
+- Expected result and revision criterion: Target exposure is normally prescribed and achieved, quality sessions and planned progression occur, next key sessions remain feasible, and reporting/enjoyment are acceptable. If recovery or symptoms deteriorate, reduce the affected dose. If the athlete still experiences the plan as chronically conservative despite favorable response, strengthen progression or revise the block design rather than adding more return tests.
 - Review trigger: First weekly review containing relevant sessions and end of the first adopted block.
 - Status/outcome: unresolved; implemented as a coaching protocol, not yet demonstrated effective in use.
 - Confidence: medium for the observed pattern; low for the intervention effect until reviewed.

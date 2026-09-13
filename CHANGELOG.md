@@ -58,3 +58,12 @@
 - Extended structural validation for one current block contract, allowed contract states, canonical closure policy and weekly block-review fields. Six injected regressions were detected as intended. Reviewed all 14 behavioral scenarios, including four new block-boundary cases. Final local validation passed with zero structural errors, zero size warnings and a clean diff check.
 - Updated and read back the existing weekly automation prompt so it checks the block contract and invokes canonical block-review mode only when due. Its title, schedule, timezone and enabled state were preserved; the morning task and unrelated automations were unchanged.
 - Runtime limitation: this architecture revision did not establish current recovery, activate a development block or prove the new loop effective. Real-use validation remains pending until the first adopted block closes.
+
+## 2026-09-13 - v1.5 progression and underdosing balance
+
+- Danielius confirmed that the prior coaching balance had become too conservative despite a sustained 4-6 hour weekly allocation, favorable recovery and repeated tolerance of work above prescribed ceilings.
+- Added a progression and underdosing guardrail. Target doses now govern normal ready weeks; minimums are continuity fallbacks, and holding a development dose requires concrete evidence.
+- Required at least one meaningful progression or planned quality stimulus across each 7-14 day period in an active block, while preserving actual warning-sign and recovery protections.
+- Added weekly comparison of available budget, prescribed dose and completed exposure. Repeated favorable overshoot must be considered evidence of underestimated prescription, not only non-adherence.
+- Activated the 2026-09-14 through 2026-10-11 run-development and dose-recalibration block at 4 hours minimum, about 5 hours 15 minutes target and 6 hours maximum, with three runs, two swims and one bike per complete cycle.
+- Added four behavioral regression scenarios and deterministic checks for the new rule and weekly-review field. Real-use effectiveness remains pending until the 2026-10-11 block review.

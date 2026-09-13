@@ -1,6 +1,6 @@
 # Athlete Profile
 
-Last updated: 2026-09-09
+Last updated: 2026-09-13
 
 ## Identity and physiology
 
@@ -19,6 +19,7 @@ Last updated: 2026-09-09
 - Weekday pool access is available.
 - Swimming is strongly preferred and additional swim frequency or occasional double-session days are acceptable when they improve the plan without displacing higher-priority work or recovery.
 - Running should generally remain at no more than three sessions per week unless explicitly reconsidered.
+- Current sustainable training allocation: 4 hours is the minimum complete week, about 5 hours is the normal target, and 6 hours is the normal maximum. Use the available budget for purposeful training rather than defaulting to fallback doses when readiness is favorable.
 
 ## Health and injury history
 
@@ -51,4 +52,5 @@ Last updated: 2026-09-09
 - Confirmed on 2026-09-07: keep coaching instructions concise, tidy and consistent; implement the Bu-informed experiment/review approach with explicit evidence limits.
 - Prefer concise recommendations with clear decision logic.
 - Race preparation should improve fitness, pacing, transitions, and fueling without requiring a perfectly controlled schedule.
+- Danielius prefers progressive coaching that balances protection with sufficient overload. Stable or improving low-grade sensations should not create anticipatory whole-plan restriction; he will report actual worsening so the affected work can be adapted.
 - Values continuous swimming for confidence and mental durability. This is a preference, not a prohibition on purposeful repetitions; later training included 10 x 400 m.

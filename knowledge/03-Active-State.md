@@ -4,50 +4,49 @@ Last updated: 2026-09-13
 
 ## Current status
 
-- The 2026-09-05 Druskininkai race and its pre-race queue are closed. Goals and phase belong to `knowledge/02-Current-Season.md`; official evidence belongs to `reviews/races/2026-09-05-druskininkai-olympic.md`.
-- The confirmed post-race return sequence is complete. The return swim was immediately tolerated with a stable mild right-shoulder sensation. The equipment-test ride reproduced load-dependent right-foot numbness that stopped on unclipping. The first return run exceeded its prescribed ceiling and left both calf muscles feeling loaded without reported pain. On 2026-09-13 Danielius reported feeling good, that the calves were settling, and completed a 1.43 km open-water swim at RPE 3/10 with right-shoulder ache 0.5/10. Danielius explicitly directed the coach to plan on the calf and shoulder not worsening and to adapt only if he reports actual deterioration. Stable or improving low-grade sensations are therefore not an anticipatory block to the next development plan.
-- No make-up backlog exists. Post-race recovery is considered complete for planning purposes. A new development block and its benchmark work remain inactive only until Danielius adopts the proposed block and queue.
+- Post-race recovery is complete for planning purposes. Danielius confirmed the first development block and queue on 2026-09-13; no make-up backlog exists.
+- Current calf loading is settling and the right shoulder was 0.5/10 after the 2026-09-13 open-water swim. Danielius directed the coach to plan on both remaining stable and will report actual deterioration. Stable or improving low-grade sensations are not anticipatory blockers.
+- A clipped-in ride reproduced right-foot numbness that stopped on unclipping. This remains an equipment-specific issue for the next bike session.
 
-## Current restrictions and release criteria
+## Current restrictions and response rules
 
-- **Post-race recovery:** complete for planning purposes as of 2026-09-13. Normal development may resume through a confirmed block.
-- **Calf:** no anticipatory restriction is active while the current sensation remains stable or improves. Danielius will report actual worsening; new focal pain, progressive asymmetry, altered gait or pain during ordinary walking triggers adaptation.
-- **Right shoulder:** the current stable 0.5/10 post-swim sensation is not an anticipatory restriction. Danielius will report actual worsening. Avoid symptom-provoking load; persistent pain, night pain, weakness or reduced motion supports professional assessment.
-- **Right foot:** before the next clipped-in ride, compare left/right cleat placement and test briefly at easy effort with the right forefoot closure slightly looser. Stop at the first recurrence. If numbness recurs, test one small rearward cleat adjustment rather than changing several variables. Persistent off-bike symptoms, weakness, colour or temperature change, swelling or recurrence despite fit changes requires professional assessment.
-- **Back:** the longstanding mild cycling sensation is tolerable after bike fit and resolves after riding; no separate restriction is active. Reassess new or changed symptoms.
+- **Calf and shoulder:** no anticipatory restriction while stable or improving. Adapt the affected discipline for actual worsening. New focal or progressive pain, altered gait, night pain, weakness or meaningful loss of motion requires reassessment.
+- **Right foot:** compare cleat placement, keep the right forefoot closure less restrictive and stop clipped-in work if numbness recurs. If it recurs, test one small rearward cleat adjustment rather than several simultaneous changes. Persistent off-bike symptoms, weakness, colour/temperature change or swelling supports professional assessment.
+- **Back:** the longstanding mild cycling sensation resolves after riding and creates no current restriction. Reassess changed symptoms.
 
 ## Current block contract
 
-- **Status:** inactive.
-- **Reason:** no development queue has yet been adopted.
-- **Activation dependency:** propose a 4-6 hour weekly development block using Danielius's confirmed current training allocation, then confirm its rolling queue under Coach Rules.
-- **Review trigger:** none until a block is active.
-- **Closure:** not due.
+- **Status:** active.
+- **Identity:** Run development and dose recalibration, 2026-09-14 through the due weekly review on 2026-10-11.
+- **Primary capability and investigations:** Build distinct running gears and longer aerobic durability while testing L1 fresh-running capacity and L2 prescription fit.
+- **Intervention and exposure:** Three runs, two swims and one bike per complete rolling cycle. Use 4 hours as the minimum complete week, about 5 hours 15 minutes as the target and 6 hours as the maximum. The target is the default when readiness and availability are normal.
+- **Expected response:** Complete meaningful quality work without disruptive fatigue, establish a repeatable easy-running reference, progress the long run toward 70 minutes and retain swim/bike participation.
+- **Evidence plan:** Embed RUN-E in the first suitable easy run. Use RUN-F as the quality run in the final block week if ordinary training is tolerated. Preserve comparable route, chest strap, shoes, effort and important conditions.
+- **Constraints:** Maximum three runs per rolling week; do not place the controlled-fast run and long run on consecutive days. Address the right-foot issue before meaningful clipped-in work.
+- **Decision options:** Continue; progress one meaningful variable; repeat because evidence is noisy; change the intervention; or retire a tested explanation.
+- **Closure:** Review on 2026-10-11, or earlier for actual symptom deterioration, disruptive fatigue or decision-changing evidence.
 
 ## Confirmed rolling session queue
 
-| Priority / item | Purpose and prescribed dose | Success, ceiling and progression |
+Select the highest-priority feasible item. Use a supporting swim or rest day between demanding lower-body sessions. Complete all six within each rolling cycle; family constraints may move sessions without creating make-up work.
+
+| Item | Dose | Success and progression |
 |---|---|---|
-| Planning decision | Prepare the first 4-6 hour development block with meaningful progressive stimulus, three-run weekly ceiling, maintained swimming and cycling, and no anticipatory calf or shoulder hold. | The replacement block and exact rolling queue remain provisional until Danielius confirms them. Adapt if he reports actual symptom deterioration. |
+| Key 1 - controlled-fast run | Minimum 40, target 45, maximum 50 minutes: 15 easy, 4 x 4 minutes at RPE 6-7/10 with 2 easy between, then easy finish. | Even controlled work, no finishing test. If tolerated, progress one variable in a later cycle. |
+| Key 2 - long aerobic run | Minimum 50, target 60, maximum 70 minutes at RPE 3-4/10, without an artificial pace cap. | Finish controlled. Progress duration toward the maximum before adding faster work. |
+| Key 3 - bike with controlled work | Minimum 60, target 80, maximum 90 minutes; include 4 x 6 minutes at RPE 6/10 with 3 easy. | Record interval power/cadence. Keep the right shoe less restrictive and stop clipped-in work if numbness recurs. |
+| Supporting 1 - easy run / RUN-E | Minimum 30, target 40, maximum 45 minutes. First suitable execution: 10 easy, 20 conversational around RPE 3/10, easy finish. | Consistent effort and usable heart rate. This baseline does not cap the rest of the week. |
+| Supporting 2 - quality swim | Minimum 30, target 45, maximum 50 minutes. Target: 300 m easy, 6 x 200 m at RPE 5/10 with 20 seconds rest, 200 m easy. | Technically controlled repetitions; adapt only if the shoulder worsens. |
+| Supporting 3 - aerobic swim | Minimum 30, target 45, maximum 55 minutes continuous at RPE 3-4/10. | Sustainable rhythm without deliberate pace suppression. |
 
-## Run and brick gates
+Target versions total about 5 hours 15 minutes; minimums total 4 hours and maximums 6 hours. Do not default to all minima when the target week is feasible.
 
-Confirm on the intended day:
+## Monitoring and next decisions
 
-- Walking and stairs are normal, with no morning stiffness or altered right-foot sensation.
-- Five single-leg heel raises per side cause no more than 0-1/10 sensation.
-- Energy is at least 3/5 and general soreness no more than 2/5.
-- No illness symptoms and enough time exists for an unrushed warm-up.
-
-Use Coach Rules for general warning signs, complete subjective-input requirements and live-data checks. If a gate fails, keep running conditional and choose a recovery or non-impact option only if its own gates pass.
-
-## Next decision requirements
-
-1. Fetch current relevant COROS data and establish sleep, energy, soreness, pain, illness and available time under Coach Rules.
-2. Treat the current calf and shoulder state as stable unless Danielius reports actual worsening; do not require an extra anticipatory clearance check. Reassess the right-foot equipment issue before clipped-in cycling.
-3. Use 4 hours as the minimum, 5 hours as the target and 6 hours as the maximum current weekly allocation when proposing the first development block.
-4. Keep the exact new block, benchmark activation and replacement queue provisional until Danielius confirms them.
+- Danielius will report actual calf or shoulder worsening; do not require repeated anticipatory clearance of the current stable/improving sensations.
+- Use the confirmed target dose when readiness and time are normal. Before consequential sessions, fetch required live data and establish current readiness under Coach Rules.
+- Weekly reviews assess both overload and insufficient stimulus. Keep later replacement queues provisional until confirmed.
 
 ## System validation checkpoint
 
-- At the first adopted development block closure, evaluate whether the block contract and review mode improved decision usefulness, execution, benchmark evidence, symptom handling, family fit and reporting burden. Status: unobserved.
+- At block closure, evaluate decision usefulness, execution, benchmark evidence, symptoms, family fit, reporting burden and whether the system delivered adequate progression. Status: unobserved.
