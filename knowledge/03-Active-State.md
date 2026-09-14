@@ -1,12 +1,13 @@
 # Active State
 
-Last updated: 2026-09-13
+Last updated: 2026-09-14
 
 ## Current status
 
 - Post-race recovery is complete for planning purposes. Danielius confirmed the first development block and queue on 2026-09-13; no make-up backlog exists.
 - Current calf loading is settling and the right shoulder was 0.5/10 after the 2026-09-13 open-water swim. Danielius directed the coach to plan on both remaining stable and will report actual deterioration. Stable or improving low-grade sensations are not anticipatory blockers.
 - A clipped-in ride reproduced right-foot numbness that stopped on unclipping. This remains an equipment-specific issue for the next bike session.
+- The first controlled-fast run was completed on 2026-09-14. Danielius reported the intervals at RPE 8/10 versus the prescribed 6-7/10, walked after the fourth interval, enjoyed the faster pace, and felt right-calf tightness that remained controlled. The next-day calf response is pending.
 
 ## Current restrictions and response rules
 
@@ -28,11 +29,11 @@ Last updated: 2026-09-13
 
 ## Confirmed rolling session queue
 
-Select the highest-priority feasible item. Use a supporting swim or rest day between demanding lower-body sessions. Complete all six within each rolling cycle; family constraints may move sessions without creating make-up work.
+Key 1 is complete for the current rolling cycle. Take a supporting swim or rest before the next demanding lower-body session, then select the highest-priority feasible unfinished item. Complete all six within each rolling cycle; family constraints may move sessions without creating make-up work.
 
 | Item | Dose | Success and progression |
 |---|---|---|
-| Key 1 - controlled-fast run | Minimum 40, target 45, maximum 50 minutes: 15 easy, 4 x 4 minutes at RPE 6-7/10 with 2 easy between, then easy finish. | Even controlled work, no finishing test. If tolerated, progress one variable in a later cycle. |
+| Key 1 - controlled-fast run - completed 2026-09-14 for this cycle | Minimum 40, target 45, maximum 50 minutes: 15 easy, 4 x 4 minutes at RPE 6-7/10 with 2 easy between, then easy finish. | Do not repeat this cycle. Review interval control and the next-day calf response before progressing one variable in a later cycle. |
 | Key 2 - long aerobic run | Minimum 50, target 60, maximum 70 minutes at RPE 3-4/10, without an artificial pace cap. | Finish controlled. Progress duration toward the maximum before adding faster work. |
 | Key 3 - bike with controlled work | Minimum 60, target 80, maximum 90 minutes; include 4 x 6 minutes at RPE 6/10 with 3 easy. | Record interval power/cadence. Keep the right shoe less restrictive and stop clipped-in work if numbness recurs. |
 | Supporting 1 - easy run / RUN-E | Minimum 30, target 40, maximum 45 minutes. First suitable execution: 10 easy, 20 conversational around RPE 3/10, easy finish. | Consistent effort and usable heart rate. This baseline does not cap the rest of the week. |
@@ -44,6 +45,7 @@ Target versions total about 5 hours 15 minutes; minimums total 4 hours and maxim
 ## Monitoring and next decisions
 
 - Danielius will report actual calf or shoulder worsening; do not require repeated anticipatory clearance of the current stable/improving sensations.
+- Review the next-morning right-calf response after the 2026-09-14 run before long running or controlled bike work. Stable or improving tension permits queue continuation after supporting swim/rest; worsening focal pain, altered gait or a clearly worse heel-raise response requires adaptation.
 - Use the confirmed target dose when readiness and time are normal. Before consequential sessions, fetch required live data and establish current readiness under Coach Rules.
 - Weekly reviews assess both overload and insufficient stimulus. Keep later replacement queues provisional until confirmed.
 
