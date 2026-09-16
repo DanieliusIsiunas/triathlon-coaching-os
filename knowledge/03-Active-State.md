@@ -1,6 +1,6 @@
 # Active State
 
-Last updated: 2026-09-15
+Last updated: 2026-09-16
 
 ## Current status
 
@@ -9,6 +9,7 @@ Last updated: 2026-09-15
 - A clipped-in ride reproduced right-foot numbness that stopped on unclipping. This remains an equipment-specific issue for the next bike session.
 - The first controlled-fast run was completed on 2026-09-14. Danielius reported the intervals at RPE 8/10 versus the prescribed 6-7/10, walked after the fourth interval, enjoyed the faster pace, and felt right-calf tightness that remained controlled. The next-day calf response was good on 2026-09-15, supporting continuation of the confirmed queue.
 - The quality pool swim was completed on 2026-09-15 as 4 x 400 m at reported RPE 5/10. COROS shows stable repeat pace and technique metrics across the recorded work blocks. Right-shoulder response was 1/10 after the session, supporting good immediate tolerance.
+- The long aerobic run was completed on 2026-09-16. Danielius reported the right calf at 1/10 afterward. COROS activity detail was temporarily unavailable, so duration, effort and execution remain to be reviewed.
 
 ## Current restrictions and response rules
 
@@ -30,12 +31,12 @@ Last updated: 2026-09-15
 
 ## Confirmed rolling session queue
 
-Key 1 and Supporting 2 are complete for the current rolling cycle. The next-day calf response was good; select the highest-priority feasible unfinished item. Family constraints may move sessions without creating make-up work.
+Key 1, Key 2 and Supporting 2 are complete for the current rolling cycle. The next-day calf response was good; select the highest-priority feasible unfinished item. Family constraints may move sessions without creating make-up work.
 
 | Item | Dose | Success and progression |
 |---|---|---|
 | Key 1 - controlled-fast run - completed 2026-09-14 for this cycle | Minimum 40, target 45, maximum 50 minutes: 15 easy, 4 x 4 minutes at RPE 6-7/10 with 2 easy between, then easy finish. | Do not repeat this cycle. Interval effort exceeded prescription at RPE 8/10, but the next-day calf response was good; progress no more than one variable in a later cycle. |
-| Key 2 - long aerobic run | Minimum 50, target 60, maximum 70 minutes at RPE 3-4/10, without an artificial pace cap. | Finish controlled. Progress duration toward the maximum before adding faster work. |
+| Key 2 - long aerobic run - completed 2026-09-16 for this cycle | Minimum 50, target 60, maximum 70 minutes at RPE 3-4/10, without an artificial pace cap. | Do not repeat this cycle. Right calf was 1/10 afterward; duration, effort and execution remain to be reviewed when available. |
 | Key 3 - bike with controlled work | Minimum 60, target 80, maximum 90 minutes; include 4 x 6 minutes at RPE 6/10 with 3 easy. | Record interval power/cadence. Keep the right shoe less restrictive and stop clipped-in work if numbness recurs. |
 | Supporting 1 - easy run / RUN-E | Minimum 30, target 40, maximum 45 minutes. First suitable execution: 10 easy, 20 conversational around RPE 3/10, easy finish. | Consistent effort and usable heart rate. This baseline does not cap the rest of the week. |
 | Supporting 2 - quality swim - completed 2026-09-15 for this cycle | Minimum 30, target 45, maximum 50 minutes. Target: 300 m easy, 6 x 200 m at RPE 5/10 with 20 seconds rest, 200 m easy. | Do not repeat this cycle. Actual main set was 4 x 400 m at RPE 5/10 with stable COROS metrics and right-shoulder response of 1/10, supporting good immediate tolerance. |
@@ -46,7 +47,7 @@ Target versions total about 5 hours 15 minutes; minimums total 4 hours and maxim
 ## Monitoring and next decisions
 
 - Danielius will report actual calf or shoulder worsening; do not require repeated anticipatory clearance of the current stable/improving sensations.
-- The next-morning right-calf response after the 2026-09-14 run was good. No calf-specific queue restriction is active; adapt only for actual worsening.
+- The next-morning right-calf response after the 2026-09-14 run was good, and the right calf was 1/10 after the 2026-09-16 long run. No calf-specific queue restriction is active; adapt only for actual worsening.
 - Right-shoulder response was 1/10 after the 2026-09-15 swim. This supports good immediate tolerance; adapt only for actual worsening or a delayed response that does not settle.
 - Use the confirmed target dose when readiness and time are normal. Before consequential sessions, fetch required live data and establish current readiness under Coach Rules.
 - Weekly reviews assess both overload and insufficient stimulus. Keep later replacement queues provisional until confirmed.
