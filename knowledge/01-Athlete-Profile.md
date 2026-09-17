@@ -42,7 +42,7 @@ Last updated: 2026-09-17
   - Cranks and gearing: 175 mm Shimano RX600 cranks, 46/30 chainrings, Shimano GRX RX810 2x11 shifting, 11-34 cassette.
   - Wheels: DT Swiss C 1850 Spline db.
   - Power meter pedals: Favero Assioma PRO MX-1, first ride recorded on 2026-09-09; single-sided power and cadence data are available.
-  - Cycling shoes: Mavic Crossmax Elite SL BOA MTB shoes, black; size not recorded.
+  - Cycling shoes: Mavic Crossmax Elite SL BOA MTB shoes, black, EU 44 2/3.
 - Fueling flask: HydraPak SoftFlask 150 ml.
 - Pool membership: weekdays.
 
