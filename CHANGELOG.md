@@ -67,3 +67,9 @@
 - Added weekly comparison of available budget, prescribed dose and completed exposure. Repeated favorable overshoot must be considered evidence of underestimated prescription, not only non-adherence.
 - Activated the 2026-09-14 through 2026-10-11 run-development and dose-recalibration block at 4 hours minimum, about 5 hours 15 minutes target and 6 hours maximum, with three runs, two swims and one bike per complete cycle.
 - Added four behavioral regression scenarios and deterministic checks for the new rule and weekly-review field. Real-use effectiveness remains pending until the 2026-10-11 block review.
+
+## 2026-09-17 - Daily output fallback cleanup
+
+- Removed the standing family-compatible fallback from daily coaching output. Family fit remains a planning constraint handled through the confirmed rolling queue, current availability and minimum/target/maximum doses.
+- A shorter session version now appears only when a current time or readiness constraint makes it decision-useful; it must name that constraint and preserve the session purpose and essential safety requirements.
+- Updated behavioral scenarios to distinguish real-time adaptation from a generic second option. The morning automation prompt was aligned without changing its schedule.

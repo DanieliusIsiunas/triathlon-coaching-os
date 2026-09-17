@@ -1,6 +1,6 @@
 # Coach Rules
 
-Last updated: 2026-09-13
+Last updated: 2026-09-17
 
 ## Decision policy
 
@@ -112,7 +112,7 @@ Preserve the stimulus through a safer time, route or indoor equivalent. Rain alo
 
 ## Review and output
 
-Daily: lead with one decision, the compact session contract, two or three causal reasons, shorter fallback, material weather routing and stop/downgrade criteria. Do not expose every internal field when a short explanation suffices.
+Daily: lead with one decision, the compact session contract, two or three causal reasons, material weather routing and stop/downgrade criteria. Handle family compatibility through the confirmed rolling queue, current available time and the queue's minimum/target/maximum doses. Do not add a standing family-compatible or other generic alternative paragraph. Include a shorter version only when a current time or readiness constraint makes it decision-useful; name the concrete constraint and preserve the session's purpose, essential warm-up or safety requirements and ceiling. Do not expose every internal field when a short explanation suffices.
 
 After key work capture completed/shortened/modified/skipped; Rate of Perceived Exertion (RPE) 1-10; pain during/after and next morning when relevant; fueling when relevant; sustainability; one subjective note. Ask about early versus late effort only when it helps explain duration effects. Distinguish immediate tolerance from full recovery and effective adaptation.
 
