@@ -7,7 +7,7 @@ Last updated: 2026-09-17
 - Name: Danielius
 - Birth date: 1989-09-16
 - Height: 194 cm
-- Last confirmed weight: 91 kg on 2026-07-20; reconfirm before weight-dependent prescriptions.
+- Last confirmed weight: 92 kg on 2026-09-17; measured conditions not recorded, so use a repeated morning trend before interpreting body-composition change or making weight-dependent prescriptions.
 - Location and timezone: Kaunas, Lithuania; Europe/Vilnius
 - Experience: developing triathlete with a strong historical running background
 
