@@ -1,23 +1,21 @@
 # Active State
 
-Last updated: 2026-09-19
+Last updated: 2026-09-20
 
 ## Current status
 
-- Post-race recovery is complete for planning purposes. Danielius confirmed the first development block and queue on 2026-09-13; no make-up backlog exists.
-- The right calf was good on 2026-09-15 after the prior day's controlled-fast run. The right shoulder was 1/10 after the 2026-09-15 pool swim, compared with 0.5/10 after the 2026-09-13 open-water swim. Danielius directed the coach to plan on both remaining stable and will report actual deterioration. Stable or improving low-grade sensations are not anticipatory blockers.
-- A clipped-in ride reproduced right-foot numbness that stopped on unclipping. This remains an equipment-specific issue for the next bike session.
-- The first controlled-fast run was completed on 2026-09-14. Danielius reported the intervals at RPE 8/10 versus the prescribed 6-7/10, walked after the fourth interval, enjoyed the faster pace, and felt right-calf tightness that remained controlled. The next-day calf response was good on 2026-09-15, supporting continuation of the confirmed queue.
-- The quality pool swim was completed on 2026-09-15 as 4 x 400 m at reported RPE 5/10. COROS shows stable repeat pace and technique metrics across the recorded work blocks. Right-shoulder response was 1/10 after the session, supporting good immediate tolerance.
-- The long aerobic run was completed on 2026-09-16: 10.01 km in 1:02:34 at 6:15/km average pace and 152 bpm average heart rate. The second 5 km was faster than the first while cadence, ground-contact time and vertical ratio remained stable. Danielius reported RPE 4/10, at least 15 minutes of remaining capacity, enjoyment of gradual acceleration, and the right calf at 1/10 afterward. This supports good immediate duration and prescription tolerance but does not alone establish longer-distance durability.
-- On 2026-09-17 Danielius replaced the supporting aerobic swim with an aerobic bike ride: 77:09, 31.82 km, 137 bpm average heart rate, 175 W average power and 195 W normalized power at RPE 3.5/10. He felt great, consumed 550 ml water and no carbohydrate, and reported no calf or shoulder impact. Wearing the Mavic shoe looser reduced the right-foot numbness to only a trace, materially better than the prior ride.
-- An additional aerobic pool swim was recorded by Tredict on 2026-09-18: 45:36 total, 39:16 moving, 1,650 m and 123 bpm average heart rate. Subjective effort and shoulder response are not yet recorded.
-- Key 3 was completed on 2026-09-19. Tredict recorded 1:33:21, 39.03 km, 138 bpm average heart rate, 155 W average power and 70 rpm average cadence. All four 6-minute work laps and three 3-minute recoveries were captured; work-lap average power was 237, 244, 192 and 208 W with cadence 78, 72, 75 and 78 rpm. Danielius reported strong unpleasant wind, interval RPE 7/10 versus the prescribed 6/10, and little remaining energy after the work, describing the ride as a grind. He consumed 30 g carbohydrate and 500 ml fluid. The right foot remained symptom-free at the looser shoe setting. Route, wind and terrain differences limit direct lap-power comparison.
+- Post-race recovery is complete for planning purposes. Danielius confirmed the first development block on 2026-09-13 and the next rolling queue on 2026-09-20; no make-up backlog exists.
+- The first block cycle delivered approximately 6 hours 12 minutes across six consecutive training days. The prescribed exposure was sufficient rather than conservative, but both the controlled-fast run and key bike exceeded intended effort. The next cycle therefore progresses only the long-run duration while holding the fast-run dose and making the bike aerobic.
+- The first controlled-fast run was completed at RPE 8/10 versus the prescribed 6-7/10 and required walking after the fourth interval. The next-day calf response was good. The next execution repeats the same 4 x 4-minute dose; success is controlled fourth-repetition execution rather than a faster or harder session.
+- The long aerobic run was completed as 10.01 km in 1:02:34 at RPE 4/10 with at least 15 minutes of reported reserve, a faster second half and stable running-dynamics metrics. This supports the planned duration progression to 65-70 minutes.
+- The 2026-09-19 bike was a hard completed stimulus rather than the intended controlled moderate one: 1:33:21, strong unpleasant wind, interval RPE 7/10 and little remaining energy after the work. The confirmed next bike is aerobic without hard intervals.
+- The right foot remained symptom-free on 2026-09-19 with the Mavic shoe looser. Right-calf and right-shoulder low-grade sensations have not produced a current restriction; Danielius will report actual deterioration.
+- RUN-E remains uncompleted and is retained as the first item in the new confirmed queue.
 
 ## Current restrictions and response rules
 
 - **Calf and shoulder:** no anticipatory restriction while stable or improving. Adapt the affected discipline for actual worsening. New focal or progressive pain, altered gait, night pain, weakness or meaningful loss of motion requires reassessment.
-- **Right foot:** the 2026-09-19 meaningful clipped-in session was symptom-free at the looser Mavic shoe setting, following only a trace sensation on 2026-09-17. No active restriction remains; retain the looser forefoot closure. Shoe compression is a supported practical contributor, not a confirmed sole mechanism. If material numbness recurs, stop clipped-in work and test one small rearward cleat adjustment rather than several simultaneous changes. Persistent off-bike symptoms, weakness, colour/temperature change or swelling supports professional assessment.
+- **Right foot:** no active restriction remains after symptom-free meaningful clipped-in work at the looser Mavic shoe setting. Retain the looser forefoot closure. Shoe compression is a supported practical contributor, not a confirmed sole mechanism. If material numbness recurs, stop clipped-in work and test one small rearward cleat adjustment rather than several simultaneous changes. Persistent off-bike symptoms, weakness, colour/temperature change or swelling supports professional assessment.
 - **Back:** the longstanding mild cycling sensation resolves after riding and creates no current restriction. Reassess changed symptoms.
 
 ## Current block contract
@@ -25,36 +23,37 @@ Last updated: 2026-09-19
 - **Status:** active.
 - **Identity:** Run development and dose recalibration, 2026-09-14 through the due weekly review on 2026-10-11.
 - **Primary capability and investigations:** Build distinct running gears and longer aerobic durability while testing L1 fresh-running capacity and L2 prescription fit.
-- **Intervention and exposure:** Three runs, two swims and one bike per complete rolling cycle. Use 4 hours as the minimum complete week, about 5 hours 15 minutes as the target and 6 hours as the maximum. The target is the default when readiness and availability are normal.
+- **Intervention and exposure:** Three runs, two swims and one bike per complete rolling cycle. Use 4 hours as the minimum complete week, about 5 hours 15-25 minutes as the target and 6 hours as the maximum. The target is the default when readiness and availability are normal.
 - **Expected response:** Complete meaningful quality work without disruptive fatigue, establish a repeatable easy-running reference, progress the long run toward 70 minutes and retain swim/bike participation.
-- **Evidence plan:** Embed RUN-E in the first suitable easy run. Use RUN-F as the quality run in the final block week if ordinary training is tolerated. Preserve comparable route, chest strap, shoes, effort and important conditions.
-- **Constraints:** Maximum three runs per rolling week; do not place the controlled-fast run and long run on consecutive days. Address the right-foot issue before meaningful clipped-in work.
+- **Evidence plan:** Complete RUN-E on the same flat route with Polar H10 and the same shoes when practical. Use RUN-F as the quality run in the final block week if ordinary training is tolerated. Preserve comparable route, equipment, effort and important conditions.
+- **Constraints:** Maximum three runs per rolling week; do not place the controlled-fast run and long run on consecutive days. In this cycle, progress only long-run duration; hold the controlled-fast dose and make the bike aerobic.
 - **Decision options:** Continue; progress one meaningful variable; repeat because evidence is noisy; change the intervention; or retire a tested explanation.
 - **Closure:** Review on 2026-10-11, or earlier for actual symptom deterioration, disruptive fatigue or decision-changing evidence.
 
 ## Confirmed rolling session queue
 
-Key 1, Key 2, Key 3, Supporting 2 and the Supporting 3 aerobic-session substitution are complete for the current rolling cycle. An additional aerobic swim was recorded on 2026-09-18. Supporting 1 is the only unfinished confirmed item. Family constraints may move sessions without creating make-up work.
+Confirmed by Danielius on 2026-09-20. Sessions may move with family constraints without creating make-up work. Keep demanding running sessions non-consecutive. The target total is approximately 5 hours 25 minutes.
 
-| Item | Dose | Success and progression |
-|---|---|---|
-| Key 1 - controlled-fast run - completed 2026-09-14 for this cycle | Minimum 40, target 45, maximum 50 minutes: 15 easy, 4 x 4 minutes at RPE 6-7/10 with 2 easy between, then easy finish. | Do not repeat this cycle. Interval effort exceeded prescription at RPE 8/10, but the next-day calf response was good; progress no more than one variable in a later cycle. |
-| Key 2 - long aerobic run - completed 2026-09-16 for this cycle | Minimum 50, target 60, maximum 70 minutes at RPE 3-4/10, without an artificial pace cap. | Do not repeat this cycle. Actual: 1:02:34 and 10.01 km at RPE 4/10, with a faster second 5 km, stable running-dynamics metrics and at least 15 minutes of reported reserve. Right calf was 1/10 afterward; next-morning response remains to be captured. |
-| Key 3 - bike with controlled work - completed 2026-09-19 for this cycle | Minimum 60, target 80, maximum 90 minutes; include 4 x 6 minutes at RPE 6/10 with 3 easy. | Do not repeat this cycle. Actual: 1:33:21 with all four work laps captured; interval RPE 7/10, strong unpleasant wind and little remaining energy after the work. Work-lap average power was 237, 244, 192 and 208 W, with cadence 78, 72, 75 and 78 rpm; wind/terrain confound comparison. Right foot was symptom-free at the looser setting. |
-| Supporting 1 - easy run / RUN-E | Minimum 30, target 40, maximum 45 minutes. First suitable execution: 10 easy, 20 conversational around RPE 3/10, easy finish. | Consistent effort and usable heart rate. This baseline does not cap the rest of the week. |
-| Supporting 2 - quality swim - completed 2026-09-15 for this cycle | Minimum 30, target 45, maximum 50 minutes. Target: 300 m easy, 6 x 200 m at RPE 5/10 with 20 seconds rest, 200 m easy. | Do not repeat this cycle. Actual main set was 4 x 400 m at RPE 5/10 with stable COROS metrics and right-shoulder response of 1/10, supporting good immediate tolerance. |
-| Supporting 3 - aerobic swim - replaced by aerobic bike 2026-09-17 for this cycle | Minimum 30, target 45, maximum 55 minutes continuous at RPE 3-4/10. | Do not repeat this cycle. Actual substitute: 77:09 bike at RPE 3.5/10, 175 W average and 195 W normalized power; no calf or shoulder impact. This does not complete Key 3. |
+| Order | Item | Confirmed dose | Success and ceiling |
+|---|---|---|---|
+| 1 | Easy control run / RUN-E | Target 40 minutes, maximum 45: 10 minutes easy, 20 minutes conversational around RPE 3/10, then 5-10 minutes easy. | Use the same flat route, shoes and Polar H10 when practical. Hold a consistent conversational effort and collect usable heart rate. This is a submaximal reference, not a pace or finish test. |
+| 2 | Controlled-fast run | About 45 minutes: 15 minutes easy, 4 x 4 minutes at RPE 6-7/10 with 2 minutes easy between, then easy finish. Do not add repetitions or duration. | The fourth repetition should be as controlled as the first. Reduce a repetition if needed to preserve the RPE ceiling; no finishing test. |
+| 3 | Long aerobic run | Progress to 65-70 minutes at RPE 3-4/10. The final 15 minutes may accelerate naturally without finish pressure. | This is the cycle's only planned running progression. Finish with sustainable mechanics and without disruptive next-day fatigue or actual symptom worsening. |
+| 4 | Aerobic bike | 75-90 minutes at RPE 3-4/10, without hard intervals. | Retain the looser shoe setting. If conditions allow, compare natural cadence with brief 75 and 80 rpm segments at similar easy power; do not force a target or let the comparison turn into hard work. |
+| 5 | Quality swim | 40-50 minutes. A suitable main set is 4 x 400 m at RPE 5/10. | Keep repetition quality stable. Explore a higher elbow as one cue only; do not claim improvement without transfer evidence. |
+| 6 | Aerobic swim | 40-50 minutes continuous at RPE 3-4/10. | Smooth sustainable execution without pace forcing. Adapt only for actual shoulder worsening. |
 
-Target versions total about 5 hours 15 minutes; minimums total 4 hours and maximums 6 hours. Do not default to all minima when the target week is feasible.
+Do not default to minimum or fallback doses when readiness and available time are normal. Do not exceed the long-run or fast-run ceilings because the session feels good.
 
 ## Monitoring and next decisions
 
-- Danielius will report actual calf or shoulder worsening; do not require repeated anticipatory clearance of the current stable/improving sensations.
-- The next-morning right-calf response after the 2026-09-14 run was good, the right calf was 1/10 after the 2026-09-16 long run, and the following day's aerobic ride caused no calf impact. No calf-specific queue restriction is active; adapt only for actual worsening.
-- Right-shoulder response was 1/10 after the 2026-09-15 swim. This supports good immediate tolerance; adapt only for actual worsening or a delayed response that does not settle.
-- Treat the 2026-09-19 bike as a hard completed stimulus rather than a controlled moderate one. Preserve the planned 2026-09-20 rest day and capture next-day general fatigue and leg response before the next run.
-- Use the confirmed target dose when readiness and time are normal. Before consequential sessions, fetch required live data and establish current readiness under Coach Rules.
-- Weekly reviews assess both overload and insufficient stimulus. Keep later replacement queues provisional until confirmed.
+- Complete RUN-E before interpreting easy-running repeatability or considering BRICK-C.
+- For the controlled-fast run, record whether the fourth repetition remained controlled, overall RPE, sustainability and next-day calf response.
+- For the long run, capture final-15-minute effort, remaining capacity and next-day response. Do not progress another running variable in this cycle.
+- Keep the aerobic bike genuinely aerobic after the prior hard bike. Cadence comparison is optional and subordinate to session purpose.
+- Danielius will report actual calf, shoulder or foot worsening; do not require repeated anticipatory clearance of stable or improving low-grade sensations.
+- Use the confirmed target dose when readiness and time are normal. Before consequential sessions, fetch required live data and establish current subjective readiness under Coach Rules.
+- The next replacement queue remains provisional until Danielius confirms it.
 
 ## System validation checkpoint
 
