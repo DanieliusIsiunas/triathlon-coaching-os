@@ -1,6 +1,6 @@
 # Active State
 
-Last updated: 2026-09-20
+Last updated: 2026-09-21
 
 ## Current status
 
@@ -10,7 +10,7 @@ Last updated: 2026-09-20
 - The long aerobic run was completed as 10.01 km in 1:02:34 at RPE 4/10 with at least 15 minutes of reported reserve, a faster second half and stable running-dynamics metrics. This supports the planned duration progression to 65-70 minutes.
 - The 2026-09-19 bike was a hard completed stimulus rather than the intended controlled moderate one: 1:33:21, strong unpleasant wind, interval RPE 7/10 and little remaining energy after the work. The confirmed next bike is aerobic without hard intervals.
 - The right foot remained symptom-free on 2026-09-19 with the Mavic shoe looser. Right-calf and right-shoulder low-grade sensations have not produced a current restriction; Danielius will report actual deterioration.
-- RUN-E remains uncompleted and is retained as the first item in the new confirmed queue.
+- The first RUN-E observation was completed on 2026-09-21: 45:01, 6.99 km at 6:26/km, 150 bpm average and 161 bpm maximum heart rate, with reported RPE 3/10 and a very relaxed subjective feel. Heart rate rose from 133 bpm in km 1 to about 155-157 bpm later while pace eased; strong wind and unconfirmed chest-strap use make this a noisy first reference rather than evidence of poor easy-run tolerance.
 
 ## Current restrictions and response rules
 
@@ -36,7 +36,7 @@ Confirmed by Danielius on 2026-09-20. Sessions may move with family constraints 
 
 | Order | Item | Confirmed dose | Success and ceiling |
 |---|---|---|---|
-| 1 | Easy control run / RUN-E | Target 40 minutes, maximum 45: 10 minutes easy, 20 minutes conversational around RPE 3/10, then 5-10 minutes easy. | Use the same flat route, shoes and Polar H10 when practical. Hold a consistent conversational effort and collect usable heart rate. This is a submaximal reference, not a pace or finish test. |
+| 1 | Easy control run / RUN-E - completed 2026-09-21 for this cycle | Target 40 minutes, maximum 45: 10 minutes easy, 20 minutes conversational around RPE 3/10, then 5-10 minutes easy. | Actual: 45:01, 6.99 km at 6:26/km and RPE 3/10 with a relaxed feel. Average heart rate was 150 bpm and rose to the mid-150s later despite easing pace; strong wind and unconfirmed chest-strap use limit interpretation. Do not repeat this cycle. |
 | 2 | Controlled-fast run | About 45 minutes: 15 minutes easy, 4 x 4 minutes at RPE 6-7/10 with 2 minutes easy between, then easy finish. Do not add repetitions or duration. | The fourth repetition should be as controlled as the first. Reduce a repetition if needed to preserve the RPE ceiling; no finishing test. |
 | 3 | Long aerobic run | Progress to 65-70 minutes at RPE 3-4/10. The final 15 minutes may accelerate naturally without finish pressure. | This is the cycle's only planned running progression. Finish with sustainable mechanics and without disruptive next-day fatigue or actual symptom worsening. |
 | 4 | Aerobic bike | 75-90 minutes at RPE 3-4/10, without hard intervals. | Retain the looser shoe setting. If conditions allow, compare natural cadence with brief 75 and 80 rpm segments at similar easy power; do not force a target or let the comparison turn into hard work. |
@@ -47,7 +47,7 @@ Do not default to minimum or fallback doses when readiness and available time ar
 
 ## Monitoring and next decisions
 
-- Complete RUN-E before interpreting easy-running repeatability or considering BRICK-C.
+- RUN-E now has one noisy first observation. Confirm whether Polar H10 was used, then repeat only in a later cycle under comparable calmer conditions before interpreting easy-running repeatability or considering BRICK-C.
 - For the controlled-fast run, record whether the fourth repetition remained controlled, overall RPE, sustainability and next-day calf response.
 - For the long run, capture final-15-minute effort, remaining capacity and next-day response. Do not progress another running variable in this cycle.
 - Keep the aerobic bike genuinely aerobic after the prior hard bike. Cadence comparison is optional and subordinate to session purpose.
