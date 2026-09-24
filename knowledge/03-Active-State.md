@@ -1,12 +1,13 @@
 # Active State
 
-Last updated: 2026-09-23
+Last updated: 2026-09-24
 
 ## Current status
 
 - Post-race recovery is complete for planning purposes. Danielius confirmed the first development block on 2026-09-13 and the next rolling queue on 2026-09-20; no make-up backlog exists.
 - The first block cycle delivered approximately 6 hours 12 minutes across six consecutive training days. The prescribed exposure was sufficient rather than conservative, but both the controlled-fast run and key bike exceeded intended effort. The next cycle therefore progresses only the long-run duration while holding the fast-run dose and making the bike aerobic.
 - The controlled-fast repeat was completed on 2026-09-23 in 39:24. Danielius reported RPE 7/10 and one-repetition reserve. The four work repetitions were stable at about 5:18, 5:18, 5:24 and 5:20/km, with 293, 304, 291 and 294 W; the fourth did not fade. This was materially better controlled than the first RPE 8/10 execution. The planned dose is complete for this cycle; the only execution miss was an almost absent easy cooldown.
+- The quality swim was completed on 2026-09-24 as 5 x 400 m in 48:41 total and 2,000 m. The first four were the work set and the fifth was a deliberate easy cooldown. Reported overall RPE was 6/10 versus the intended 5/10, with energy fading after the first two work repetitions; work pace slowed from about 2:11-2:12 to 2:17-2:20/100 m. The shoulder remained okay. The preceding controlled-fast run and omission of a separate easy swim warm-up are plausible contributors, so this is a partially successful execution rather than evidence of a new swim limitation.
 - The long aerobic run was completed as 10.01 km in 1:02:34 at RPE 4/10 with at least 15 minutes of reported reserve, a faster second half and stable running-dynamics metrics. This supports the planned duration progression to 65-70 minutes.
 - The 2026-09-19 bike was a hard completed stimulus rather than the intended controlled moderate one: 1:33:21, strong unpleasant wind, interval RPE 7/10 and little remaining energy after the work. The confirmed next bike is aerobic without hard intervals.
 - The right foot remained symptom-free on 2026-09-19 with the Mavic shoe looser. Right-calf and right-shoulder low-grade sensations have not produced a current restriction; Danielius will report actual deterioration.
@@ -40,7 +41,7 @@ Confirmed by Danielius on 2026-09-20. Sessions may move with family constraints 
 | 2 | Controlled-fast run - completed 2026-09-23 for this cycle | Planned: about 45 minutes with 15 minutes easy, 4 x 4 minutes at RPE 6-7/10 and 2 minutes easy between, then easy finish. | Actual: 39:24, all four repetitions at reported RPE 7/10 with one-repetition reserve. Pace and power remained stable through the fourth repetition. The easy cooldown was almost omitted. Do not repeat or add a fifth repetition this cycle. |
 | 3 | Long aerobic run | Progress to 65-70 minutes at RPE 3-4/10. The final 15 minutes may accelerate naturally without finish pressure. | This is the cycle's only planned running progression. Finish with sustainable mechanics and without disruptive next-day fatigue or actual symptom worsening. |
 | 4 | Aerobic bike | 75-90 minutes at RPE 3-4/10, without hard intervals. | Retain the looser shoe setting. If conditions allow, compare natural cadence with brief 75 and 80 rpm segments at similar easy power; do not force a target or let the comparison turn into hard work. |
-| 5 | Quality swim | 40-50 minutes. A suitable main set is 4 x 400 m at RPE 5/10. | Keep repetition quality stable. Explore a higher elbow as one cue only; do not claim improvement without transfer evidence. |
+| 5 | Quality swim - completed 2026-09-24 for this cycle | Planned: 40-50 minutes with 4 x 400 m at RPE 5/10. | Actual: 48:41 and 2,000 m as four work repetitions plus a fifth easy 400 m cooldown. Overall RPE was 6/10; energy and pace faded after the first two work repetitions, while the shoulder remained okay. Do not repeat this quality dose this cycle. |
 | 6 | Aerobic swim | 40-50 minutes continuous at RPE 3-4/10. | Smooth sustainable execution without pace forcing. Adapt only for actual shoulder worsening. |
 
 Do not default to minimum or fallback doses when readiness and available time are normal. Do not exceed the long-run or fast-run ceilings because the session feels good.
