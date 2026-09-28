@@ -10,7 +10,7 @@ Last updated: 2026-09-28
 - The first RUN-E observation was effort-valid and sensor-valid but environmentally noisy. Repeat it in calmer conditions before interpreting easy-running repeatability.
 - The 4 x 4-minute controlled-fast repeat was completed at RPE 7/10 with stable pace and power through the fourth repetition and one-repetition reserve. This supports progressing work volume to 5 x 4 minutes while holding intensity.
 - The 70-minute long run was completed at RPE 3-4/10 with approximately 10 minutes of reserve and no immediate calf or Achilles symptoms. Hold this duration in the next cycle rather than progressing it again.
-- The previous quality swim reached RPE 6/10 rather than 5/10 and faded after two work repetitions. The next execution restores a separate 300 m warm-up and holds the 4 x 400 m dose.
+- The 2026-09-28 swim was intended as aerobic recovery but became 4 x 400 m with about 30-second rests: 1,600 m in 38:38 total, overall RPE 4/10, shoulder 0/10. The third repetition reached RPE 7/10 and about 2:12/100 m; the fourth eased to about 2:19/100 m while heart rate stayed elevated and stroke length shortened. Count this as the cycle's quality swim completed in modified form, not as the continuous aerobic swim. Do not repeat the 4 x 400 m dose this cycle.
 
 ## Current restrictions and response rules
 
@@ -42,7 +42,7 @@ Before entering demanding work, absorb the 2026-09-27 long ride and require a no
 | Controlled-fast run | 15 minutes easy, 5 x 4 minutes at RPE 6-7/10 with 2 minutes easy between, then at least 5 minutes easy cooldown. Target approximately 50 minutes, maximum 55. | This cycle's only progression. Keep the fifth repetition as controlled as the first and retain the RPE ceiling. Reduce the final repetition if control is lost; do not omit the cooldown or add a finishing test. |
 | Long aerobic run | Hold 65-70 minutes at RPE 3-4/10. | Do not extend beyond 70 minutes this cycle. Finish with sustainable mechanics and without disruptive next-day fatigue or actual symptom worsening. |
 | Aerobic bike | 75-90 minutes at RPE 3-4/10, without intervals or added duration. | The 90-minute ceiling is strict after the prior three-hour ride. Retain the looser shoe setting and keep terrain choices compatible with genuinely aerobic execution. |
-| Quality swim | 300 m easy warm-up, 4 x 400 m at RPE 5/10 with controlled rests, then 200 m easy. Target 40-50 minutes. | Start conservatively and keep pace/energy stable through the fourth repetition. The warm-up and cooldown are part of the session, not optional additions. |
+| Quality swim - completed in modified form 2026-09-28 | Planned: 300 m easy warm-up, 4 x 400 m at RPE 5/10 with controlled rests, then 200 m easy. | Actual: 4 x 400 m without separate warm-up or cooldown, 38:38 total, overall RPE 4/10 and shoulder 0/10. The third repetition reached RPE 7/10; the fourth slowed while heart rate stayed elevated. Do not repeat this quality dose this cycle. |
 | Aerobic swim | 40-50 minutes continuous at RPE 3-4/10. | Smooth sustainable execution without pace forcing. This is the preferred first training option if the long bike leaves mild residual fatigue but no concerning symptoms. Adapt only for actual shoulder worsening. |
 
 Do not default to minimum or fallback doses when readiness and available time are normal. Do not exceed the fast-run, long-run or bike ceilings because the session feels good.
@@ -53,6 +53,7 @@ Do not default to minimum or fallback doses when readiness and available time ar
 - Repeat RUN-E in calmer conditions before interpreting heart-rate response or considering BRICK-C.
 - For the controlled-fast run, record fifth-repetition control, overall RPE, remaining capacity and next-day calf response.
 - For the long run, hold duration and capture remaining capacity plus next-day response. Do not progress another running variable in this cycle.
+- The 2026-09-28 modified quality swim is complete. Keep the separate aerobic swim continuous and easy when selected; do not compensate for the omitted warm-up/cooldown by adding another quality set.
 - Keep the bike genuinely aerobic and within 90 minutes. Do not use the prior favorable three-hour ride as permission to repeat that dose inside this cycle.
 - Danielius will report actual calf, shoulder or foot worsening; do not require repeated anticipatory clearance of stable or improving low-grade sensations.
 - Before consequential sessions, fetch required live data and establish current subjective readiness under Coach Rules.
