@@ -1,6 +1,6 @@
 # Active State
 
-Last updated: 2026-09-29
+Last updated: 2026-09-30
 
 ## Current status
 
@@ -8,7 +8,7 @@ Last updated: 2026-09-29
 - The 2026-09-21 through 2026-09-27 cycle delivered five sessions and approximately 6 hours 22 minutes. The controlled-fast run was better controlled, the long run progressed successfully to 70 minutes, and no disruptive calf, Achilles, shoulder or foot symptoms were reported.
 - The 2026-09-27 planned 75-90-minute aerobic bike became a 2:58:43 unstructured mixed gravel/road ride at reported RPE 5/10, with periods from approximately 3/10 to 8/10. Danielius felt good and reported no complaints, but this was a long endurance load rather than an ordinary aerobic session. Absorb it before the next demanding session.
 - The RUN-E repeat was completed on 2026-09-29 on the same flat route with Polar H10 and calmer wind at reported RPE no higher than 3/10. Heart rate was better controlled at lower pace and output, providing a cleaner easy-effort reference but not evidence of improved efficiency. Delayed calf and Achilles response remains unobserved.
-- The 4 x 4-minute controlled-fast repeat was completed at RPE 7/10 with stable pace and power through the fourth repetition and one-repetition reserve. This supports progressing work volume to 5 x 4 minutes while holding intensity.
+- The progressed 5 x 4-minute controlled-fast run was completed on 2026-09-30 at reported RPE 6/10. Danielius deliberately started cautiously because the fifth repetition was new; all five felt controlled and legs were without problems immediately afterward. Execution supports tolerance of the planned work-volume increase; next-day response remains unobserved. This cycle's quality run is complete.
 - The 70-minute long run was completed at RPE 3-4/10 with approximately 10 minutes of reserve and no immediate calf or Achilles symptoms. Hold this duration in the next cycle rather than progressing it again.
 - The 2026-09-28 swim was intended as aerobic recovery but became 4 x 400 m with about 30-second rests: 1,600 m in 38:38 total, overall RPE 4/10, shoulder 0/10. The third repetition reached RPE 7/10 and about 2:12/100 m; the fourth eased to about 2:19/100 m while heart rate stayed elevated and stroke length shortened. Count this as the cycle's quality swim completed in modified form, not as the continuous aerobic swim. Do not repeat the 4 x 400 m dose this cycle.
 
@@ -39,7 +39,6 @@ Before entering demanding work, absorb the 2026-09-27 long ride and require a no
 | Item | Confirmed dose | Success and ceiling |
 |---|---|---|
 | Easy control run / RUN-E - completed 2026-09-29 | Planned: 40-45 minutes with 20 minutes conversational around RPE 3/10 on the same flat route, shoes and Polar H10. | Actual: 46:41, 7.01 km, reported RPE no higher than 3/10. Lower pace and output produced a lower, steadier heart-rate response than the first windy observation. Do not repeat this cycle; delayed response remains to be observed. |
-| Controlled-fast run | 15 minutes easy, 5 x 4 minutes at RPE 6-7/10 with 2 minutes easy between, then at least 5 minutes easy cooldown. Target approximately 50 minutes, maximum 55. | This cycle's only progression. Keep the fifth repetition as controlled as the first and retain the RPE ceiling. Reduce the final repetition if control is lost; do not omit the cooldown or add a finishing test. |
 | Long aerobic run | Hold 65-70 minutes at RPE 3-4/10. | Do not extend beyond 70 minutes this cycle. Finish with sustainable mechanics and without disruptive next-day fatigue or actual symptom worsening. |
 | Aerobic bike | 75-90 minutes at RPE 3-4/10, without intervals or added duration. | The 90-minute ceiling is strict after the prior three-hour ride. Retain the looser shoe setting and keep terrain choices compatible with genuinely aerobic execution. |
 | Quality swim - completed in modified form 2026-09-28 | Planned: 300 m easy warm-up, 4 x 400 m at RPE 5/10 with controlled rests, then 200 m easy. | Actual: 4 x 400 m without separate warm-up or cooldown, 38:38 total, overall RPE 4/10 and shoulder 0/10. The third repetition reached RPE 7/10; the fourth slowed while heart rate stayed elevated. Do not repeat this quality dose this cycle. |
@@ -51,7 +50,7 @@ Do not default to minimum or fallback doses when readiness and available time ar
 
 - After the 2026-09-27 long ride, capture general fatigue, leg response and any symptom change before the first demanding session. A normal response permits the confirmed queue; residual fatigue routes first to rest or aerobic swimming.
 - RUN-E was repeated in calmer conditions on 2026-09-29. Use the bounded comparison in the Learning Log; do not repeat it again this cycle. Capture delayed calf and Achilles response before the next demanding run.
-- For the controlled-fast run, record fifth-repetition control, overall RPE, remaining capacity and next-day calf response.
+- The 2026-09-30 controlled-fast run is complete; do not repeat or add quality running this cycle. All five repetitions were reported controlled at RPE 6/10 with no immediate leg problems. Explicit extra-repetition reserve was not reported. Capture next-day calf/Achilles response; preserve separation before the remaining long run.
 - For the long run, hold duration and capture remaining capacity plus next-day response. Do not progress another running variable in this cycle.
 - The 2026-09-28 modified quality swim is complete. Keep the separate aerobic swim continuous and easy when selected; do not compensate for the omitted warm-up/cooldown by adding another quality set.
 - Keep the bike genuinely aerobic and within 90 minutes. Do not use the prior favorable three-hour ride as permission to repeat that dose inside this cycle.
