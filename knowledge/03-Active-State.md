@@ -11,7 +11,7 @@ Last updated: 2026-10-01
 - The progressed 5 x 4-minute controlled-fast run was completed on 2026-09-30 at reported RPE 6/10. Danielius deliberately started cautiously because the fifth repetition was new; all five felt controlled and legs were without problems immediately afterward. Execution supports tolerance of the planned work-volume increase; next-day response remains unobserved. This cycle's quality run is complete.
 - The 70-minute long run was completed at RPE 3-4/10 with approximately 10 minutes of reserve and no immediate calf or Achilles symptoms. Hold this duration in the next cycle rather than progressing it again.
 - The 2026-09-28 swim was intended as aerobic recovery but became 4 x 400 m with about 30-second rests: 1,600 m in 38:38 total, overall RPE 4/10, shoulder 0/10. The third repetition reached RPE 7/10 and about 2:12/100 m; the fourth eased to about 2:19/100 m while heart rate stayed elevated and stroke length shortened. Count this as the cycle's quality swim completed in modified form, not as the continuous aerobic swim. Do not repeat the 4 x 400 m dose this cycle.
-- Danielius reported completing the continuous aerobic swim on 2026-10-01. Tredict had not synchronized the activity at review time, so duration, structure, RPE and shoulder response remain unverified. Count the completion report, but do not infer full tolerance or execution quality until those inputs arrive.
+- Danielius completed the continuous aerobic swim on 2026-10-01 at reported RPE 5/10 with no shoulder complaint. It was continuous as intended, though one point harder than the planned RPE 3-4/10. Tredict had not synchronized the activity at review time, so duration and recorded metrics remain unavailable. Immediate tolerance and purpose were achieved; delayed response remains unobserved.
 
 ## Current restrictions and response rules
 
@@ -43,7 +43,7 @@ Before entering demanding work, absorb the 2026-09-27 long ride and require a no
 | Long aerobic run | Hold 65-70 minutes at RPE 3-4/10. | Do not extend beyond 70 minutes this cycle. Finish with sustainable mechanics and without disruptive next-day fatigue or actual symptom worsening. |
 | Aerobic bike | 75-90 minutes at RPE 3-4/10, without intervals or added duration. | The 90-minute ceiling is strict after the prior three-hour ride. Retain the looser shoe setting and keep terrain choices compatible with genuinely aerobic execution. |
 | Quality swim - completed in modified form 2026-09-28 | Planned: 300 m easy warm-up, 4 x 400 m at RPE 5/10 with controlled rests, then 200 m easy. | Actual: 4 x 400 m without separate warm-up or cooldown, 38:38 total, overall RPE 4/10 and shoulder 0/10. The third repetition reached RPE 7/10; the fourth slowed while heart rate stayed elevated. Do not repeat this quality dose this cycle. |
-| Aerobic swim - reported completed 2026-10-01 | Planned: 40-50 minutes continuous at RPE 3-4/10. | Completion reported directly; Tredict detail, actual RPE and shoulder response were not yet available. Do not repeat this cycle. |
+| Aerobic swim - completed 2026-10-01 | Planned: 40-50 minutes continuous at RPE 3-4/10. | Actual: continuous, reported RPE 5/10 and shoulder okay. Tredict duration and metrics were not yet available. Purpose achieved; do not repeat this cycle. |
 
 Do not default to minimum or fallback doses when readiness and available time are normal. Do not exceed the fast-run, long-run or bike ceilings because the session feels good.
 
@@ -53,7 +53,7 @@ Do not default to minimum or fallback doses when readiness and available time ar
 - RUN-E was repeated in calmer conditions on 2026-09-29. Use the bounded comparison in the Learning Log; do not repeat it again this cycle. Capture delayed calf and Achilles response before the next demanding run.
 - The 2026-09-30 controlled-fast run is complete; do not repeat or add quality running this cycle. All five repetitions were reported controlled at RPE 6/10 with no immediate leg problems. Explicit extra-repetition reserve was not reported. Capture next-day calf/Achilles response; preserve separation before the remaining long run.
 - For the long run, hold duration and capture remaining capacity plus next-day response. Do not progress another running variable in this cycle.
-- Both swims are now reported complete for this cycle. Do not add another quality or make-up swim. Close the aerobic-swim assessment when synchronized detail or the missing RPE and shoulder response become available.
+- Both swims are complete for this cycle. Do not add another quality or make-up swim. The aerobic swim was continuous at reported RPE 5/10 with no shoulder complaint; review only if delayed shoulder response worsens or synchronized detail materially contradicts the report.
 - Keep the bike genuinely aerobic and within 90 minutes. Do not use the prior favorable three-hour ride as permission to repeat that dose inside this cycle.
 - Danielius will report actual calf, shoulder or foot worsening; do not require repeated anticipatory clearance of stable or improving low-grade sensations.
 - Before consequential sessions, fetch required live data and establish current subjective readiness under Coach Rules.
