@@ -47,6 +47,16 @@ Before entering demanding work, absorb the 2026-09-27 long ride and require a no
 
 Do not default to minimum or fallback doses when readiness and available time are normal. Do not exceed the fast-run, long-run or bike ceilings because the session feels good.
 
+## Confirmed next-cycle quality swim
+
+Confirmed by Danielius on 2026-10-01 as a first exposure to review and adjust. Replace the next cycle's 4 x 400 m quality swim with this speed-oriented session; retain the separate aerobic swim. Both current-cycle swims are already complete, so this does not add a session to the current cycle or approve an entire replacement queue.
+
+- Purpose: practise a faster swimming gear with controlled technique and assess prescription fit within L2, without opening a third active investigation or declaring the perceived plateau proven.
+- Dose: 300 m easy warm-up; 4 x 50 m gradually faster with 20-second rests; 8 x 50 m at RPE 7-8/10 with 30-second rests; 6 x 100 m at RPE 6-7/10 with 25-second rests; 200 m easy cooldown. Total 1,700 m; maximum 50 minutes. Rest starts after finishing each repetition.
+- Success: repeatable fast swimming, final repetitions close to early ones, controlled stroke and normal next-day response. Record repetition times, perceived effort, shoulder response and enjoyment; verify actual pool length and watch setting before interpreting pace.
+- Ceiling: no extra repetitions or all-out finishing sprint. End the fast set if two consecutive repetitions slow noticeably despite equal effort or technique deteriorates; adapt the affected work for actual shoulder worsening.
+- Progression/review: review first execution and next-day shoulder/fatigue response before adjusting. Good execution and normal recovery can justify increasing repetitions or speed, one at a time. Readiness is assessed at execution; confirmation is not evidence of current recovery.
+
 ## Monitoring and next decisions
 
 - After the 2026-09-27 long ride, capture general fatigue, leg response and any symptom change before the first demanding session. A normal response permits the confirmed queue; residual fatigue routes first to rest or aerobic swimming.
@@ -57,7 +67,7 @@ Do not default to minimum or fallback doses when readiness and available time ar
 - Keep the bike genuinely aerobic and within 90 minutes. Do not use the prior favorable three-hour ride as permission to repeat that dose inside this cycle.
 - Danielius will report actual calf, shoulder or foot worsening; do not require repeated anticipatory clearance of stable or improving low-grade sensations.
 - Before consequential sessions, fetch required live data and establish current subjective readiness under Coach Rules.
-- The next replacement queue remains provisional until Danielius confirms it.
+- The next full replacement queue remains provisional until Danielius confirms it; the next-cycle quality-swim substitution above is already confirmed.
 
 ## System validation checkpoint
 
