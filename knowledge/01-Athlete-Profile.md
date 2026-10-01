@@ -1,6 +1,6 @@
 # Athlete Profile
 
-Last updated: 2026-09-17
+Last updated: 2026-10-01
 
 ## Identity and physiology
 
@@ -54,4 +54,5 @@ Last updated: 2026-09-17
 - Prefer concise recommendations with clear decision logic.
 - Race preparation should improve fitness, pacing, transitions, and fueling without requiring a perfectly controlled schedule.
 - Danielius prefers progressive coaching that balances protection with sufficient overload. Stable or improving low-grade sensations should not create anticipatory whole-plan restriction; he will report actual worsening so the affected work can be adapted.
+- Confirmed on 2026-10-01: wants swimming to include at least one more demanding, speed-oriented session per week because recent sessions feel repetitive in effort and result. Retain aerobic/endurance swimming alongside it; the specific replacement dose and queue remain provisional until confirmed. Perceived plateau is a hypothesis, not an established performance finding.
 - Values continuous swimming for confidence and mental durability. This is a preference, not a prohibition on purposeful repetitions; later training included 10 x 400 m.
