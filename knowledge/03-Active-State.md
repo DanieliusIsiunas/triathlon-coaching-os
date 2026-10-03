@@ -1,6 +1,6 @@
 # Active State
 
-Last updated: 2026-10-02
+Last updated: 2026-10-03
 
 ## Current status
 
@@ -61,6 +61,8 @@ Confirmed by Danielius on 2026-10-01 as a first exposure to review and adjust. R
 - Progression/review: review first execution and next-day shoulder/fatigue response before adjusting. Good execution and normal recovery can justify increasing repetitions or speed, one at a time. Readiness is assessed at execution; confirmation is not evidence of current recovery.
 
 ## Monitoring and next decisions
+
+- Danielius took 2026-10-03 off training to care for the children. The aerobic bike remains uncompleted in the confirmed rolling queue; do not create make-up work or infer calf recovery from the rest day.
 
 - After the 2026-09-27 long ride, capture general fatigue, leg response and any symptom change before the first demanding session. A normal response permits the confirmed queue; residual fatigue routes first to rest or aerobic swimming.
 - RUN-E was repeated in calmer conditions on 2026-09-29. Use the bounded comparison in the Learning Log; do not repeat it again this cycle. Capture delayed calf and Achilles response before the next demanding run.
