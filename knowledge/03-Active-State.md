@@ -1,19 +1,15 @@
 # Active State
 
-Last updated: 2026-10-03
+Last updated: 2026-10-04
 
 ## Current status
 
-- Post-race recovery is complete for planning purposes. Danielius confirmed the first development block on 2026-09-13 and the third rolling queue on 2026-09-28; no make-up backlog exists.
-- The 2026-09-21 through 2026-09-27 cycle delivered five sessions and approximately 6 hours 22 minutes. The controlled-fast run was better controlled, the long run progressed successfully to 70 minutes, and no disruptive calf, Achilles, shoulder or foot symptoms were reported.
-- The 2026-09-27 planned 75-90-minute aerobic bike became a 2:58:43 unstructured mixed gravel/road ride at reported RPE 5/10, with periods from approximately 3/10 to 8/10. Danielius felt good and reported no complaints, but this was a long endurance load rather than an ordinary aerobic session. Absorb it before the next demanding session.
-- The RUN-E repeat was completed on 2026-09-29 on the same flat route with Polar H10 and calmer wind at reported RPE no higher than 3/10. Heart rate was better controlled at lower pace and output, providing a cleaner easy-effort reference but not evidence of improved efficiency. Delayed calf and Achilles response remains unobserved.
-- The progressed 5 x 4-minute controlled-fast run was completed on 2026-09-30 at reported RPE 6/10. Danielius deliberately started cautiously because the fifth repetition was new; all five felt controlled and legs were without problems immediately afterward. Execution supports tolerance of the planned work-volume increase; next-day response remains unobserved. This cycle's quality run is complete.
-- The 70-minute long run was completed at RPE 3-4/10 with approximately 10 minutes of reserve and no immediate calf or Achilles symptoms. Hold this duration in the next cycle rather than progressing it again.
-- The 2026-09-28 swim was intended as aerobic recovery but became 4 x 400 m with about 30-second rests: 1,600 m in 38:38 total, overall RPE 4/10, shoulder 0/10. The third repetition reached RPE 7/10 and about 2:12/100 m; the fourth eased to about 2:19/100 m while heart rate stayed elevated and stroke length shortened. Count this as the cycle's quality swim completed in modified form, not as the continuous aerobic swim. Do not repeat the 4 x 400 m dose this cycle.
-- Danielius completed the continuous aerobic swim on 2026-10-01 at reported RPE 5/10 with no shoulder complaint. It was continuous as intended, though one point harder than the planned RPE 3-4/10. Tredict had not synchronized the activity at review time, so duration and recorded metrics remain unavailable. Immediate tolerance and purpose were achieved; delayed response remains unobserved.
-
-- The 2026-10-02 long run was completed in modified form: 1:09:17 and 10.24 km, reported RPE 3-4/10. Around km 6, right-calf discomfort/tension prompted a stop and short walk; Danielius resumed very slowly and reported the calf behaved well afterward. Aerobic effort matched purpose, but uninterrupted tissue tolerance was not established. Delayed response is pending; do not repeat or extend this run in the current cycle.
+- The first development block remains active through its due weekly review on 2026-10-11. Danielius confirmed the current rolling queue on 2026-09-28; no make-up backlog exists.
+- From 2026-09-28 through the 2026-10-04 weekly review, Danielius completed five sessions: three runs and two swims, 4:08:56 total, 25.11 km running and 3.60 km swimming. The 4-hour minimum was reached, but the approximately 5:25 target was not; one family-care day became rest and the aerobic bike was still uncompleted at review time.
+- The planned progression from four to five 4-minute controlled-fast repetitions was completed on 2026-09-30 at reported RPE 6/10 with control through all five. This cycle's quality run is complete; it supports immediate dose tolerance, not a fitness claim.
+- The 2026-10-01 continuous aerobic swim was 2.00 km in 46:33 at reported RPE 5/10 with no shoulder complaint. It achieved the aerobic purpose one point harder than prescribed.
+- The 2026-10-02 long run was 1:09:17 and 10.24 km at reported RPE 3-4/10. Right-calf tension around km 6 settled after walking and slower running; later resting pain was 0/10. Uninterrupted tissue tolerance and the next-morning walking response remain unconfirmed.
+- Current objective recovery does not indicate systemic overload: on 2026-10-04 COROS reported 100% recovery, load ratio 0.91, normal sleep HRV and stable resting heart rate. Daily telemetry remains in COROS, not this file.
 
 ## Current restrictions and response rules
 
@@ -36,19 +32,13 @@ Last updated: 2026-10-03
 
 ## Confirmed rolling session queue
 
-Confirmed by Danielius on 2026-09-28. Sessions may move with family constraints without creating make-up work. Keep demanding running sessions non-consecutive. Target total is approximately 5 hours 25 minutes.
-
-Before entering demanding work, absorb the 2026-09-27 long ride and require a normal subjective next-day response. Rest or the aerobic swim is the appropriate first choice if residual fatigue remains.
+Confirmed by Danielius on 2026-09-28. Completed sessions have been removed from the operational queue after retaining their durable evidence in the Learning Log.
 
 | Item | Confirmed dose | Success and ceiling |
 |---|---|---|
-| Easy control run / RUN-E - completed 2026-09-29 | Planned: 40-45 minutes with 20 minutes conversational around RPE 3/10 on the same flat route, shoes and Polar H10. | Actual: 46:41, 7.01 km, reported RPE no higher than 3/10. Lower pace and output produced a lower, steadier heart-rate response than the first windy observation. Do not repeat this cycle; delayed response remains to be observed. |
-| Long aerobic run - completed in modified form 2026-10-02 | Planned: 65-70 minutes at RPE 3-4/10. | Actual: 69:17, 10.24 km, RPE 3-4/10; right-calf tension around km 6 prompted walking, then very slow running without further reported trouble. Do not repeat this cycle; delayed response pending. |
-| Aerobic bike | 75-90 minutes at RPE 3-4/10, without intervals or added duration. | The 90-minute ceiling is strict after the prior three-hour ride. Retain the looser shoe setting and keep terrain choices compatible with genuinely aerobic execution. |
-| Quality swim - completed in modified form 2026-09-28 | Planned: 300 m easy warm-up, 4 x 400 m at RPE 5/10 with controlled rests, then 200 m easy. | Actual: 4 x 400 m without separate warm-up or cooldown, 38:38 total, overall RPE 4/10 and shoulder 0/10. The third repetition reached RPE 7/10; the fourth slowed while heart rate stayed elevated. Do not repeat this quality dose this cycle. |
-| Aerobic swim - completed 2026-10-01 | Planned: 40-50 minutes continuous at RPE 3-4/10. | Actual: continuous, reported RPE 5/10 and shoulder okay. Tredict duration and metrics were not yet available. Purpose achieved; do not repeat this cycle. |
+| Aerobic bike | 75-90 minutes at RPE 3-4/10, without intervals or added duration. | Strict 90-minute ceiling. Retain the looser shoe setting and choose terrain compatible with genuinely aerobic execution. Start only with comfortable walking and symptom-free easy pedaling; stop or downgrade if calf tension returns. |
 
-Do not default to minimum or fallback doses when readiness and available time are normal. Do not exceed the fast-run, long-run or bike ceilings because the session feels good.
+Do not default to a minimum dose when readiness and available time are normal. Do not turn the remaining bike into make-up work or exceed its ceiling because it is the last item.
 
 ## Confirmed next-cycle quality swim
 
@@ -62,17 +52,10 @@ Confirmed by Danielius on 2026-10-01 as a first exposure to review and adjust. R
 
 ## Monitoring and next decisions
 
-- Danielius took 2026-10-03 off training to care for the children. The aerobic bike remains uncompleted in the confirmed rolling queue; do not create make-up work or infer calf recovery from the rest day.
-
-- After the 2026-09-27 long ride, capture general fatigue, leg response and any symptom change before the first demanding session. A normal response permits the confirmed queue; residual fatigue routes first to rest or aerobic swimming.
-- RUN-E was repeated in calmer conditions on 2026-09-29. Use the bounded comparison in the Learning Log; do not repeat it again this cycle. Capture delayed calf and Achilles response before the next demanding run.
-- The 2026-09-30 controlled-fast run is complete; do not repeat or add quality running this cycle. All five repetitions were reported controlled at RPE 6/10 with no immediate leg problems. Explicit extra-repetition reserve was not reported. Capture next-day calf/Achilles response; preserve separation before the remaining long run.
-- The long run is complete in modified form. Resting right-calf pain is confirmed 0/10. Capture walking and next-morning response, including ordinary heel raises if comfortable, before another fast/long run. No running progression or make-up work now. Remaining aerobic bike is conditional on comfortable walking and symptom-free easy pedaling.
-- Both swims are complete for this cycle. Do not add another quality or make-up swim. The aerobic swim was continuous at reported RPE 5/10 with no shoulder complaint; review only if delayed shoulder response worsens or synchronized detail materially contradicts the report.
-- Keep the bike genuinely aerobic and within 90 minutes. Do not use the prior favorable three-hour ride as permission to repeat that dose inside this cycle.
-- Danielius will report actual calf, shoulder or foot worsening; do not require repeated anticipatory clearance of stable or improving low-grade sensations.
-- Before consequential sessions, fetch required live data and establish current subjective readiness under Coach Rules.
-- The next full replacement queue remains provisional until Danielius confirms it; the next-cycle quality-swim substitution above is already confirmed.
+- The remaining confirmed aerobic bike may move with family constraints; it is not a deadline or permission to stack work.
+- Capture the right-calf walking and next-morning response before another fast or long run. Stable rest pain alone does not establish uninterrupted running tolerance.
+- At the 2026-10-11 weekly review, complete block-review mode before proposing the next block contract and full queue.
+- The next full replacement queue remains provisional until Danielius confirms it. The already confirmed next-cycle quality-swim substitution does not approve an entire replacement queue.
 
 ## System validation checkpoint
 
