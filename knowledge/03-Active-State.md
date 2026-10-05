@@ -1,6 +1,6 @@
 # Active State
 
-Last updated: 2026-10-04
+Last updated: 2026-10-05
 
 ## Current status
 
@@ -9,7 +9,8 @@ Last updated: 2026-10-04
 - The planned progression from four to five 4-minute controlled-fast repetitions was completed on 2026-09-30 at reported RPE 6/10 with control through all five. This cycle's quality run is complete; it supports immediate dose tolerance, not a fitness claim.
 - The 2026-10-01 continuous aerobic swim was 2.00 km in 46:33 at reported RPE 5/10 with no shoulder complaint. It achieved the aerobic purpose one point harder than prescribed.
 - The 2026-10-02 long run was 1:09:17 and 10.24 km at reported RPE 3-4/10. Right-calf tension around km 6 settled after walking and slower running; later resting pain was 0/10. Uninterrupted tissue tolerance and the next-morning walking response remain unconfirmed.
-- Current objective recovery does not indicate systemic overload: on 2026-10-04 COROS reported 100% recovery, load ratio 0.91, normal sleep HRV and stable resting heart rate. Daily telemetry remains in COROS, not this file.
+- The remaining aerobic bike was completed on 2026-10-04 as a 2:02:18, 43.59 km gravel ride. This exceeded the strict 90-minute ceiling by 32:18. Subjective effort, fueling and calf/foot response are not yet reported, so the ride closes the queue but does not itself clear symptoms or establish full tolerance.
+- Current objective recovery does not indicate systemic overload: on 2026-10-05 COROS reported 79% recovery, load ratio 1.02, above-normal sleep HRV and stable resting heart rate. Sleep was 7:31 with 1:34 awake. Daily telemetry remains in COROS, not this file.
 
 ## Current restrictions and response rules
 
@@ -32,13 +33,7 @@ Last updated: 2026-10-04
 
 ## Confirmed rolling session queue
 
-Confirmed by Danielius on 2026-09-28. Completed sessions have been removed from the operational queue after retaining their durable evidence in the Learning Log.
-
-| Item | Confirmed dose | Success and ceiling |
-|---|---|---|
-| Aerobic bike | 75-90 minutes at RPE 3-4/10, without intervals or added duration. | Strict 90-minute ceiling. Retain the looser shoe setting and choose terrain compatible with genuinely aerobic execution. Start only with comfortable walking and symptom-free easy pedaling; stop or downgrade if calf tension returns. |
-
-Do not default to a minimum dose when readiness and available time are normal. Do not turn the remaining bike into make-up work or exceed its ceiling because it is the last item.
+The queue confirmed on 2026-09-28 is complete after the 2026-10-04 aerobic bike. No replacement queue is confirmed. Do not activate the provisional weekly proposal or stack make-up work before Danielius confirms a replacement.
 
 ## Confirmed next-cycle quality swim
 
@@ -52,7 +47,7 @@ Confirmed by Danielius on 2026-10-01 as a first exposure to review and adjust. R
 
 ## Monitoring and next decisions
 
-- The remaining confirmed aerobic bike may move with family constraints; it is not a deadline or permission to stack work.
+- The 2026-09-28 queue is complete. Until a replacement is confirmed, use recovery or conservative supporting guidance rather than activating sessions from the provisional weekly proposal.
 - Capture the right-calf walking and next-morning response before another fast or long run. Stable rest pain alone does not establish uninterrupted running tolerance.
 - At the 2026-10-11 weekly review, complete block-review mode before proposing the next block contract and full queue.
 - The next full replacement queue remains provisional until Danielius confirms it. The already confirmed next-cycle quality-swim substitution does not approve an entire replacement queue.
