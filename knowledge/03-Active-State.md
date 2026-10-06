@@ -57,7 +57,7 @@ First exposure confirmed on 2026-10-01 and incorporated into the full queue conf
 
 ## Monitoring and next decisions
 
-- The aerobic swim was completed on 2026-10-06, confirmed by Danielius and COROS (36:12, 1.60 km; activity 480843813712068709). Subjective effort, continuous execution and shoulder response remain unreported. No compensatory minutes are due. The next confirmed item is the ordinary easy control run / RUN-E, with current readiness assessed at execution.
+- The aerobic swim was completed on 2026-10-06, confirmed by Danielius and COROS (36:12, 1.60 km; activity 480843813712068709). Danielius reported continuous swimming at RPE 3/10 and the shoulder okay; the intended easy aerobic stimulus was achieved with good immediate tolerance. No compensatory minutes are due. The next confirmed item is the ordinary easy control run / RUN-E, with current readiness assessed at execution.
 
 - Select from the new queue confirmed on 2026-10-05. The prior queue is complete; no extra or compensatory bike is due.
 - The calf was reported calm on 2026-10-05. Observe the next ordinary easy run and its response before the confirmed 5 km reference; actual recurrence changes affected running, not the whole week's training.
