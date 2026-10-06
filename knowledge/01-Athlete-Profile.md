@@ -1,6 +1,6 @@
 # Athlete Profile
 
-Last updated: 2026-10-01
+Last updated: 2026-10-06
 
 ## Identity and physiology
 
@@ -52,6 +52,7 @@ Last updated: 2026-10-01
 - Prefer causal explanations and first-principles reasoning.
 - Confirmed on 2026-09-07: keep coaching instructions concise, tidy and consistent; implement the Bu-informed experiment/review approach with explicit evidence limits.
 - Prefer concise recommendations with clear decision logic.
+- Confirmed on 2026-10-06: do not ask routine or repeated shoulder-status questions after swims. Danielius will report a change; respond to any new shoulder symptoms he reports without requiring repeated reassurance.
 - Race preparation should improve fitness, pacing, transitions, and fueling without requiring a perfectly controlled schedule.
 - Danielius prefers progressive coaching that balances protection with sufficient overload. Stable or improving low-grade sensations should not create anticipatory whole-plan restriction; he will report actual worsening so the affected work can be adapted.
 - Confirmed on 2026-10-01: wants swimming to include at least one more demanding, speed-oriented session per week because recent sessions feel repetitive in effort and result. Retain aerobic/endurance swimming alongside it. The first next-cycle quality-swim substitution was confirmed the same day; its current dose and review requirements belong to Active State. Perceived plateau is a hypothesis, not an established performance finding.
