@@ -1,6 +1,6 @@
 # Active State
 
-Last updated: 2026-10-05
+Last updated: 2026-10-06
 
 ## Current status
 
@@ -37,7 +37,6 @@ Confirmed by Danielius on 2026-10-05 for the final block cycle through the 2026-
 
 | Order | Session | Target prescription | Success and ceiling |
 |---|---|---|---|
-| 1 | Aerobic swim | 40 minutes continuous at RPE 3-4/10. | Smooth sustainable work after the Sunday bike; no pace forcing. |
 | 2 | Easy control run / RUN-E | 45 minutes: 10 easy, 20 conversational at RPE 3/10, 15 easy. Same flat route, shoes and Polar H10 when practical. | Controlled conversational gear and no recurrent calf symptoms. Maximum 45 minutes. Observe response before RUN-F. |
 | 3 | Controlled 5 km reference / RUN-F | 15 minutes easy warm-up, 5 km evenly at RPE 7/10, then 5-10 minutes easy cooldown. Approximately 50 minutes. | Replaces intervals, not an extra run. Effort ceiling 8/10; no finishing sprint. Execute only after a symptom-free easy run and normal current subjective readiness. Record route, equipment, prior 48-hour work and conditions. Recurrence defers the reference; increasing tension stops running. |
 | 4 | Speed swim | Approximately 45 minutes; detailed confirmed 1,700 m session below. | Replaces 4 x 400 m quality work. Maximum 50 minutes; controlled technique and repeatable repetitions. |
@@ -57,6 +56,8 @@ First exposure confirmed on 2026-10-01 and incorporated into the full queue conf
 - Progression/review: review first execution and next-day shoulder/fatigue response before adjusting. Good execution and normal recovery can justify increasing repetitions or speed, one at a time. Readiness is assessed at execution; confirmation is not evidence of current recovery.
 
 ## Monitoring and next decisions
+
+- The aerobic swim was completed on 2026-10-06, confirmed by Danielius and COROS (36:12, 1.60 km; activity 480843813712068709). Subjective effort, continuous execution and shoulder response remain unreported. No compensatory minutes are due. The next confirmed item is the ordinary easy control run / RUN-E, with current readiness assessed at execution.
 
 - Select from the new queue confirmed on 2026-10-05. The prior queue is complete; no extra or compensatory bike is due.
 - The calf was reported calm on 2026-10-05. Observe the next ordinary easy run and its response before the confirmed 5 km reference; actual recurrence changes affected running, not the whole week's training.
