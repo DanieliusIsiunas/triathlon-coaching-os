@@ -56,12 +56,12 @@ First exposure confirmed on 2026-10-01 and incorporated into the full queue conf
 
 ## Monitoring and next decisions
 
-- The easy control run / RUN-E was completed on 2026-10-07, confirmed by Danielius and COROS (50:02, 7.73 km; activity 480869709946847636), about five minutes above its 45-minute ceiling. Mean heart rate was 148; after warm-up kilometre averages were broadly 150-153 despite varying pace and terrain. Subjective effort and calf response remain unreported; do not declare symptom-free tolerance or clear RUN-F from completion alone. No compensatory or repeat session is due. The controlled 5 km reference remains conditional on the ordinary easy run's symptom response and current readiness.
+- The easy control run / RUN-E was completed on 2026-10-07, confirmed by Danielius and COROS (50:02, 7.73 km; activity 480869709946847636), about five minutes above its 45-minute ceiling. Mean heart rate was 148; after warm-up kilometre averages were broadly 150-153 despite varying pace and terrain. Danielius reported RPE 3/10 and the calf calm during and after the run. This supports successful easy-run execution and good immediate calf tolerance; current readiness still governs RUN-F. No compensatory or repeat session is due. The ordinary easy-run prerequisite for the controlled 5 km reference has been met; assess current overall readiness at execution without routine repeated calf questions.
 
 - The aerobic swim was completed on 2026-10-06, confirmed by Danielius and COROS (36:12, 1.60 km; activity 480843813712068709). Danielius reported continuous swimming at RPE 3/10 and the shoulder okay; the intended easy aerobic stimulus was achieved with good immediate tolerance. No compensatory minutes are due. 
 
 - Select from the new queue confirmed on 2026-10-05. The prior queue is complete; no extra or compensatory bike is due.
-- The calf was reported calm on 2026-10-05. Observe the next ordinary easy run and its response before the confirmed 5 km reference; actual recurrence changes affected running, not the whole week's training.
+- The calf was reported calm after the ordinary easy run on 2026-10-07. No anticipatory hold or repeated calf reassurance is required; Danielius will report changes. Actual recurrence changes affected running, not the whole week's training.
 - At the 2026-10-11 weekly review, complete block-review mode before proposing the next block contract and full queue.
 - The current full queue is confirmed. Any later replacement remains provisional until Danielius confirms it.
 
