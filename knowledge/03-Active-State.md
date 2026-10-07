@@ -1,6 +1,6 @@
 # Active State
 
-Last updated: 2026-10-06
+Last updated: 2026-10-07
 
 ## Current status
 
@@ -37,7 +37,6 @@ Confirmed by Danielius on 2026-10-05 for the final block cycle through the 2026-
 
 | Order | Session | Target prescription | Success and ceiling |
 |---|---|---|---|
-| 2 | Easy control run / RUN-E | 45 minutes: 10 easy, 20 conversational at RPE 3/10, 15 easy. Same flat route, shoes and Polar H10 when practical. | Controlled conversational gear and no recurrent calf symptoms. Maximum 45 minutes. Observe response before RUN-F. |
 | 3 | Controlled 5 km reference / RUN-F | 15 minutes easy warm-up, 5 km evenly at RPE 7/10, then 5-10 minutes easy cooldown. Approximately 50 minutes. | Replaces intervals, not an extra run. Effort ceiling 8/10; no finishing sprint. Execute only after a symptom-free easy run and normal current subjective readiness. Record route, equipment, prior 48-hour work and conditions. Recurrence defers the reference; increasing tension stops running. |
 | 4 | Speed swim | Approximately 45 minutes; detailed confirmed 1,700 m session below. | Replaces 4 x 400 m quality work. Maximum 50 minutes; controlled technique and repeatable repetitions. |
 | 5 | Long aerobic run | Target 65 minutes at RPE 3-4/10; maximum 70. | Hold duration, do not extend. Not on the day adjacent to RUN-F. Actual calf recurrence defers long work; increasing symptoms stop running. |
@@ -57,7 +56,9 @@ First exposure confirmed on 2026-10-01 and incorporated into the full queue conf
 
 ## Monitoring and next decisions
 
-- The aerobic swim was completed on 2026-10-06, confirmed by Danielius and COROS (36:12, 1.60 km; activity 480843813712068709). Danielius reported continuous swimming at RPE 3/10 and the shoulder okay; the intended easy aerobic stimulus was achieved with good immediate tolerance. No compensatory minutes are due. The next confirmed item is the ordinary easy control run / RUN-E, with current readiness assessed at execution.
+- The easy control run / RUN-E was completed on 2026-10-07, confirmed by Danielius and COROS (50:02, 7.73 km; activity 480869709946847636), about five minutes above its 45-minute ceiling. Mean heart rate was 148; after warm-up kilometre averages were broadly 150-153 despite varying pace and terrain. Subjective effort and calf response remain unreported; do not declare symptom-free tolerance or clear RUN-F from completion alone. No compensatory or repeat session is due. The controlled 5 km reference remains conditional on the ordinary easy run's symptom response and current readiness.
+
+- The aerobic swim was completed on 2026-10-06, confirmed by Danielius and COROS (36:12, 1.60 km; activity 480843813712068709). Danielius reported continuous swimming at RPE 3/10 and the shoulder okay; the intended easy aerobic stimulus was achieved with good immediate tolerance. No compensatory minutes are due. 
 
 - Select from the new queue confirmed on 2026-10-05. The prior queue is complete; no extra or compensatory bike is due.
 - The calf was reported calm on 2026-10-05. Observe the next ordinary easy run and its response before the confirmed 5 km reference; actual recurrence changes affected running, not the whole week's training.
