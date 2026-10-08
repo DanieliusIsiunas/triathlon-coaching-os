@@ -1,6 +1,6 @@
 # Active State
 
-Last updated: 2026-10-07
+Last updated: 2026-10-08
 
 ## Current status
 
@@ -38,7 +38,6 @@ Confirmed by Danielius on 2026-10-05 for the final block cycle through the 2026-
 | Order | Session | Target prescription | Success and ceiling |
 |---|---|---|---|
 | 3 | Controlled 5 km reference / RUN-F | 15 minutes easy warm-up, 5 km evenly at RPE 7/10, then 5-10 minutes easy cooldown. Approximately 50 minutes. | Replaces intervals, not an extra run. Effort ceiling 8/10; no finishing sprint. Execute only after a symptom-free easy run and normal current subjective readiness. Record route, equipment, prior 48-hour work and conditions. Recurrence defers the reference; increasing tension stops running. |
-| 4 | Speed swim | Approximately 45 minutes; detailed confirmed 1,700 m session below. | Replaces 4 x 400 m quality work. Maximum 50 minutes; controlled technique and repeatable repetitions. |
 | 5 | Long aerobic run | Target 65 minutes at RPE 3-4/10; maximum 70. | Hold duration, do not extend. Not on the day adjacent to RUN-F. Actual calf recurrence defers long work; increasing symptoms stop running. |
 | 6 | Aerobic bike | Target 80 minutes at RPE 3-4/10; maximum 90. No intervals. | Genuine aerobic work within the planned ceiling; no repeat of the prior longer dose. |
 
@@ -55,6 +54,8 @@ First exposure confirmed on 2026-10-01 and incorporated into the full queue conf
 - Progression/review: review first execution and next-day shoulder/fatigue response before adjusting. Good execution and normal recovery can justify increasing repetitions or speed, one at a time. Readiness is assessed at execution; confirmation is not evidence of current recovery.
 
 ## Monitoring and next decisions
+
+- The first speed swim was completed on 2026-10-08 by Danielius's direct report. He described the intervals as very hard but strongly enjoyable, with a sense of practising faster swimming. Warm-up was 200 m rather than 300 m; if all other prescribed repetitions and cooldown were completed, the total is 1,600 m. This remains an athlete estimate: a lap-button mistake and a possibly missed 25 m make recorded segment distances uncertain. COROS activity access failed on the initial attempt and one bounded retry, so duration, repetition times, pace consistency and pool setting are unverified. Numeric session RPE and delayed recovery remain unreported. Mark the swim completed with modified warm-up; no compensatory distance is due. Review execution and recovery before progressing speed or repetitions; enjoyment supports prescription fit but does not establish improved speed.
 
 - The easy control run / RUN-E was completed on 2026-10-07, confirmed by Danielius and COROS (50:02, 7.73 km; activity 480869709946847636), about five minutes above its 45-minute ceiling. Mean heart rate was 148; after warm-up kilometre averages were broadly 150-153 despite varying pace and terrain. Danielius reported RPE 3/10 and the calf calm during and after the run. This supports successful easy-run execution and good immediate calf tolerance; current readiness still governs RUN-F. No compensatory or repeat session is due. The ordinary easy-run prerequisite for the controlled 5 km reference has been met; assess current overall readiness at execution without routine repeated calf questions.
 
