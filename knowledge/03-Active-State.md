@@ -1,6 +1,6 @@
 # Active State
 
-Last updated: 2026-10-08
+Last updated: 2026-10-09
 
 ## Current status
 
@@ -55,7 +55,7 @@ First exposure confirmed on 2026-10-01 and incorporated into the full queue conf
 
 ## Monitoring and next decisions
 
-- The first speed swim was completed on 2026-10-08 (COROS activity 480889318890569729), 41:12 workout time / 41:21 total. Danielius reported very hard but strongly enjoyable intervals and a sense of practising faster swimming; numeric RPE and delayed recovery remain unreported. Actual warm-up was reported as 200 m; COROS logged 225 m with an implausible 12.4-second 25 m length, and one repetition in the 100 m set as 50 m. Recorded total is 1,575 m; athlete-estimated total is 1,600 m, not independently reconciled. The eight fast 50 m repetitions were 60.43, 56.36, 55.06, 56.74, 53.94, 55.46, 54.59 and 54.58 seconds, with roughly 31-second rests; no late pace collapse. Five recorded 100 m repetitions were 2:07.93, 2:06.21, 2:05.26, 2:05.89 and 2:09.70; the intervening recorded 50 m was 1:03.29. This supports repeatable faster swimming in short repetitions, not a new continuous base pace or proven adaptation. Mark completed with modified warm-up and uncertain distance; no compensatory distance. Review recovery before progressing one variable. Enjoyment supports L2 prescription fit.
+- The first speed swim was completed on 2026-10-08 (COROS activity 480889318890569729), 41:12 workout time / 41:21 total. Danielius reported very hard but strongly enjoyable intervals and a sense of practising faster swimming; Danielius subsequently rated the fast repetitions, especially the 50 m set, at RPE 8/10, matching the prescribed 7-8/10; delayed recovery remains unreported. Actual warm-up was reported as 200 m; COROS logged 225 m with an implausible 12.4-second 25 m length, and one repetition in the 100 m set as 50 m. Recorded total is 1,575 m; athlete-estimated total is 1,600 m, not independently reconciled. The eight fast 50 m repetitions were 60.43, 56.36, 55.06, 56.74, 53.94, 55.46, 54.59 and 54.58 seconds, with roughly 31-second rests; no late pace collapse. Five recorded 100 m repetitions were 2:07.93, 2:06.21, 2:05.26, 2:05.89 and 2:09.70; the intervening recorded 50 m was 1:03.29. This supports repeatable faster swimming in short repetitions, not a new continuous base pace or proven adaptation. Mark completed with modified warm-up and uncertain distance; no compensatory distance. Review recovery before progressing one variable. Enjoyment supports L2 prescription fit.
 
 - The easy control run / RUN-E was completed on 2026-10-07, confirmed by Danielius and COROS (50:02, 7.73 km; activity 480869709946847636), about five minutes above its 45-minute ceiling. Mean heart rate was 148; after warm-up kilometre averages were broadly 150-153 despite varying pace and terrain. Danielius reported RPE 3/10 and the calf calm during and after the run. This supports successful easy-run execution and good immediate calf tolerance; current readiness still governs RUN-F. No compensatory or repeat session is due. The ordinary easy-run prerequisite for the controlled 5 km reference has been met; assess current overall readiness at execution without routine repeated calf questions.
 
