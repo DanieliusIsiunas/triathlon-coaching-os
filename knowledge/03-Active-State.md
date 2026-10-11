@@ -1,6 +1,6 @@
 # Active State
 
-Last updated: 2026-10-09
+Last updated: 2026-10-11
 
 ## Current status
 
@@ -37,7 +37,6 @@ Confirmed by Danielius on 2026-10-05 for the final block cycle through the 2026-
 
 | Order | Session | Target prescription | Success and ceiling |
 |---|---|---|---|
-| 3 | Controlled 5 km reference / RUN-F | 15 minutes easy warm-up, 5 km evenly at RPE 7/10, then 5-10 minutes easy cooldown. Approximately 50 minutes. | Replaces intervals, not an extra run. Effort ceiling 8/10; no finishing sprint. Execute only after a symptom-free easy run and normal current subjective readiness. Record route, equipment, prior 48-hour work and conditions. Recurrence defers the reference; increasing tension stops running. |
 | 5 | Long aerobic run | Target 65 minutes at RPE 3-4/10; maximum 70. | Hold duration, do not extend. Not on the day adjacent to RUN-F. Actual calf recurrence defers long work; increasing symptoms stop running. |
 | 6 | Aerobic bike | Target 80 minutes at RPE 3-4/10; maximum 90. No intervals. | Genuine aerobic work within the planned ceiling; no repeat of the prior longer dose. |
 
@@ -54,6 +53,8 @@ First exposure confirmed on 2026-10-01 and incorporated into the full queue conf
 - Progression/review: review first execution and next-day shoulder/fatigue response before adjusting. Good execution and normal recovery can justify increasing repetitions or speed, one at a time. Readiness is assessed at execution; confirmation is not evidence of current recovery.
 
 ## Monitoring and next decisions
+
+- RUN-F completed on 2026-10-11, COROS activity 480956028588950108: Danielius reported RPE 8/10, difficult novel continuous effort, and stopped after 5 km to walk calmly. The reference is retained in L1 with protocol limitations; no repeat or compensatory session is due. Do not place the remaining long run on the next day. Review this upper-ceiling exposure at today's due block review before proposing further progression; the confirmed remaining queue is otherwise unchanged.
 
 - The first speed swim was completed on 2026-10-08 (COROS activity 480889318890569729), 41:12 workout time / 41:21 total. Danielius reported very hard but strongly enjoyable intervals and a sense of practising faster swimming; Danielius subsequently rated the fast repetitions, especially the 50 m set, at RPE 8/10, matching the prescribed 7-8/10; delayed recovery remains unreported. Actual warm-up was reported as 200 m; COROS logged 225 m with an implausible 12.4-second 25 m length, and one repetition in the 100 m set as 50 m. Recorded total is 1,575 m; athlete-estimated total is 1,600 m, not independently reconciled. The eight fast 50 m repetitions were 60.43, 56.36, 55.06, 56.74, 53.94, 55.46, 54.59 and 54.58 seconds, with roughly 31-second rests; no late pace collapse. Five recorded 100 m repetitions were 2:07.93, 2:06.21, 2:05.26, 2:05.89 and 2:09.70; the intervening recorded 50 m was 1:03.29. This supports repeatable faster swimming in short repetitions, not a new continuous base pace or proven adaptation. Mark completed with modified warm-up and uncertain distance; no compensatory distance. Review recovery before progressing one variable. Enjoyment supports L2 prescription fit.
 
