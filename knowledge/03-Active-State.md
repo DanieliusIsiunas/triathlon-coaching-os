@@ -4,9 +4,9 @@ Last updated: 2026-10-11
 
 ## Current status
 
-- The first development block was reviewed on 2026-10-11. Closure findings belong to Learning Log L1/L2; no replacement block or queue has been confirmed.
-- The remaining queue confirmed on 2026-10-05 remains authoritative pending replacement. Long running and cycling are not recorded by review time; this does not prove they were skipped. No make-up backlog or compressed completion is required.
-- The 2026-10-11 controlled 5 km reference is completed, including a separately recorded 2.09 km / 14:29 easy warm-up. It reached reported RPE 8/10, with walking after the test. No repeat is due; delayed response is not yet observed. Do not perform the remaining long run on 2026-10-12.
+- The second development block was confirmed on 2026-10-11 and begins with the next rolling cycle on 2026-10-12. The first-block closure findings remain in Learning Log L1/L2.
+- The confirmed replacement queue below supersedes the remaining 2026-10-05 queue. Missed items from the prior queue do not carry forward and are not a make-up obligation.
+- The 2026-10-11 controlled 5 km reference is completed, including a separately recorded 2.09 km / 14:29 easy warm-up. It reached reported RPE 8/10, with walking after the test. No repeat is due. Do not perform long running on 2026-10-12; the first queue item is non-impact.
 
 ## Current restrictions and response rules
 
@@ -17,32 +17,37 @@ Last updated: 2026-10-11
 
 ## Current block contract
 
-- **Status:** reviewed; awaiting a confirmed replacement.
-- **Identity:** Run development and dose recalibration, actual start 2026-09-14, reviewed 2026-10-11.
-- **Primary capability and investigations:** Distinct running gears and longer aerobic durability; L1 fresh-running capacity and L2 prescription fit.
-- **Intervention/exposure:** Three runs, two swims and one bike per complete rolling cycle; 4 hours minimum, approximately 5:15-5:25 target, 6 hours maximum.
-- **Expected response:** Meaningful quality without disruptive fatigue, repeatable easy-running reference, tolerated 65-70-minute long running and retained swim/bike participation.
-- **Observed closure:** Meaningful quality and progression delivered; easy-running gear and first fresh 5 km reference established. Within-block fitness change, uninterrupted long-run tolerance and bike-to-run cost remain unresolved. Exposure and downstream quality were variable; enjoyment improved.
-- **Decision:** Continue the approach with steadier dose/spacing proposed, not activated. Detailed bounded conclusions retained in Learning Log.
-- **Constraints retained:** Maximum three runs per rolling week; no demanding runs on consecutive days. No automatic extra work because a cycle is incomplete.
+- **Status and timing:** confirmed on 2026-10-11; planned start 2026-10-12. Normal closure review is due after four complete weeks, provisionally around 2026-11-08, or earlier if a safety/recovery trigger changes the decision.
+- **Identity:** Repeatable running durability within a stable multisport load.
+- **Primary capability and investigations:** Make three purposeful weekly running exposures repeatable without disruptive fatigue, while retaining swim/bike participation. L1 fresh-running capacity and bike-to-run cost is primary; L2 prescription fit is secondary.
+- **Intervention/exposure:** Three runs, two swims and one bike per complete rolling cycle; 4 hours minimum, approximately 5:25 target, 6 hours maximum. For the first 7-14 days retain the current running dose: 45-minute easy running, 5 x 4-minute controlled-fast work and a 65-minute long run with a 70-minute ceiling.
+- **Expected observable response:** Complete the intended cycle with stable easy-running control, an uninterrupted long run, preserved quality in the next key session, no disruptive fatigue or reported symptom worsening, and acceptable enjoyment/family fit.
+- **Benchmark/comparison plan:** The 5 km result is the fresh reference and is not repeated in this block. A controlled BRICK-C comparison may replace ordinary bike/easy-run work in the latter half only after stable exposure and when included in a confirmed future queue; it is not extra volume.
+- **Progression rule:** Progress only one meaningful running variable. After the current long-run dose and subsequent recovery are tolerated, the preferred next step is 5-10 minutes of long-run duration while interval pace and volume remain unchanged. Hold or repeat when recovery, execution or symptoms make the evidence noisy.
+- **Decision options at review:** continue; progress long-run duration; repeat because exposure was inconsistent; change the intervention if downstream quality or symptoms worsen; or retire the current measurement question if it no longer changes training.
+- **Constraints retained:** Maximum three runs per rolling week; no demanding lower-body sessions on consecutive days; no automatic extra work because a cycle is incomplete; current subjective readiness gates apply before consequential sessions.
 
 ## Confirmed rolling session queue
 
-Remaining items from the queue Danielius confirmed on 2026-10-05. Preserve this queue until an exact replacement is confirmed; it is not a make-up obligation.
+Confirmed by Danielius on 2026-10-11. Use target doses under normal readiness and availability; the queue is rolling rather than tied to weekdays.
 
 | Order | Session | Target prescription | Success and ceiling |
 |---|---|---|---|
-| 5 | Long aerobic run | Target 65 minutes at RPE 3-4/10; maximum 70. | Hold duration; do not extend. Not on the day adjacent to the 5 km reference. Actual calf recurrence defers long work; increasing symptoms stop running. |
+| 1 | Aerobic swim | 40 minutes at RPE 3-4/10. Continuous or simple relaxed repetitions. | Smooth sustainable work; finish with reserve. Do not turn it into speed work. |
+| 2 | Easy run | 45 minutes at conversational RPE 3/10. | Stable easy gear and relaxed mechanics; maximum 50 minutes. |
+| 3 | Controlled-fast run | 15 minutes easy warm-up; 5 x 4 minutes at RPE 6-7/10 with 2 minutes easy between; 5 minutes easy cooldown. | All five repetitions controlled with no finishing test. Maximum five work repetitions; reduce repetitions before shortening the warm-up. |
+| 4 | Speed swim | 1,700 m: 300 m easy; 4 x 200 m controlled with 20 seconds rest; 8 x 50 m fast at about RPE 8/10 with 30 seconds rest; 200 m easy. | Repeatable fast 50 m efforts with technique retained. No extra fast repetitions or compensatory distance. |
+| 5 | Long aerobic run | Target 65 minutes at RPE 3-4/10; maximum 70. | Continuous controlled running and normal subsequent recovery. Hold duration; do not extend in this first cycle. Actual calf recurrence defers long work; increasing symptoms stop running. |
 | 6 | Aerobic bike | Target 80 minutes at RPE 3-4/10; maximum 90. No intervals. | Stable aerobic effort, finish with reserve; no unplanned extension. |
 
-Use target doses under normal readiness and availability. Current subjective inputs required by Coach Rules govern consequential sessions; confirmation is not blanket readiness clearance.
+The target cycle is approximately 5 hours 25 minutes. Minimum versions protect continuity when time/readiness is reduced; they are not the default under normal conditions.
 
 ## Monitoring and next decisions
 
-- First speed swim completed on 2026-10-08 with modified warm-up and uncertain total distance, reported fast-set RPE 8/10 and strong enjoyment. Durable execution findings are in L2; no repeat or compensatory distance is due. Review subsequent recovery before progressing.
-- The 2026-10-11 5 km reference is retained in L1 with comparability limits. Equipment, preceding unrecorded training and detailed conditions remain unconfirmed; no threshold, 10 km forecast or adaptation claim follows from one result.
-- The weekly review proposed continuing running-dose calibration with maintained quality and steadier exposure, using the existing 4/approximately 5/6-hour budget provisionally. Actual availability and post-test subjective recovery must support adoption. Any replacement contract/queue remains provisional until Danielius confirms it.
-- No additional test, intensity escalation or replacement block is activated by this review.
+- First speed swim completed on 2026-10-08 with modified warm-up and uncertain total distance, reported fast-set RPE 8/10 and strong enjoyment. The confirmed speed swim retains the intended 1,700 m structure; do not compensate for the prior recording discrepancy.
+- The 2026-10-11 5 km reference is retained in L1 with comparability limits. It is an upper-ceiling fresh reference, not a threshold, 10 km forecast or proof of adaptation.
+- The next progression decision requires actual exposure plus delayed response. Favorable completion of the first cycle can support one planned long-run increase; it does not authorize simultaneous increases in speed and duration.
+- Bike-to-run cost remains unresolved. Consider BRICK-C only after stable first-cycle execution and as a substitution, not an added seventh session.
 
 ## System validation checkpoint
 
