@@ -1,12 +1,13 @@
 # Active State
 
-Last updated: 2026-10-11
+Last updated: 2026-10-13
 
 ## Current status
 
 - The second development block was confirmed on 2026-10-11 and begins with the next rolling cycle on 2026-10-12. The first-block closure findings remain in Learning Log L1/L2.
 - The confirmed replacement queue below supersedes the remaining 2026-10-05 queue. Missed items from the prior queue do not carry forward and are not a make-up obligation.
-- The 2026-10-11 controlled 5 km reference is completed, including a separately recorded 2.09 km / 14:29 easy warm-up. It reached reported RPE 8/10, with walking after the test. No repeat is due. Do not perform long running on 2026-10-12; the first queue item is non-impact.
+- The 2026-10-11 controlled 5 km reference is completed and retained in L1; no repeat is due.
+- The first aerobic swim of this cycle was completed on 2026-10-13 (COROS activity `481008134058443151`). Danielius reported very relaxed, enjoyable swimming; recorded duration exceeded the prescribed 40 minutes by about 22 minutes. Immediate subjective ease does not establish delayed recovery. The next remaining item is easy running; do not add compensatory work.
 
 ## Current restrictions and response rules
 
@@ -17,7 +18,7 @@ Last updated: 2026-10-11
 
 ## Current block contract
 
-- **Status and timing:** confirmed on 2026-10-11; planned start 2026-10-12. Normal closure review is due after four complete weeks, provisionally around 2026-11-08, or earlier if a safety/recovery trigger changes the decision.
+- **Status and timing:** confirmed on 2026-10-11; first recorded cycle exposure 2026-10-13. Normal closure review is due after four complete weeks, provisionally around 2026-11-08, or earlier if a safety/recovery trigger changes the decision.
 - **Identity:** Repeatable running durability within a stable multisport load.
 - **Primary capability and investigations:** Make three purposeful weekly running exposures repeatable without disruptive fatigue, while retaining swim/bike participation. L1 fresh-running capacity and bike-to-run cost is primary; L2 prescription fit is secondary.
 - **Intervention/exposure:** Three runs, two swims and one bike per complete rolling cycle; 4 hours minimum, approximately 5:25 target, 6 hours maximum. For the first 7-14 days retain the current running dose: 45-minute easy running, 5 x 4-minute controlled-fast work and a 65-minute long run with a 70-minute ceiling.
@@ -33,7 +34,6 @@ Confirmed by Danielius on 2026-10-11. Use target doses under normal readiness an
 
 | Order | Session | Target prescription | Success and ceiling |
 |---|---|---|---|
-| 1 | Aerobic swim | 40 minutes at RPE 3-4/10. Continuous or simple relaxed repetitions. | Smooth sustainable work; finish with reserve. Do not turn it into speed work. |
 | 2 | Easy run | 45 minutes at conversational RPE 3/10. | Stable easy gear and relaxed mechanics; maximum 50 minutes. |
 | 3 | Controlled-fast run | 15 minutes easy warm-up; 5 x 4 minutes at RPE 6-7/10 with 2 minutes easy between; 5 minutes easy cooldown. | All five repetitions controlled with no finishing test. Maximum five work repetitions; reduce repetitions before shortening the warm-up. |
 | 4 | Speed swim | 1,700 m: 300 m easy; 4 x 200 m controlled with 20 seconds rest; 8 x 50 m fast at about RPE 8/10 with 30 seconds rest; 200 m easy. | Repeatable fast 50 m efforts with technique retained. No extra fast repetitions or compensatory distance. |
