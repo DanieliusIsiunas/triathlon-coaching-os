@@ -1,13 +1,15 @@
 # Active State
 
-Last updated: 2026-10-13
+Last updated: 2026-10-14
 
 ## Current status
 
 - The second development block was confirmed on 2026-10-11 and begins with the next rolling cycle on 2026-10-12. The first-block closure findings remain in Learning Log L1/L2.
 - The confirmed replacement queue below supersedes the remaining 2026-10-05 queue. Missed items from the prior queue do not carry forward and are not a make-up obligation.
 - The 2026-10-11 controlled 5 km reference is completed and retained in L1; no repeat is due.
-- The first aerobic swim of this cycle was completed on 2026-10-13 (COROS activity `481008134058443151`). Danielius reported very relaxed, enjoyable swimming; recorded duration exceeded the prescribed 40 minutes by about 22 minutes. Immediate subjective ease does not establish delayed recovery. The next remaining item is easy running; do not add compensatory work.
+- The first aerobic swim of this cycle was completed on 2026-10-13 (COROS activity `481008134058443151`). Danielius reported very relaxed, enjoyable swimming; recorded duration exceeded the prescribed 40 minutes by about 22 minutes. Immediate subjective ease does not establish delayed recovery. Do not add compensatory work.
+
+- Easy running completed on 2026-10-14 by direct user report: felt truly easy, relaxed wandering route, effort at most 3/10. COROS record was unavailable at review, so duration, distance and heart rate remain unverified. The next remaining queue item is controlled-fast running, subject to current readiness; completion alone does not establish delayed recovery.
 
 ## Current restrictions and response rules
 
@@ -34,7 +36,6 @@ Confirmed by Danielius on 2026-10-11. Use target doses under normal readiness an
 
 | Order | Session | Target prescription | Success and ceiling |
 |---|---|---|---|
-| 2 | Easy run | 45 minutes at conversational RPE 3/10. | Stable easy gear and relaxed mechanics; maximum 50 minutes. |
 | 3 | Controlled-fast run | 15 minutes easy warm-up; 5 x 4 minutes at RPE 6-7/10 with 2 minutes easy between; 5 minutes easy cooldown. | All five repetitions controlled with no finishing test. Maximum five work repetitions; reduce repetitions before shortening the warm-up. |
 | 4 | Speed swim | 1,700 m: 300 m easy; 4 x 200 m controlled with 20 seconds rest; 8 x 50 m fast at about RPE 8/10 with 30 seconds rest; 200 m easy. | Repeatable fast 50 m efforts with technique retained. No extra fast repetitions or compensatory distance. |
 | 5 | Long aerobic run | Target 65 minutes at RPE 3-4/10; maximum 70. | Continuous controlled running and normal subsequent recovery. Hold duration; do not extend in this first cycle. Actual calf recurrence defers long work; increasing symptoms stop running. |
