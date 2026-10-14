@@ -9,7 +9,7 @@ Last updated: 2026-10-14
 - The 2026-10-11 controlled 5 km reference is completed and retained in L1; no repeat is due.
 - The first aerobic swim of this cycle was completed on 2026-10-13 (COROS activity `481008134058443151`). Danielius reported very relaxed, enjoyable swimming; recorded duration exceeded the prescribed 40 minutes by about 22 minutes. Immediate subjective ease does not establish delayed recovery. Do not add compensatory work.
 
-- Easy running completed on 2026-10-14 by direct user report: felt truly easy, relaxed wandering route, effort at most 3/10. COROS record was unavailable at review, so duration, distance and heart rate remain unverified. The next remaining queue item is controlled-fast running, subject to current readiness; completion alone does not establish delayed recovery.
+- Easy running completed on 2026-10-14 by direct user report: felt truly easy, relaxed wandering route, effort at most 3/10. COROS activity `481034711318167856` now verifies completion at the 50-minute ceiling (five minutes above target). Subjective effort remained at most 3/10; the varied route is ordinary easy exposure, not a standardized RUN-E comparison. The next remaining queue item is controlled-fast running, subject to current readiness; completion alone does not establish delayed recovery.
 
 ## Current restrictions and response rules
 
