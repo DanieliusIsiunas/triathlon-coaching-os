@@ -1,6 +1,6 @@
 # Active State
 
-Last updated: 2026-10-14
+Last updated: 2026-10-17
 
 ## Current status
 
@@ -9,7 +9,9 @@ Last updated: 2026-10-14
 - The 2026-10-11 controlled 5 km reference is completed and retained in L1; no repeat is due.
 - The first aerobic swim of this cycle was completed on 2026-10-13 (COROS activity `481008134058443151`). Danielius reported very relaxed, enjoyable swimming; recorded duration exceeded the prescribed 40 minutes by about 22 minutes. Immediate subjective ease does not establish delayed recovery. Do not add compensatory work.
 
-- Easy running completed on 2026-10-14 by direct user report: felt truly easy, relaxed wandering route, effort at most 3/10. COROS activity `481034711318167856` now verifies completion at the 50-minute ceiling (five minutes above target). Subjective effort remained at most 3/10; the varied route is ordinary easy exposure, not a standardized RUN-E comparison. The next remaining queue item is controlled-fast running, subject to current readiness; completion alone does not establish delayed recovery.
+- Easy running completed on 2026-10-14 by direct user report: felt truly easy, relaxed wandering route, effort at most 3/10. COROS activity `481034711318167856` now verifies completion at the 50-minute ceiling (five minutes above target). Subjective effort remained at most 3/10; the varied route is ordinary easy exposure, not a standardized RUN-E comparison. Completion alone does not establish delayed recovery.
+
+- Controlled-fast running completed on 2026-10-17 (COROS `481097628560424964`): all five 4-minute repetitions and full 15-minute warm-up verified; approximately four minutes easy after the last repetition rather than five. Work output was maintained through the fifth repetition, with rising heart rate; the third repetition's unusually fast recorded pace is not corroborated by power. Subjective effort/reserve and delayed response remain unreported. Do not repeat this key run in this cycle or place long running on the following day.
 
 ## Current restrictions and response rules
 
@@ -36,7 +38,6 @@ Confirmed by Danielius on 2026-10-11. Use target doses under normal readiness an
 
 | Order | Session | Target prescription | Success and ceiling |
 |---|---|---|---|
-| 3 | Controlled-fast run | 15 minutes easy warm-up; 5 x 4 minutes at RPE 6-7/10 with 2 minutes easy between; 5 minutes easy cooldown. | All five repetitions controlled with no finishing test. Maximum five work repetitions; reduce repetitions before shortening the warm-up. |
 | 4 | Speed swim | 1,700 m: 300 m easy; 4 x 200 m controlled with 20 seconds rest; 8 x 50 m fast at about RPE 8/10 with 30 seconds rest; 200 m easy. | Repeatable fast 50 m efforts with technique retained. No extra fast repetitions or compensatory distance. |
 | 5 | Long aerobic run | Target 65 minutes at RPE 3-4/10; maximum 70. | Continuous controlled running and normal subsequent recovery. Hold duration; do not extend in this first cycle. Actual calf recurrence defers long work; increasing symptoms stop running. |
 | 6 | Aerobic bike | Target 80 minutes at RPE 3-4/10; maximum 90. No intervals. | Stable aerobic effort, finish with reserve; no unplanned extension. |
