@@ -11,7 +11,7 @@ Last updated: 2026-10-17
 
 - Easy running completed on 2026-10-14 by direct user report: felt truly easy, relaxed wandering route, effort at most 3/10. COROS activity `481034711318167856` now verifies completion at the 50-minute ceiling (five minutes above target). Subjective effort remained at most 3/10; the varied route is ordinary easy exposure, not a standardized RUN-E comparison. Completion alone does not establish delayed recovery.
 
-- Controlled-fast running completed on 2026-10-17 (COROS `481097628560424964`): all five 4-minute repetitions and full 15-minute warm-up verified; approximately four minutes easy after the last repetition rather than five. Work output was maintained through the fifth repetition, with rising heart rate; the third repetition's unusually fast recorded pace is not corroborated by power. Subjective effort/reserve and delayed response remain unreported. Do not repeat this key run in this cycle or place long running on the following day.
+- Controlled-fast running completed on 2026-10-17 (COROS `481097628560424964`): all five 4-minute repetitions and full 15-minute warm-up verified; approximately four minutes easy after the last repetition rather than five. Work output was maintained through the fifth repetition, with rising heart rate; the third repetition's unusually fast recorded pace is not corroborated by power. Danielius reported a solid RPE 7/10 and one additional repetition in reserve, while expecting marked fatigue after a hypothetical sixth. The intended controlled dose was achieved by immediate execution and subjective criteria; delayed response remains unreported. Do not repeat this key run in this cycle or place long running on the following day.
 
 ## Current restrictions and response rules
 
