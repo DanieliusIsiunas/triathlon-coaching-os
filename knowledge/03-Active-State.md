@@ -1,17 +1,14 @@
 # Active State
 
-Last updated: 2026-10-17
+Last updated: 2026-10-18
 
 ## Current status
 
 - The second development block was confirmed on 2026-10-11 and begins with the next rolling cycle on 2026-10-12. The first-block closure findings remain in Learning Log L1/L2.
 - The confirmed replacement queue below supersedes the remaining 2026-10-05 queue. Missed items from the prior queue do not carry forward and are not a make-up obligation.
 - The 2026-10-11 controlled 5 km reference is completed and retained in L1; no repeat is due.
-- The first aerobic swim of this cycle was completed on 2026-10-13 (COROS activity `481008134058443151`). Danielius reported very relaxed, enjoyable swimming; recorded duration exceeded the prescribed 40 minutes by about 22 minutes. Immediate subjective ease does not establish delayed recovery. Do not add compensatory work.
-
-- Easy running completed on 2026-10-14 by direct user report: felt truly easy, relaxed wandering route, effort at most 3/10. COROS activity `481034711318167856` now verifies completion at the 50-minute ceiling (five minutes above target). Subjective effort remained at most 3/10; the varied route is ordinary easy exposure, not a standardized RUN-E comparison. Completion alone does not establish delayed recovery.
-
-- Controlled-fast running completed on 2026-10-17 (COROS `481097628560424964`): all five 4-minute repetitions and full 15-minute warm-up verified; approximately four minutes easy after the last repetition rather than five. Work output was maintained through the fifth repetition, with rising heart rate; the third repetition's unusually fast recorded pace is not corroborated by power. Danielius reported a solid RPE 7/10 and one additional repetition in reserve, while expecting marked fatigue after a hypothetical sixth. The intended controlled dose was achieved by immediate execution and subjective criteria; delayed response remains unreported. Do not repeat this key run in this cycle or place long running on the following day.
+- First-cycle aerobic swim, ordinary easy run and controlled-fast run are completed; bounded execution findings are retained in Learning Log L1/L2. Do not repeat them merely to complete a calendar week.
+- The 2026-10-17 key run met its immediate RPE 7/10 and one-repetition-reserve target; delayed subjective response remains unreported. No long running on 2026-10-18. The October 18 bike recommended within the existing queue is not recorded by weekly-review time; do not assume it was skipped or completed.
 
 ## Current restrictions and response rules
 
@@ -45,6 +42,8 @@ Confirmed by Danielius on 2026-10-11. Use target doses under normal readiness an
 The target cycle is approximately 5 hours 25 minutes. Minimum versions protect continuity when time/readiness is reduced; they are not the default under normal conditions.
 
 ## Monitoring and next decisions
+
+- Standard weekly review completed on 2026-10-18; block closure is not due. Retain the three remaining confirmed items rather than issuing a replacement cycle. Confirmed completed work is below the complete-cycle target; do not compress the remaining sessions to make up a calendar-week total. Current subjective recovery and actual available time remain unknown. Retain the long-run dose until its execution and subsequent recovery support progression.
 
 - First speed swim completed on 2026-10-08 with modified warm-up and uncertain total distance, reported fast-set RPE 8/10 and strong enjoyment. The confirmed speed swim retains the intended 1,700 m structure; do not compensate for the prior recording discrepancy.
 - The 2026-10-11 5 km reference is retained in L1 with comparability limits. It is an upper-ceiling fresh reference, not a threshold, 10 km forecast or proof of adaptation.
