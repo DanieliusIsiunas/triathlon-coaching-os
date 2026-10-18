@@ -8,7 +8,7 @@ Last updated: 2026-10-18
 - The confirmed replacement queue below supersedes the remaining 2026-10-05 queue. Missed items from the prior queue do not carry forward and are not a make-up obligation.
 - The 2026-10-11 controlled 5 km reference is completed and retained in L1; no repeat is due.
 - First-cycle aerobic swim, ordinary easy run and controlled-fast run are completed; bounded execution findings are retained in Learning Log L1/L2. Do not repeat them merely to complete a calendar week.
-- The 2026-10-17 key run met its immediate RPE 7/10 and one-repetition-reserve target; delayed subjective response remains unreported. No long running on 2026-10-18. The October 18 bike recommended within the existing queue is not recorded by weekly-review time; do not assume it was skipped or completed.
+- The 2026-10-17 key run met its immediate RPE 7/10 and one-repetition-reserve target; delayed subjective response remains unreported. Danielius confirmed on 2026-10-18 that the week was intentionally quieter because of sick children and work load, and that he would not ride that day. The remaining queue rolls into the next week without make-up compression.
 
 ## Current restrictions and response rules
 
@@ -31,7 +31,7 @@ Last updated: 2026-10-18
 
 ## Confirmed rolling session queue
 
-Confirmed by Danielius on 2026-10-11. Use target doses under normal readiness and availability; the queue is rolling rather than tied to weekdays.
+Confirmed by Danielius on 2026-10-11 and explicitly carried into the next week on 2026-10-18. Use target doses under normal readiness and availability; the queue is rolling rather than tied to weekdays.
 
 | Order | Session | Target prescription | Success and ceiling |
 |---|---|---|---|
@@ -43,7 +43,7 @@ The target cycle is approximately 5 hours 25 minutes. Minimum versions protect c
 
 ## Monitoring and next decisions
 
-- Standard weekly review completed on 2026-10-18; block closure is not due. Retain the three remaining confirmed items rather than issuing a replacement cycle. Confirmed completed work is below the complete-cycle target; do not compress the remaining sessions to make up a calendar-week total. Current subjective recovery and actual available time remain unknown. Retain the long-run dose until its execution and subsequent recovery support progression.
+- Standard weekly review completed on 2026-10-18; block closure is not due. Danielius clarified that sick children and work load reduced availability, so the lower exposure is explained by external constraints rather than evidence that the prescription was too small or too demanding. Retain the three remaining confirmed items into the next week without compression. Retain the long-run dose until its execution and subsequent recovery support progression.
 
 - First speed swim completed on 2026-10-08 with modified warm-up and uncertain total distance, reported fast-set RPE 8/10 and strong enjoyment. The confirmed speed swim retains the intended 1,700 m structure; do not compensate for the prior recording discrepancy.
 - The 2026-10-11 5 km reference is retained in L1 with comparability limits. It is an upper-ceiling fresh reference, not a threshold, 10 km forecast or proof of adaptation.
