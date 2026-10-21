@@ -1,6 +1,6 @@
 # Active State
 
-Last updated: 2026-10-18
+Last updated: 2026-10-21
 
 ## Current status
 
@@ -9,6 +9,8 @@ Last updated: 2026-10-18
 - The 2026-10-11 controlled 5 km reference is completed and retained in L1; no repeat is due.
 - First-cycle aerobic swim, ordinary easy run and controlled-fast run are completed; bounded execution findings are retained in Learning Log L1/L2. Do not repeat them merely to complete a calendar week.
 - The 2026-10-17 key run met its immediate RPE 7/10 and one-repetition-reserve target; delayed subjective response remains unreported. Danielius confirmed on 2026-10-18 that the week was intentionally quieter because of sick children and work load, and that he would not ride that day. The remaining queue rolls into the next week without make-up compression.
+
+- On 2026-10-21 Danielius reported an easy approximately 1,100 m swim completed on 2026-10-19 without a watch. Count this manual report in current-cycle exposure; duration and exact effort are unavailable. It does not establish completion of the prescribed speed set, and no compensatory distance is due.
 
 ## Current restrictions and response rules
 
