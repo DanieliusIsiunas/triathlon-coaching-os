@@ -1,6 +1,6 @@
 # Active State
 
-Last updated: 2026-10-21
+Last updated: 2026-10-25
 
 ## Current status
 
@@ -45,7 +45,7 @@ The target cycle is approximately 5 hours 25 minutes. Minimum versions protect c
 
 ## Monitoring and next decisions
 
-- Standard weekly review completed on 2026-10-18; block closure is not due. Danielius clarified that sick children and work load reduced availability, so the lower exposure is explained by external constraints rather than evidence that the prescription was too small or too demanding. Retain the three remaining confirmed items into the next week without compression. Retain the long-run dose until its execution and subsequent recovery support progression.
+- Standard weekly review completed on 2026-10-25; block closure is not due. Confirmed current-week exposure is one 50:03 easy run plus the manual approximately 1,100 m easy swim of unknown duration. The speed swim, 65-minute long run and aerobic bike are not confirmed complete; absence of records is not proof of rest. Live recovery signals improved while short-term load decreased, but current subjective readiness and the easy run's delayed response are unavailable. Retain the three confirmed queue items without compression or progression. Hold the long-run dose until execution and subsequent recovery support progression.
 
 - First speed swim completed on 2026-10-08 with modified warm-up and uncertain total distance, reported fast-set RPE 8/10 and strong enjoyment. The confirmed speed swim retains the intended 1,700 m structure; do not compensate for the prior recording discrepancy.
 - The 2026-10-11 5 km reference is retained in L1 with comparability limits. It is an upper-ceiling fresh reference, not a threshold, 10 km forecast or proof of adaptation.
