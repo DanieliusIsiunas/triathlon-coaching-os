@@ -1,6 +1,6 @@
 # Active State
 
-Last updated: 2026-10-25
+Last updated: 2026-10-27
 
 ## Current status
 
@@ -11,6 +11,8 @@ Last updated: 2026-10-25
 - The 2026-10-17 key run met its immediate RPE 7/10 and one-repetition-reserve target; delayed subjective response remains unreported. Danielius confirmed on 2026-10-18 that the week was intentionally quieter because of sick children and work load, and that he would not ride that day. The remaining queue rolls into the next week without make-up compression.
 
 - On 2026-10-21 Danielius reported an easy approximately 1,100 m swim completed on 2026-10-19 without a watch. Count this manual report in current-cycle exposure; duration and exact effort are unavailable. It does not establish completion of the prescribed speed set, and no compensatory distance is due.
+
+- On 2026-10-27 Danielius clarified that limited time reduced training over the preceding 7-8 days and explicitly requested a gradual return to routine. This is an availability interruption, not a reported illness or new injury. He completed a relaxed swim as his chosen first return session (COROS activity `481331813264949750`); exact subjective effort is unavailable. Count it as an easy swim, not completion of the speed set. Do not compensate for the interruption or automatically resume with the full 65-minute long run. Adapt the next running exposure to 30-40 minutes easy, without intervals, conditional on normal readiness; this does not establish full long-run tolerance. The existing confirmed block/queue remains the planning reference; no replacement week has been confirmed.
 
 ## Current restrictions and response rules
 
@@ -45,7 +47,7 @@ The target cycle is approximately 5 hours 25 minutes. Minimum versions protect c
 
 ## Monitoring and next decisions
 
-- Standard weekly review completed on 2026-10-25; block closure is not due. Confirmed current-week exposure is one 50:03 easy run plus the manual approximately 1,100 m easy swim of unknown duration. The speed swim, 65-minute long run and aerobic bike are not confirmed complete; absence of records is not proof of rest. Live recovery signals improved while short-term load decreased, but current subjective readiness and the easy run's delayed response are unavailable. Retain the three confirmed queue items without compression or progression. Hold the long-run dose until execution and subsequent recovery support progression.
+- The 2026-10-25 standard review retained the existing queue without progression. The 2026-10-27 clarification explains the recent exposure gap through limited time; apply the gradual-return adaptation above before returning to full quality/long doses. Block closure is not due. No make-up compression or new queue activation.
 
 - First speed swim completed on 2026-10-08 with modified warm-up and uncertain total distance, reported fast-set RPE 8/10 and strong enjoyment. The confirmed speed swim retains the intended 1,700 m structure; do not compensate for the prior recording discrepancy.
 - The 2026-10-11 5 km reference is retained in L1 with comparability limits. It is an upper-ceiling fresh reference, not a threshold, 10 km forecast or proof of adaptation.
