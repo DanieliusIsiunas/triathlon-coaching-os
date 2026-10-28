@@ -1,6 +1,6 @@
 # Active State
 
-Last updated: 2026-10-27
+Last updated: 2026-10-28
 
 ## Current status
 
@@ -12,7 +12,7 @@ Last updated: 2026-10-27
 
 - On 2026-10-21 Danielius reported an easy approximately 1,100 m swim completed on 2026-10-19 without a watch. Count this manual report in current-cycle exposure; duration and exact effort are unavailable. It does not establish completion of the prescribed speed set, and no compensatory distance is due.
 
-- On 2026-10-27 Danielius clarified that limited time reduced training over the preceding 7-8 days and explicitly requested a gradual return to routine. This is an availability interruption, not a reported illness or new injury. He completed a relaxed swim as his chosen first return session (COROS activity `481331813264949750`); exact subjective effort is unavailable. Count it as an easy swim, not completion of the speed set. Do not compensate for the interruption or automatically resume with the full 65-minute long run. Adapt the next running exposure to 30-40 minutes easy, without intervals, conditional on normal readiness; this does not establish full long-run tolerance. The existing confirmed block/queue remains the planning reference; no replacement week has been confirmed.
+- On 2026-10-27 Danielius clarified that limited time reduced training over the preceding 7-8 days and explicitly requested a gradual return to routine. This is an availability interruption, not a reported illness or new injury. He completed a relaxed swim as his chosen first return session (COROS activity `481331813264949750`); exact subjective effort is unavailable. Count it as an easy swim, not completion of the speed set. Do not compensate for the interruption or automatically resume with the full 65-minute long run. The adapted easy return run was completed on 2026-10-28 as a modified ordinary moderate run (COROS `481354847442993155`): 44:40 at reported RPE 5/10, exceeding the 40-minute ceiling. Danielius deliberately increased pace to pass and keep pace with another runner, and reported feeling excellent afterward. Count the actual moderate dose rather than a successful RPE-3 return protocol; immediate wellbeing does not establish delayed recovery or full long-run tolerance. Do not repeat the return run as make-up work or add fast/long running the following day; select rest or appropriately easy non-impact work according to current readiness. The existing confirmed block/queue remains the planning reference; no replacement week has been confirmed.
 
 ## Current restrictions and response rules
 
