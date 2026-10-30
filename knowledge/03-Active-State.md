@@ -1,6 +1,6 @@
 # Active State
 
-Last updated: 2026-10-28
+Last updated: 2026-10-30
 
 ## Current status
 
@@ -13,6 +13,8 @@ Last updated: 2026-10-28
 - On 2026-10-21 Danielius reported an easy approximately 1,100 m swim completed on 2026-10-19 without a watch. Count this manual report in current-cycle exposure; duration and exact effort are unavailable. It does not establish completion of the prescribed speed set, and no compensatory distance is due.
 
 - On 2026-10-27 Danielius clarified that limited time reduced training over the preceding 7-8 days and explicitly requested a gradual return to routine. This is an availability interruption, not a reported illness or new injury. He completed a relaxed swim as his chosen first return session (COROS activity `481331813264949750`); exact subjective effort is unavailable. Count it as an easy swim, not completion of the speed set. Do not compensate for the interruption or automatically resume with the full 65-minute long run. The adapted easy return run was completed on 2026-10-28 as a modified ordinary moderate run (COROS `481354847442993155`): 44:40 at reported RPE 5/10, exceeding the 40-minute ceiling. Danielius deliberately increased pace to pass and keep pace with another runner, and reported feeling excellent afterward. Count the actual moderate dose rather than a successful RPE-3 return protocol; immediate wellbeing does not establish delayed recovery or full long-run tolerance. Do not repeat the return run as make-up work or add fast/long running the following day; select rest or appropriately easy non-impact work according to current readiness. The existing confirmed block/queue remains the planning reference; no replacement week has been confirmed.
+
+- On 2026-10-30 Danielius chose an interval pool swim instead of the recommended easy bike because he strongly wanted to swim. COROS `481398363783200968` records 2,850 m over 70:51, with seven long repetitions (six recorded as 400 m and one as 450 m), separated by approximately 50-54 seconds. This is a materially larger endurance-interval exposure than the current speed-set design, not evidence that the prescribed 8 x 50 m speed work was completed. Subjective effort, intended fourth-repetition distance and delayed response remain unknown. Count meaningful swim work; do not automatically repeat quality swimming to clear a queue checkbox, add the missed bike on the same day, or progress load before reviewing effort and recovery.
 
 ## Current restrictions and response rules
 
