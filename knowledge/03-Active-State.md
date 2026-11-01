@@ -14,7 +14,7 @@ Last updated: 2026-11-01
 
 - During the 7-8 days before 2026-10-27, limited time interrupted training; Danielius explicitly requested a gradual return. This was an availability interruption, not a reported illness or new injury. From 2026-10-27 through 2026-10-30 he resumed with two swims and one run totaling 2:39:38 in COROS. The 2026-10-28 run became a deliberate ordinary-moderate 44:40 at RPE 5/10 rather than the intended easy return, and the 2026-10-30 swim became 2,850 m of long aerobic intervals at RPE 4-5/10. He felt very good after both. These reports support immediate tolerance and enjoyment, not delayed recovery, full-cycle repeatability or permission to progress load. Do not compensate for the interruption, repeat the modified speed-swim item to clear a checkbox, or infer capacity loss from the reduced week.
 
-- The 2026-10-30 meaningful swim exposure operationally closes the current speed-swim queue item despite not matching its prescribed 8 x 50 m design. The remaining confirmed work is the aerobic bike and long aerobic run. Because the return run was moderate rather than controlled easy and no subsequent run is recorded by the 2026-11-01 review, use a 45-minute RPE-3 easy run as the next running exposure before restoring the full 65-minute long-run target. This is a gradual-return adaptation within the confirmed block, not a replacement queue.
+- The 2026-10-30 meaningful swim exposure operationally closes the current speed-swim queue item despite not matching its prescribed 8 x 50 m design. On 2026-11-01 Danielius then ran 50:00 and 7.43 km on a hilly route he reported as very similar to the Jonava triathlon run course (102 m ascent, 144 m descent, 151 bpm average heart rate). This supplies the missing subsequent running exposure and useful race-terrain familiarity. RPE and delayed response are unreported, so it does not yet prove successful RPE-3 execution, uninterrupted long-run tolerance or readiness to restore/progress the original 65-minute target.
 ## Current restrictions and response rules
 
 - **Right calf:** tension during the 2026-10-02 long run settled after walking/slower running; resting pain was 0/10. Danielius reported the calf calm on 2026-10-05 and during/after the ordinary easy run on 2026-10-07. No anticipatory whole-discipline hold remains. Uninterrupted 70-minute tolerance remains unresolved; actual recurrence defers fast/long work and increasing symptoms stop running.
@@ -40,15 +40,15 @@ Confirmed by Danielius on 2026-10-11 and explicitly carried forward on 2026-10-1
 
 | Order | Session | Target prescription | Success and ceiling |
 |---|---|---|---|
-| 5 | Long aerobic run | Original target 65 minutes at RPE 3-4/10, maximum 70. Under the current gradual-return adaptation, first complete a controlled 45-minute easy run; then use 55-60 minutes with a 65-minute ceiling unless current readiness and response clearly support restoring the original target. | Continuous controlled running and normal subsequent recovery. Actual calf recurrence defers long work; increasing symptoms stop running. |
+| 5 | Long aerobic run | After a normal delayed response to the 2026-11-01 run, use 55-60 minutes at RPE 3-4/10 with a 65-minute ceiling. Do not restore the prior 70-minute ceiling in this cycle. | Continuous controlled running and normal subsequent recovery. Actual calf recurrence defers long work; increasing symptoms stop running. |
 | 6 | Aerobic bike | Target 80 minutes at RPE 3-4/10; maximum 90. No intervals. | Stable aerobic effort, finish with reserve; no unplanned extension. |
 
 Minimum versions protect continuity when time/readiness is reduced; they are not the default under normal conditions. No complete replacement queue is active.
 ## Monitoring and next decisions
 
-- The 2026-11-01 standard weekly review found three recorded sessions and 2:39:38 of work versus the 4-hour minimum and approximately 5:25 complete-cycle target. The shortfall is explained by Danielius's confirmed time constraint, not by reported overload or plan rejection. Immediate enjoyment and tolerance were favorable; delayed response after the 70:51 swim is not reported.
+- The revised 2026-11-01 standard weekly review includes four recorded sessions and 3:29:38 of work, still below the 4-hour minimum and approximately 5:25 complete-cycle target. The shortfall is explained by Danielius's confirmed time constraint, not by reported overload or plan rejection. The Jonava-like hilly run adds relevant terrain exposure, but its RPE and delayed response remain unavailable.
 - The block review remains due provisionally around 2026-11-08. Evidence is still insufficient to progress long-run duration: the current block has not established a repeatable three-run cycle, uninterrupted long-run tolerance or bike-to-run cost.
-- Preserve the gradual return: do not stack missed work. The next running exposure is controlled easy work; the remaining bike can move according to availability. A future complete replacement queue remains provisional until Danielius confirms it.
+- Preserve the gradual return and do not stack missed work. After a normal delayed response to the 2026-11-01 run, the remaining running item is 55-60 minutes with a 65-minute ceiling; the aerobic bike can move according to availability. A future complete replacement queue remains provisional until Danielius confirms it.
 - Bike-to-run cost remains unresolved. Consider BRICK-C only after stable execution and as a substitution, not an added seventh session.
 ## System validation checkpoint
 
