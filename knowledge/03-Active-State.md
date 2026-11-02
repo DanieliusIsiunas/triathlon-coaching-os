@@ -1,6 +1,6 @@
 # Active State
 
-Last updated: 2026-11-01
+Last updated: 2026-11-02
 
 ## Current status
 
@@ -45,6 +45,8 @@ Confirmed by Danielius on 2026-10-11 and explicitly carried forward on 2026-10-1
 
 Minimum versions protect continuity when time/readiness is reduced; they are not the default under normal conditions. No complete replacement queue is active.
 ## Monitoring and next decisions
+
+- On 2026-11-02 Danielius confirmed no indoor cycling setup and a substantial barrier to outdoor riding in cold weather; running and swimming remain feasible. Do not presume an indoor substitute or keep selecting the remaining bike as today's feasible default. He proposed a November-December cycling pause; a replacement swim/run structure is provisional pending confirmation. The existing queue is not marked completed, and no extra running or compensatory swim is automatically added. If adopted, reconcile the block's swim/bike-preservation requirement and defer BRICK-C until cycling resumes.
 
 - The revised 2026-11-01 standard weekly review includes four recorded sessions and 3:29:38 of work, still below the 4-hour minimum and approximately 5:25 complete-cycle target. The shortfall is explained by Danielius's confirmed time constraint, not by reported overload or plan rejection. The Jonava-like hilly run adds relevant terrain exposure, but its RPE and delayed response remain unavailable.
 - The block review remains due provisionally around 2026-11-08. Evidence is still insufficient to progress long-run duration: the current block has not established a repeatable three-run cycle, uninterrupted long-run tolerance or bike-to-run cost.
