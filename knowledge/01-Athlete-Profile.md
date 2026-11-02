@@ -1,6 +1,6 @@
 # Athlete Profile
 
-Last updated: 2026-10-07
+Last updated: 2026-11-02
 
 ## Identity and physiology
 
@@ -17,6 +17,7 @@ Last updated: 2026-10-07
 - Training availability changes and plans must tolerate moved, shortened, or missed sessions.
 - Prefer a rolling session queue over rigid weekday scheduling.
 - Weekday pool access is available.
+- Confirmed on 2026-11-02: no indoor cycling setup is available. Cold-weather outdoor cycling has a substantial motivation/practical barrier, while running and swimming remain acceptable. Danielius proposed removing required cycling for the next two months; the seasonal prescription change requires explicit adoption rather than assuming access to an indoor alternative.
 - Swimming is strongly preferred and additional swim frequency or occasional double-session days are acceptable when they improve the plan without displacing higher-priority work or recovery.
 - Running should generally remain at no more than three sessions per week unless explicitly reconsidered.
 - Current sustainable training allocation: 4 hours is the minimum complete week, about 5 hours is the normal target, and 6 hours is the normal maximum. Use the available budget for purposeful training rather than defaulting to fallback doses when readiness is favorable.
