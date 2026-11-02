@@ -1,12 +1,13 @@
 # Current Season
 
-Last updated: 2026-09-13
+Last updated: 2026-11-02
 
 ## Current phase
 
 - The 2026 triathlon race season is complete.
 - Post-race recovery after the 2026-09-05 Druskininkai Olympic-distance triathlon is complete for planning purposes.
-- The first confirmed development block runs from 2026-09-14 through 2026-10-11. Its live contract and rolling queue are owned by `knowledge/03-Active-State.md`.
+- The first development block ended on 2026-10-11. The current block contract and rolling queue are owned by `knowledge/03-Active-State.md`.
+- Confirmed on 2026-11-02: pause required cycling through 2026-12-31 because no indoor setup is available and cold-weather outdoor riding is impractical for Danielius. Use a running/swimming emphasis: up to three purposeful runs and two swims per complete rolling cycle, with an optional easy swim only when time and recovery support it. Do not replace bike minutes directly with extra running. Review practical fit after four weeks and cycling resumption by year-end; return cycling progressively when feasible. Bike-to-run testing is deferred during the pause. This is a temporary seasonal exception to maintaining all three sports, not abandonment of triathlon goals.
 
 ## 2026 season benchmark
 
@@ -74,7 +75,7 @@ Last updated: 2026-09-13
 ## Preliminary annual structure
 
 - September 2026: post-race recovery and transition.
-- October-December 2026: general running development, mechanics, speed reserve and tissue durability while maintaining swim and bike frequency; establish early Project 2:49 performance benchmarks in October-November.
+- October-December 2026: general running development, mechanics, speed reserve and tissue durability. The confirmed November-December adaptation retains swimming and pauses required cycling; restore cycling progressively afterward. Benchmark timing remains conditional on stable training, not a calendar deadline.
 - January-April 2027: marathon-specific durability with a weekly long-run progression and continued swim/bike maintenance.
 - May 2027: marathon recovery and gradual rebalancing toward triathlon.
 - June-September 2027: Olympic-distance triathlon season, subject to the official Lithuanian calendar.
@@ -83,7 +84,7 @@ Last updated: 2026-09-13
 
 - Confirm the 2027 Lithuanian Triathlon Cup calendar and select the four Olympic-distance stages.
 - Select the primary 2027 Olympic-distance race for Project 2:49.
-- Reconfirm whether the current 4-6 hour weekly allocation remains realistic before the winter and marathon-specific phases.
+- Observe actual feasible training over 2026-11-02 through approximately 2026-11-16 before reconfirming the historical 4-6-hour budget. No new fixed minimum/target/maximum has been confirmed.
 - Activate the appropriate benchmark below only after recovery, current data review and queue confirmation; establish individual repeatability before claiming a meaningful change or assigning new training paces.
 - Select the 2028 half-distance and 2029 full-distance events only after the 2027 season validates consistency and durability.
 
