@@ -1,6 +1,6 @@
 # Active State
 
-Last updated: 2026-11-02
+Last updated: 2026-11-04
 
 ## Current status
 
@@ -27,7 +27,7 @@ Last updated: 2026-11-02
 - **Status and timing:** confirmed on 2026-10-11; first recorded cycle exposure 2026-10-13. Normal closure review is due after four complete weeks, provisionally around 2026-11-08, or earlier if a safety/recovery trigger changes the decision.
 - **Identity:** Repeatable running durability within a stable multisport load.
 - **Primary capability and investigations:** Make up to three purposeful running exposures per rolling cycle repeatable without disruptive fatigue while retaining swimming. Required cycling is paused through 2026-12-31 under the seasonal adaptation confirmed on 2026-11-02. L1 fresh-running capacity and bike-to-run cost is primary; L2 prescription fit is secondary.
-- **Intervention/exposure:** Confirmed seasonal structure from 2026-11-02: up to three runs (easy, controlled quality, long aerobic) and two swims (aerobic and speed/technique) per complete rolling cycle; an additional easy swim is optional only if actual time, priorities and recovery support it. Required cycling is paused through 2026-12-31 and its minutes are not transferred directly to running. The historical 4-6-hour budget is under observation through approximately 2026-11-16; there is no binding hourly minimum or assumed target availability during this calibration. Retain the established easy/controlled-quality dose rather than escalating it automatically; the current gradual-return long-run prescription is 55-60 minutes with a 65-minute ceiling, as specified in the remaining queue below. Quality running resumes only when actual recent execution and current readiness support it.
+- **Intervention/exposure:** Confirmed seasonal structure from 2026-11-02: up to three runs (easy, controlled quality, long aerobic) and two swims (aerobic and speed/technique) per complete rolling cycle; an additional easy swim is optional only if actual time, priorities and recovery support it. Required cycling is paused through 2026-12-31 and its minutes are not transferred directly to running. The historical 4-6-hour budget is under observation through approximately 2026-11-16; there is no binding hourly minimum or assumed target availability during this calibration. Retain the established easy/controlled-quality dose rather than escalating it automatically; the 2026-11-04 long run reached the existing 65-minute ceiling at reported RPE 4/10 with plenty of reserve. Hold 65 minutes as the current ceiling until delayed response and subsequent-session quality support a planned increase. Quality running resumes only when actual recent execution and current readiness support it.
 - **Expected observable response:** Complete the intended cycle with stable easy-running control, an uninterrupted long run, preserved quality in the next key session, no disruptive fatigue or reported symptom worsening, and acceptable enjoyment/family fit. During November 2-16, evaluate repeatability against actual available time rather than the former fixed hourly budget.
 - **Benchmark/comparison plan:** The 5 km result is the fresh reference and is not repeated in this block. BRICK-C is deferred during the confirmed cycling pause. Reconsider after cycling has resumed progressively and a comparison would change a decision; it remains a substitution in a confirmed queue, not extra volume.
 - **Progression rule:** Progress only one meaningful running variable. After the current long-run dose and subsequent recovery are tolerated, the preferred next step is 5-10 minutes of long-run duration while interval pace and volume remain unchanged. Hold or repeat when recovery, execution or symptoms make the evidence noisy.
@@ -38,13 +38,13 @@ Last updated: 2026-11-02
 
 Confirmed by Danielius on 2026-10-11 and explicitly carried forward on 2026-10-18. The 2026-10-30 modified long-interval swim supplied meaningful swim work and is not repeated to clear the speed-set checkbox. The remaining confirmed items are rolling rather than tied to weekdays.
 
-| Order | Session | Target prescription | Success and ceiling |
-|---|---|---|---|
-| 5 | Long aerobic run | After a normal delayed response to the 2026-11-01 run, use 55-60 minutes at RPE 3-4/10 with a 65-minute ceiling. Do not restore the prior 70-minute ceiling in this cycle. | Continuous controlled running and normal subsequent recovery. Actual calf recurrence defers long work; increasing symptoms stop running. |
+The last remaining long aerobic run was completed on 2026-11-04. No item remains from that carried-forward queue; do not repeat it as make-up work.
 
 
-The November-December swim/run structure is confirmed on 2026-11-02. Required cycling is removed, not marked completed, and no make-up work is due. Retain the remaining long run above rather than restarting already completed work. Subsequent cycles use the confirmed easy/quality/long run plus aerobic/speed swim structure; set operational doses from current readiness and actual time, with existing running ceilings retained until supported progression. Optional swimming cannot displace recovery or priority running. The historical hourly budget is being observed, not enforced.
+The November-December swim/run structure is confirmed on 2026-11-02. Required cycling is removed, not marked completed, and no make-up work is due. The carried-forward long run is completed; use the confirmed seasonal structure for subsequent work without restarting completed items merely for calendar alignment. Subsequent cycles use the confirmed easy/quality/long run plus aerobic/speed swim structure; set operational doses from current readiness and actual time, with existing running ceilings retained until supported progression. Optional swimming cannot displace recovery or priority running. The historical hourly budget is being observed, not enforced.
 ## Monitoring and next decisions
+
+- On 2026-11-04 Danielius completed the remaining long aerobic run (COROS `481520312398152381`): 65:00 and 10.13 km. He reported an easy feel, RPE 4/10 and plenty of reserve. Duration reached the prescribed ceiling rather than exceeding it; this supports immediate aerobic-dose tolerance. Delayed response and uninterrupted tissue tolerance are not independently established by the activity summary. Do not require routine calf/shoulder reassurance or automatically progress duration on this immediate report alone.
 
 - On 2026-11-02 Danielius completed 5 x 400 m (COROS `481469207658135557`), confirmed as 2,000 m over 49:51 with roughly 51-56-second rests and no late pace deterioration. Count as completed endurance-interval swimming in the winter swim/run exposure; it is not the short-speed swim protocol. Danielius confirmed RPE 4/10 and reserve at the finish. Together with stable repeat pace, this supports controlled aerobic endurance work and immediate dose tolerance; delayed recovery and adaptation are not yet established. Do not automatically increase the next dose. No routine shoulder/calf reassurance is required.
 
@@ -52,7 +52,7 @@ The November-December swim/run structure is confirmed on 2026-11-02. Required cy
 
 - The revised 2026-11-01 standard weekly review includes four recorded sessions and 3:29:38 of work, below the then-current 4-hour minimum and approximately 5:25 complete-cycle target; those historical hours are not a binding commitment during the newly confirmed November calibration. The shortfall is explained by Danielius's confirmed time constraint, not by reported overload or plan rejection. The Jonava-like hilly run adds relevant terrain exposure, but its RPE and delayed response remain unavailable.
 - The block review remains due provisionally around 2026-11-08. Evidence is still insufficient to progress long-run duration: the current block has not established a repeatable three-run cycle, uninterrupted long-run tolerance or bike-to-run cost.
-- Preserve the gradual return and do not stack missed work. After a normal delayed response to the 2026-11-01 run, the remaining running item is 55-60 minutes with a 65-minute ceiling; required cycling is removed under the confirmed seasonal adaptation. No extra run or same-day compensation is added.
+- The carried-forward long run is completed. Preserve recovery spacing: no demanding lower-body session on the following day and no same-day extra running. Required cycling remains removed under the confirmed seasonal adaptation.
 - Bike-to-run cost remains unresolved and its measurement is deferred during the cycling pause. This is missing evidence, not a failed comparison.
 ## System validation checkpoint
 
