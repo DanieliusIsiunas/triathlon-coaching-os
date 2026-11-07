@@ -1,6 +1,6 @@
 # Active State
 
-Last updated: 2026-11-04
+Last updated: 2026-11-07
 
 ## Current status
 
@@ -43,6 +43,8 @@ The last remaining long aerobic run was completed on 2026-11-04. No item remains
 
 The November-December swim/run structure is confirmed on 2026-11-02. Required cycling is removed, not marked completed, and no make-up work is due. The carried-forward long run is completed; use the confirmed seasonal structure for subsequent work without restarting completed items merely for calendar alignment. Subsequent cycles use the confirmed easy/quality/long run plus aerobic/speed swim structure; set operational doses from current readiness and actual time, with existing running ceilings retained until supported progression. Optional swimming cannot displace recovery or priority running. The historical hourly budget is being observed, not enforced.
 ## Monitoring and next decisions
+
+- On 2026-11-07 Danielius chose an exploratory pool swim with varied distances/speeds, including deliberate 25 m speed trials, and reported enjoyment (COROS `481589292525715458`). Recorded exposure is 2,100 m over 59:25. Device manual groups are 900 m plus 3 x 400 m, not a reliable map of each intended short speed trial; the 25 m length record can describe speed variation but does not prove a standardized speed-set completion or a new sustainable base pace. Overall RPE and finish reserve remain unreported. Count meaningful mixed-speed swim exposure and do not repeat a quality swim merely for checklist completion.
 
 - On 2026-11-04 Danielius completed the remaining long aerobic run (COROS `481520312398152381`): 65:00 and 10.13 km. He reported an easy feel, RPE 4/10 and plenty of reserve. Duration reached the prescribed ceiling rather than exceeding it; this supports immediate aerobic-dose tolerance. Delayed response and uninterrupted tissue tolerance are not independently established by the activity summary. Do not require routine calf/shoulder reassurance or automatically progress duration on this immediate report alone.
 
