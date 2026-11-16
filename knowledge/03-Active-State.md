@@ -1,14 +1,16 @@
 # Active State
 
-Last updated: 2026-11-09
+Last updated: 2026-11-17
 
 ## Current status
 
 - The second development block was closed at its due review on 2026-11-08; durable conclusions are retained in Learning Log L1/L2.
-- Danielius confirmed the replacement block and detailed rolling queue on 2026-11-09. The block is confirmed for planning; its actual start is the first completed session after confirmation. Current subjective readiness still governs each consequential session.
+- Danielius confirmed the replacement block and detailed rolling queue on 2026-11-09. The first completed post-confirmation exposure was the 2026-11-16 easy pool swim, establishing actual block start on that date. Current subjective readiness still governs each consequential session.
 - The confirmed November-December seasonal structure remains in force: required cycling is paused through 2026-12-31; use up to three purposeful runs and two swims per complete rolling cycle, with an optional easy swim only when time and recovery support it. Cycling minutes are not transferred directly to running.
 - No fixed winter hourly budget is active. Continue observing actual availability through approximately 2026-11-16 before reconfirming a minimum, target and maximum. This does not invalidate the confirmed session queue.
 ## Current restrictions and response rules
+
+- **Great toe / return context:** On 2026-11-17 Danielius explained that a great-toe injury had interrupted training and reported that it is now fine; side, injury type and impact tolerance are unconfirmed. He chose easy swimming rather than the prescribed easy run as a gradual return. This supports the interruption's reported cause, not poor plan adherence. Easy swimming does not yet establish running tolerance; defer fast/long running until an easy running exposure and subsequent response are acceptable. Respond to renewed toe pain or altered gait without inferring a diagnosis.
 
 - **Right calf:** the 2026-10-02 tension settled after walking/slower running and later reports were calm. No anticipatory discipline-wide hold remains. Actual recurrence defers fast/long work; increasing symptoms stop running.
 - **Calf and shoulder:** do not ask routine or repeated status questions. Danielius reports changes. Respond to actual worsening or new focal/progressive pain, altered gait, night pain, weakness or meaningful loss of motion.
@@ -17,7 +19,7 @@ Last updated: 2026-11-09
 
 ## Current block contract
 
-- **Status and timing:** confirmed on 2026-11-09; actual start is the first completed post-confirmation session. Normal closure is due four weeks after actual start, provisionally around 2026-12-07 if exposure begins during the week of November 9. Review earlier only if the 2026-11-16 availability calibration or a safety/recovery trigger materially changes the decision.
+- **Status and timing:** confirmed on 2026-11-09; actual start 2026-11-16, established by a recorded easy swim and Danielius's report. Normal closure is due four weeks later, around 2026-12-14. Review earlier only if the 2026-11-16 availability calibration or a safety/recovery trigger materially changes the decision.
 - **Identity:** Running repeatability under the seasonal run/swim emphasis.
 - **Primary capability and investigations:** Complete a repeatable three-run cycle with preserved subsequent-session quality. L2 prescription/exposure fit is primary; L1 running durability remains secondary. Bike-to-run cost is deferred during the confirmed cycling pause.
 - **Intervention/exposure:** Three runs and two swims per complete rolling cycle, plus an optional easy swim only when it does not displace priority work or recovery. No fixed hourly minimum/target/maximum is assigned before the availability calibration.
@@ -39,11 +41,11 @@ Confirmed by Danielius on 2026-11-09. The queue is flexible rather than tied to 
 | 5 | Speed/technique swim | 200 m easy; 8 x 50 m at RPE 7/10 with an easy 50 m after each repetition; easy finish. | Repeatable faster lengths with technique retained; no extra fast repetitions. |
 | 6 | Optional easy swim | Easy continuous or simple relaxed repetitions only when time and recovery support it. | Must not displace recovery or any priority session; remove first when availability is limited. |
 
-The listed order defines the rolling cycle, not mandatory consecutive-day execution. After the 2026-11-08 fast-finishing run, use rest or easy swimming before another demanding run unless current subjective readiness clearly supports otherwise.
+The listed order defines the rolling cycle, not mandatory consecutive-day execution. The aerobic swim purpose was completed in a shortened gradual-return form on 2026-11-16 (COROS activity `481799369041936384`), reported easy; do not repeat it merely for checklist completion. The next running decision is easy work, gated by current readiness and toe response, before quality or long running.
 ## Monitoring and next decisions
 
 - Complete the availability-budget calibration around 2026-11-16 using actual time, execution, enjoyment and recovery. Do not diagnose undertraining from the historical 4-6-hour budget alone.
-- Record the actual block start when the first post-confirmation session is completed. One complete cycle and delayed response are required before progressing a running variable.
+- Actual block start is 2026-11-16. One complete cycle and delayed response are required before progressing a running variable.
 - Review the practical fit of the cycling pause around 2026-11-30 and cycling resumption by year-end.
 - Current COROS recovery/load on 2026-11-09 does not show an objective worsening cluster, but it does not establish pain, illness, energy or soreness. Use the normal subjective gate before the next consequential run.
 - COROS retains activity detail. Absence of a record is not proof of rest or absence of an unrecorded session.
