@@ -1,6 +1,6 @@
 # Active State
 
-Last updated: 2026-11-22
+Last updated: 2026-11-23
 
 ## Current status
 
@@ -37,13 +37,12 @@ Confirmed by Danielius on 2026-11-09. The queue is flexible rather than tied to 
 | 1 | Easy aerobic run | 40-45 minutes at RPE 3/10. | Conversational, controlled easy gear; maximum 50 minutes, with no progressive finish or chasing other runners. |
 | 2 | Controlled-quality run | 15 minutes easy; 5 x 4 minutes at RPE 6-7/10 with 2 minutes easy between; 5 minutes easy cooldown. | All five repetitions controlled with reserve and no finishing test; maximum five work repetitions. |
 | 3 | Long aerobic run | 60-65 minutes at RPE 3-4/10. | Continuous controlled running with normal subsequent recovery; maximum 65 minutes. |
-| 4 | Speed/technique swim | 200 m easy; 8 x 50 m at RPE 7/10 with an easy 50 m after each repetition; easy finish. | Repeatable faster lengths with technique retained; no extra fast repetitions. |
-| 5 | Optional easy swim | Easy continuous or simple relaxed repetitions only when time and recovery support it. | Must not displace recovery or any priority session; remove first when availability is limited. |
+| 4 | Optional easy swim | Easy continuous or simple relaxed repetitions only when time and recovery support it. | Must not displace recovery or any priority session; remove first when availability is limited. |
 
-The listed order defines the rolling cycle, not mandatory consecutive-day execution. The aerobic swim purpose was completed in a shortened gradual-return form on 2026-11-16 (COROS activity `481799369041936384`), reported easy, and has been removed from the pending queue. The next running decision is easy work, gated by current readiness and toe response, before quality or long running.
+The listed order defines the rolling cycle, not mandatory consecutive-day execution. The aerobic swim purpose was completed in a shortened gradual-return form on 2026-11-16 (COROS activity `481799369041936384`), reported easy, and has been removed from the pending queue. The speed/technique swim purpose was completed in modified form on 2026-11-23 (COROS activity `481958289276436580`): mixed faster/easier lengths rather than the exact 8 x 50 m structure; Danielius reported RPE 5/10 with reserve. Do not repeat it for checklist completion. The next running decision is easy work, gated by current readiness and toe response, before quality or long running.
 ## Monitoring and next decisions
 
-- Availability-budget calibration remains open: the injury-confounded period and one 36:50 swim do not establish feasible minimum, target or maximum hours. Use actual time, execution, enjoyment and recovery from the next complete exposure window.
+- Availability-budget calibration remains open: the injury-confounded period and limited swimming exposure do not establish feasible minimum, target or maximum hours. Use actual time, execution, enjoyment and recovery from the next complete exposure window.
 - Actual block start is 2026-11-16. One complete cycle and delayed response are required before progressing a running variable.
 - Review the practical fit of the cycling pause around 2026-11-30 and cycling resumption by year-end.
 - COROS retains activity detail. Absence of a record is not proof of rest or absence of an unrecorded session.
